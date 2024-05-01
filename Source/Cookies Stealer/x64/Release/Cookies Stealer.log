@@ -1,0 +1,32 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  ChromeCookies.cpp
+C:\Users\vuong\source\repos\Cookies Stealer\Cookies Stealer\Base64.h(88,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ChromeCookies.cpp')
+  
+C:\Users\vuong\source\repos\Cookies Stealer\Cookies Stealer\Base64.h(99,56): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+  (compiling source file 'ChromeCookies.cpp')
+  
+C:\Users\vuong\source\repos\Cookies Stealer\Cookies Stealer\Base64.h(116,52): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+  (compiling source file 'ChromeCookies.cpp')
+  
+C:\Users\vuong\source\repos\Cookies Stealer\Cookies Stealer\ChromeCookies.cpp(99,23): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\vuong\source\repos\Cookies Stealer\Cookies Stealer\Base64.h(88,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\vuong\source\repos\Cookies Stealer\Cookies Stealer\Base64.h(99,56): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\vuong\source\repos\Cookies Stealer\Cookies Stealer\Base64.h(116,52): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
+C:\Users\vuong\source\repos\Cookies Stealer\Cookies Stealer\FileOperator.hpp(45): warning C4715: 'ReadFile2Buffer': not all control paths return a value
+cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  cJSON.c
+  cJSON_Utils.c
+  sqlite3.c
+  Generating Code...
+     Creating library C:\Users\vuong\source\repos\Cookies Stealer\x64\Release\Cookies Stealer.lib and object C:\Users\vuong\source\repos\Cookies Stealer\x64\Release\Cookies Stealer.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  Cookies Stealer.vcxproj -> C:\Users\vuong\source\repos\Cookies Stealer\x64\Release\Cookies Stealer.exe

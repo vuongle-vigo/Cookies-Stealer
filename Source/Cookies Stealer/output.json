@@ -1,0 +1,5311 @@
+{
+	"host_key":	".google.com",
+	"name":	"1P_JAR",
+	"path":	"/",
+	"expires_utc":	"13360835313321040",
+	"value":	"2024-04-22-07"
+}{
+	"host_key":	".google.com",
+	"name":	"AEC",
+	"path":	"/",
+	"expires_utc":	"13373795312220525",
+	"value":	"AQTF6HwjcF43MGQt2ejcCXlwrqjk1nQXo9tS97PWQ4TSWl4X5DHTKGdMMQ"
+}{
+	"host_key":	".google.com",
+	"name":	"NID",
+	"path":	"/",
+	"expires_utc":	"13374054513902557",
+	"value":	"513=R5gYwVG3ApOdA671yf_hH0Pv-rd2sbq_cPiVW8JPVgOtVyo8EJSVIbtpP_WvHuLfyhDK4vnpzXhY7h4heErab2a5p_0Do253gpiL25Jokb1Y4BSKa3_Mm7GQbYqR-Wxx90xsNrbi1GT1Wf99I2n8W3e7CMX50Zw4_xukrC_JGSbhXXVC2rPY_PF45s4VdvVII9lZqQ"
+}{
+	"host_key":	".google.com",
+	"name":	"OGPC",
+	"path":	"/",
+	"expires_utc":	"13360835313000000",
+	"value":	"19037049-1:"
+}{
+	"host_key":	"ogs.google.com",
+	"name":	"OTZ",
+	"path":	"/",
+	"expires_utc":	"13360835313000000",
+	"value":	"7524429_28_28__28_"
+}{
+	"host_key":	"www.perplexity.ai",
+	"name":	"pplx.visitor-id",
+	"path":	"/",
+	"value":	"d9d06316-6f67-40d7-9f7e-8ba9cd928959",
+	"expires_utc":	"1743695064"
+}{
+	"host_key":	"api.hcaptcha.com",
+	"name":	"hmt_id",
+	"path":	"/",
+	"value":	"95b38bb1-f06c-483f-8485-7caa1c7e5a88",
+	"expires_utc":	"1714751092"
+}{
+	"host_key":	"www.mermaidchart.com",
+	"name":	"ANON_ID",
+	"path":	"/",
+	"value":	"2af5c999-fd4a-474e-9d42-b7fe10c138a7",
+	"expires_utc":	"1830211200"
+}{
+	"host_key":	".mermaidchart.com",
+	"name":	"_gcl_au",
+	"path":	"/",
+	"value":	"1.1.20954732.1712202954",
+	"expires_utc":	"1719978953"
+}{
+	"host_key":	"www.mermaidchart.com",
+	"name":	"CookieConsent",
+	"path":	"/",
+	"value":	"{stamp:%27-1%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cmethod:%27implied%27%2Cver:1%2Cutc:1712202953947%2Cregion:%27VN%27}",
+	"expires_utc":	"1714794953"
+}{
+	"host_key":	".mermaidchart.com",
+	"name":	"mp_295168446303daf7afc247f43897a6a6_mixpanel",
+	"path":	"/",
+	"value":	"%7B%22distinct_id%22%3A%20%22%22%2C%22%24device_id%22%3A%20%2218ea73fb4e2b46-021800b9d24ce58-e515624-144000-18ea73fb4e2b47%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpr%22%3A%20%5B%5D%2C%22__mpap%22%3A%20%5B%5D%7D",
+	"expires_utc":	"1743738953"
+}{
+	"host_key":	".mermaidchart.com",
+	"name":	"_hjSessionUser_3821250",
+	"path":	"/",
+	"value":	"eyJpZCI6ImExMGVjNWUxLWE4ZjEtNWY5NS05NmUwLWQ0OTVlNmNlNzRhYSIsImNyZWF0ZWQiOjE3MTIyMDI5NTQ3NDUsImV4aXN0aW5nIjpmYWxzZX0=",
+	"expires_utc":	"1743738954"
+}{
+	"host_key":	".mermaidchart.com",
+	"name":	"_hjSession_3821250",
+	"path":	"/",
+	"value":	"eyJpZCI6ImJjYmZmMjgyLTU0YmEtNGU5Zi05OGJiLWE4Y2QzZGFhZmNhZSIsImMiOjE3MTIyMDI5NTQ3NDUsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=",
+	"expires_utc":	"1712204754"
+}{
+	"host_key":	".perplexity.ai",
+	"name":	"intercom-session-l2wyozh0",
+	"path":	"/",
+	"value":	"WmxpdXhXNWlyN2xpTWd0Ymw1eU5aMEs2Mko3MVAya2Ixdm5ZZkpOdSs2YUo3dWtNZWJEenllcWFVYy9MN2llVy0tVGtMQ2Ixek1BVVhBb093RjFTVEMyZz09--65a5b372c6b66133e2691539f3b8d996a96695f9",
+	"expires_utc":	"1712834519"
+}{
+	"host_key":	".perplexity.ai",
+	"name":	"intercom-device-id-l2wyozh0",
+	"path":	"/",
+	"value":	"f367497b-3bdf-4afa-a415-5f46c80dda0d",
+	"expires_utc":	"1735559719"
+}{
+	"host_key":	".google.com",
+	"name":	"GOOGLE_ABUSE_EXEMPTION",
+	"path":	"/",
+	"value":	"ID=92f0c52a126c5986:TM=1712410443:C=r:IP=14.191.165.57-:S=2Npr5y1ysFo8WxjF3qXeG8c",
+	"expires_utc":	"1712421243"
+}{
+	"host_key":	"www.winzip.com",
+	"name":	"source_id_asp",
+	"path":	"/",
+	"value":	"asp3-xx-seo",
+	"expires_utc":	"1715002441"
+}{
+	"host_key":	".winzip.com",
+	"name":	"optimizelyEndUserId",
+	"path":	"/",
+	"value":	"oeu1712410442538r0.5091500032829094",
+	"expires_utc":	"1727962442"
+}{
+	"host_key":	"www.winzip.com",
+	"name":	"_omappvp",
+	"path":	"/",
+	"value":	"yvB8GY6eyNTD7KarCTItb5dART1MlqMdyMyb3XY3dpi74JvMaVQO0PdSSPBR5flGZBHx7RB6DxrUDogrdpjkhWtumcpF4xXG",
+	"expires_utc":	"2057924044"
+}{
+	"host_key":	"www.winzip.com",
+	"name":	"_omappvs",
+	"path":	"/",
+	"value":	"1712410444141",
+	"expires_utc":	"1712411644"
+}{
+	"host_key":	".winzip.com",
+	"name":	"_mkto_trk",
+	"path":	"/",
+	"value":	"id:280-QDK-215&token:_mch-winzip.com-1712410444928-34097",
+	"expires_utc":	"1775482444"
+}{
+	"host_key":	".winzip.com",
+	"name":	"_fbp",
+	"path":	"/",
+	"value":	"fb.1.1712410445379.1507460665",
+	"expires_utc":	"1720186445"
+}{
+	"host_key":	".winzip.com",
+	"name":	"OptanonConsent",
+	"path":	"/",
+	"value":	"isGpcEnabled=0&datestamp=Sat+Apr+06+2024+20%3A39%3A39+GMT%2B0700+(Indochina+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&consentId=1d7b0943-7e44-4d12-96db-94ba07fc4fd3&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fwww.winzip.com%2Fen%2F&groups=C0002%3A1%2CC0003%3A1%2CC0001%3A1%2CC0004%3A1&hosts=H177%3A1%2CH184%3A1%2CH29%3A1%2CH176%3A1%2CH45%3A1%2CH21%3A1%2CH88%3A1%2CH257%3A1%2CH92%3A1%2CH151%3A1%2CH7%3A1%2CH263%3A1%2CH8%3A1%2CH268%3A1%2CH14%3A1%2CH19%3A1%2CH51%3A1%2CH22%3A1%2CH264%3A1%2CH110%3A1%2CH27%3A1&genVendors=",
+	"expires_utc":	"1743946779"
+}{
+	"host_key":	".google.com",
+	"name":	"ANID",
+	"path":	"/",
+	"value":	"AHWqTUkFAi4CpVXwSfFsrLCkSVysOKi2fkZw7HtNKsawqosEv80lFkmsacpLh57a",
+	"expires_utc":	"1775551093"
+}{
+	"host_key":	"12ezo5v60.com",
+	"name":	"CHCK",
+	"path":	"/",
+	"value":	"1",
+	"expires_utc":	"1746952801"
+}{
+	"host_key":	"12ezo5v60.com",
+	"name":	"UID",
+	"path":	"/",
+	"value":	"2404070340b408f648a26a48d3ab89df131a",
+	"expires_utc":	"1746952801"
+}{
+	"host_key":	"xszpuvwr7.com",
+	"name":	"CHCK",
+	"path":	"/",
+	"value":	"1",
+	"expires_utc":	"1746952801"
+}{
+	"host_key":	"t7cp4fldl.com",
+	"name":	"CHCK",
+	"path":	"/",
+	"value":	"1",
+	"expires_utc":	"1746952801"
+}{
+	"host_key":	"viet69.info",
+	"name":	"__PPU_tuid",
+	"path":	"/",
+	"value":	"7355042163404892603",
+	"expires_utc":	"1712482741"
+}{
+	"host_key":	"t7cp4fldl.com",
+	"name":	"UID",
+	"path":	"/",
+	"value":	"2404070340990af52299954d32b1af2bc441",
+	"expires_utc":	"1746952801"
+}{
+	"host_key":	"xszpuvwr7.com",
+	"name":	"UID",
+	"path":	"/",
+	"value":	"24040703401cb18517709540b6a5615d546f",
+	"expires_utc":	"1746952801"
+}{
+	"host_key":	".texttools.org",
+	"name":	"__gads",
+	"path":	"/",
+	"value":	"ID=d091f0a2af3b9882:T=1712564694:RT=1712564694:S=ALNI_MYYCbxmHD55UGGBv83NAitf62-pbQ",
+	"expires_utc":	"1746260694"
+}{
+	"host_key":	".texttools.org",
+	"name":	"__gpi",
+	"path":	"/",
+	"value":	"UID=00000de408a0caca:T=1712564694:RT=1712564694:S=ALNI_MZC2tBM-t31K00w8LIEQcRwZy8ndw",
+	"expires_utc":	"1746260694"
+}{
+	"host_key":	".texttools.org",
+	"name":	"__eoi",
+	"path":	"/",
+	"value":	"ID=c0f5fa04d6e0288e:T=1712564694:RT=1712564694:S=AA-AfjYhxIMAv7MnheWdfbUaaTSb",
+	"expires_utc":	"1728116694"
+}{
+	"host_key":	".texttools.org",
+	"name":	"FCNEC",
+	"path":	"/",
+	"value":	"%5B%5B%22AKsRol-L2LCEBGTCmCW7Kicy9awJlAT6FN_9EeHEYMVwEZL_Q-YrCX3UFw0c5IiZ6tSXlw0dWCLn53Z2yV54wDTEVbopJRQC1w3VbxBDrDTvntbnRfqdax4sUaCNWxtmrl6g7-e4O0eD67imhBYHzouHEuG4fgBHzg%3D%3D%22%5D%5D",
+	"expires_utc":	"1744100696"
+}{
+	"host_key":	".lastpass.com",
+	"name":	"origin_v2",
+	"path":	"/",
+	"value":	"utm_source=&utm_content=&mcomb=&referral=www.google.com&Created_At=1712564766&GA_id=",
+	"expires_utc":	"2028097566"
+}{
+	"host_key":	"www.lastpass.com",
+	"name":	"__ab_24b88587-71f1-4a7b-8ecb-16de3de76181",
+	"path":	"/",
+	"value":	"e1416e3c-c00d-4bdc-af50-3a4d72962bc1",
+	"expires_utc":	"1715156766"
+}{
+	"host_key":	"www.lastpass.com",
+	"name":	"__ab_0c44c550-95a8-466f-a125-66051739e5f5",
+	"path":	"/",
+	"value":	"26fb333c-c656-4a3d-9fee-be73f02071bb",
+	"expires_utc":	"1715156766"
+}{
+	"host_key":	".lastpass.com",
+	"name":	"ak_bmsc",
+	"path":	"/",
+	"value":	"F5330E88A4C93F78F6516482413707BC~000000000000000000000000000000~YAAQiwwVAiz3/JmOAQAASonQvBdhZc/jL/WTFChW9Cvvpzbp0uk8RkPGfC+6YWG9CpuKBFKTg8d5JqU0G6vjZ/SYTRH+tIo5q1SthThfoNVuO8XvmgdYYQSjSindXRbcZxNj/36gf5BUJH2Y++ES4teEb29Z4ORBvqVAfm+N6CLH2qIvjeA9QJ4yLQ3gWUk6kxSBTemFm9iWfnXEAEz8AIzdAoRKgjpm9hcq0QDCLhGe4yETjZV+Jk1myC4iFXu1UdGind30MeCkuFh0OWL8wQQDp2B19/uwqmBMrFY6GPQ1lHDdTa1kQPW5mEnG8XLIzXTqJGKjk9y9eJBCHwybh6McJGm9xe5iRed8xiuo8iTOdLNU6YCuZ5evfAGvL5RY8ruSUZCRwqoZawOq",
+	"expires_utc":	"1712571965"
+}{
+	"host_key":	".cdn.lputil.com",
+	"name":	"TAsessionID",
+	"path":	"/",
+	"value":	"979c263c-ecfc-4e32-92c8-99a3ec066834|NEW",
+	"expires_utc":	"1712566570"
+}{
+	"host_key":	"cdn.lputil.com",
+	"name":	"drift_campaign_refresh",
+	"path":	"/",
+	"value":	"437d2060-d024-492f-a003-6a3d7d7d5595",
+	"expires_utc":	"1712566573"
+}{
+	"host_key":	"cdn.lputil.com",
+	"name":	"drift_aid",
+	"path":	"/",
+	"value":	"b5683b5d-c292-46dc-ae96-e2ba6e4b55fc",
+	"expires_utc":	"1775636776"
+}{
+	"host_key":	"cdn.lputil.com",
+	"name":	"driftt_aid",
+	"path":	"/",
+	"value":	"b5683b5d-c292-46dc-ae96-e2ba6e4b55fc",
+	"expires_utc":	"1775636776"
+}{
+	"host_key":	"www.lastpass.com",
+	"name":	"SC_ANALYTICS_GLOBAL_COOKIE",
+	"path":	"/",
+	"value":	"15c349ac26ce47108712ac113c560c2c|True",
+	"expires_utc":	"2027924779"
+}{
+	"host_key":	".lastpass.com",
+	"name":	"__lmi_ma",
+	"path":	"/",
+	"value":	"userreferrer=www.google.com",
+	"expires_utc":	"1715156784"
+}{
+	"host_key":	"www.lastpass.com",
+	"name":	"lastpassConsentDecision",
+	"path":	"/",
+	"value":	"0",
+	"expires_utc":	"1717748785"
+}{
+	"host_key":	".lastpass.com",
+	"name":	"lang",
+	"path":	"/",
+	"value":	"en_US",
+	"expires_utc":	"1744100785"
+}{
+	"host_key":	".lastpass.com",
+	"name":	"bm_sv",
+	"path":	"/",
+	"value":	"CA19C24BC9DF7F8E37D6B726D99CBB78~YAAQiwwVAnj3/JmOAQAAltLQvBfbQTNd3XLr4dKNW2Rveb8L0pc9xEhJlsY5OtpXd4JrkDU7aLs1kxksY5Bj/ARnAXNGDMYJ4K1YDepB1MDM4hZZqZ4yaS+OpvuC3SNhr+mfpLjzVkeFCBj195jUEkdrfLFCGBA6xriId03fxZVw7sk6WZuPwu8LOQ/FXr31UA0lT0s3l4MNqPzlQKtZ8mZbFb3c21wyFCK06BPSEXRtDw0CbOrRSqGUX8ASFFWuluU=~1",
+	"expires_utc":	"1712571973"
+}{
+	"host_key":	".github.com",
+	"name":	"_octo",
+	"path":	"/",
+	"value":	"GH1.1.656837931.1712564979",
+	"expires_utc":	"1744100979"
+}{
+	"host_key":	".github.com",
+	"name":	"logged_in",
+	"path":	"/",
+	"value":	"no",
+	"expires_utc":	"1744100979"
+}{
+	"host_key":	".www.lastpass.com",
+	"name":	"RT",
+	"path":	"/",
+	"value":	"\"z=1&dm=www.lastpass.com&si=c9eb8d04-cd44-42b7-a321-9c2f34ab9f8c&ss=luqoue0d&sl=2&tt=3an&rl=1&obo=1&ld=jpve&r=21izi4bi&ul=jpvf&hd=jpx0\"",
+	"expires_utc":	"1713170485"
+}{
+	"host_key":	"www.google.com",
+	"name":	"_GRECAPTCHA",
+	"path":	"/recaptcha",
+	"value":	"09ABIEJos3ORMI1gvkZ3pQbLXl5qvS79i_KzY1-yPRmUBA-0KifTWkV_Bnkgxu8bsqEn3_4MQZSlk2asaEKCQr2EE",
+	"expires_utc":	"1728137901"
+}{
+	"host_key":	"vip.hide01.ir",
+	"name":	"vPlus_AccessToken",
+	"path":	"/",
+	"value":	"f473e11b19c4242294612f4f3fdc01aa",
+	"expires_utc":	"1714385903"
+}{
+	"host_key":	"vip.hide01.ir",
+	"name":	"generate_access",
+	"path":	"/",
+	"value":	"f473e11b19c4242294612f4f3fdc01aa",
+	"expires_utc":	"1714385903"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_INFO1_LIVE",
+	"path":	"/",
+	"value":	"mxYs9vn_5h8",
+	"expires_utc":	"1728138833"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_PRIVACY_METADATA",
+	"path":	"/",
+	"value":	"CgJWThIEGgAgOg%3D%3D",
+	"expires_utc":	"1728138833"
+}{
+	"host_key":	".youtube.com",
+	"name":	"GPS",
+	"path":	"/",
+	"value":	"1",
+	"expires_utc":	"1712588638"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_INFO1_LIVE",
+	"path":	"/",
+	"value":	"IJfQU5H1naA",
+	"expires_utc":	"1728138838"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_PRIVACY_METADATA",
+	"path":	"/",
+	"value":	"CgJWThIEGgAgPA%3D%3D",
+	"expires_utc":	"1728138838"
+}{
+	"host_key":	"accounts.google.com",
+	"name":	"__Host-GAPS",
+	"path":	"/",
+	"value":	"1:VznPot14OKO3H1UF4dNCs63By1TyjQ:lm5tVgdNpoBH1lp1",
+	"expires_utc":	"1775658840"
+}{
+	"host_key":	".mozilla.org",
+	"name":	"_ga",
+	"path":	"/",
+	"value":	"GA1.2.148570470.1712158884",
+	"expires_utc":	"1775658883"
+}{
+	"host_key":	".mozilla.org",
+	"name":	"_gid",
+	"path":	"/",
+	"value":	"GA1.2.961388443.1712563897",
+	"expires_utc":	"1712673283"
+}{
+	"host_key":	".mozilla.org",
+	"name":	"_gat",
+	"path":	"/",
+	"value":	"1",
+	"expires_utc":	"1712586943"
+}{
+	"host_key":	".motrix.app",
+	"name":	"Hm_lvt_e862bf4a78965e83704f382cf340c303",
+	"path":	"/",
+	"value":	"1712587080",
+	"expires_utc":	"1744123079"
+}{
+	"host_key":	"ogs.google.com",
+	"name":	"OTZ",
+	"path":	"/",
+	"value":	"7504719_28_28__28_",
+	"expires_utc":	"1715179135"
+}{
+	"host_key":	".google.com",
+	"name":	"_ga",
+	"path":	"/intl/vi_vn/chrome",
+	"value":	"GA1.2-4.977148322.1712587158",
+	"expires_utc":	"1775659160"
+}{
+	"host_key":	".google.com",
+	"name":	"_gid",
+	"path":	"/intl/vi_vn/chrome",
+	"value":	"GA1.2-4.730189130.1712587158",
+	"expires_utc":	"1712673560"
+}{
+	"host_key":	".google.com",
+	"name":	"_gcl_au",
+	"path":	"/chrome/",
+	"value":	"1.1-2.821149146.1712587161",
+	"expires_utc":	"1720363160"
+}{
+	"host_key":	".www.google.com",
+	"name":	"_gcl_au",
+	"path":	"/chrome/",
+	"value":	"1.1-2.821149146.1712587161",
+	"expires_utc":	"1720363160"
+}{
+	"host_key":	".google.com",
+	"name":	"_ga_B7W0ZKZYDK",
+	"path":	"/intl/vi_vn/chrome/",
+	"value":	"GS1.1-4.1712587158.1.1.1712587160.0.0.0",
+	"expires_utc":	"1775659160"
+}{
+	"host_key":	".google.com",
+	"name":	"_ga",
+	"path":	"/intl/vi_vn/chrome/",
+	"value":	"GA1.1-4.977148322.1712587158",
+	"expires_utc":	"1775659160"
+}{
+	"host_key":	".hide01.ir",
+	"name":	"sbjs_session",
+	"path":	"/",
+	"value":	"pgs%3D7%7C%7C%7Ccpg%3Dhttps%3A%2F%2Fhide01.ir%2Fusage%2F",
+	"expires_utc":	"1712588991"
+}{
+	"host_key":	".mozilla.org",
+	"name":	"_ga_B9CY1C9VBC",
+	"path":	"/",
+	"value":	"GS1.1.1712586883.4.1.1712588605.0.0.0",
+	"expires_utc":	"1775660605"
+}{
+	"host_key":	".google.com",
+	"name":	"NID",
+	"path":	"/",
+	"value":	"513=bbTgdWIJWLH5WS0i7wDFh9FZNtXAYMrjlmmtE3WtbGR3HTeXnQrrJJnhTKSYHR-dOLB7hEJSp8XTQELCCUBCdbNXXnwD2p1Mi_y6xGJANw52Y-ifTg1zhlN5asrh1eF99JCbywtLfYzjOnFM-ocCpLuc9bbyNAvjpt8nGhAMYJI",
+	"expires_utc":	"1728455422"
+}{
+	"host_key":	".openai.com",
+	"name":	"oai-did",
+	"path":	"/",
+	"value":	"d5cf3ab4-d831-4c7b-8f3f-edc6a1f430bd",
+	"expires_utc":	"1744462798"
+}{
+	"host_key":	".chat.openai.com",
+	"name":	"__cf_bm",
+	"path":	"/",
+	"value":	"hmVElIxwDlBIrMFAuApeqdpDgCfrnoTRD79bmJduArY-1713358800-1.0.1.1-Dj0hfFL7Rw88Qs3leskyUQ3uZAURBlocMuCN0lSK.y1i4f1cddFvJ1XzHD_opweViw2ESytJj40fSTC5tCCj.Q",
+	"expires_utc":	"1713360600"
+}{
+	"host_key":	"chat.openai.com",
+	"name":	"__cflb",
+	"path":	"/",
+	"value":	"0H28vVfF4aAyg2hkHFTZ1MVfKmWgNcKEzSvnjseNvHb",
+	"expires_utc":	"1713360600"
+}{
+	"host_key":	".chat.openai.com",
+	"name":	"cf_clearance",
+	"path":	"/",
+	"value":	"BKbSoQxmNRmetxZVuPXbZx.OEEjw0Fq.A1G9aec_t3k-1713358801-1.0.1.1-UYD6NiseH_f7dc2TRV0FXoUty.Pie1lrUpRsWOdRzqkOR0JUkaAC5dyCMa81bi3gp_EDHyBWMUEvYYERemJntQ",
+	"expires_utc":	"1744894801"
+}{
+	"host_key":	".oaistatic.com",
+	"name":	"__cf_bm",
+	"path":	"/",
+	"value":	"uQ2MvRIBWr6_tGilhDymdvFX4l0IoYVub46u.36A4sU-1713358802-1.0.1.1-GGX8HneHNVjCRUCr0NucD9Zuv9FOZ6zBpNr8kLVZ8GjEAQ2Xx.XHZkGJCk2OZ1Q7krHnK6q.HBlo_9wGg8WYyw",
+	"expires_utc":	"1713360602"
+}{
+	"host_key":	"chat.openai.com",
+	"name":	"_dd_s",
+	"path":	"/",
+	"value":	"rum=0&expire=1713359703285",
+	"expires_utc":	"1713359703"
+}{
+	"host_key":	"chat.openai.com",
+	"name":	"__Secure-next-auth.state",
+	"path":	"/",
+	"value":	"eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..2A8rv0v-_aufyeYW.zwgOou2CC0-QB-3dTuVRyWAysXFHlCRNZvOk_DnwjFt1Y4cY0L9CmO9GZzi3kLDX7zlNVwDaViyYnei7wP4zKypyUTw_fpHDM7-7g56v7AafuqyhQgZQ3BsyTqUh6QnZYFgmmE6gQAJ08C9bo8qXXSN6z8sqLL4eyXsAlmXXaQyPYwBOfSw.psl6lIk4ZGK7bGmEY2X7bg",
+	"expires_utc":	"1713359704"
+}{
+	"host_key":	"chat.openai.com",
+	"name":	"__Secure-next-auth.pkce.code_verifier",
+	"path":	"/",
+	"value":	"eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..rfgRIV1TUzsvpX_I.IYX88qBn4QczuCdgrrC0X--MFrlMo7MaBmT8Qz8zAmiuOl-RoNxwYn5qbw687NGXiDV56vzsRpPeaFtiRgaS_FxPQGsO-ZyjAKYNDm7YsewXdivtrvbgMHCzISqXMjafyrnh4Ypv5CLkVGe3XY7y8ueEyUbIjKkxjY6ewKumJWrlkyztBcM.H8fsp1D5y7Zzd9fE8ojI6w",
+	"expires_utc":	"1713359704"
+}{
+	"host_key":	".chatgpt.com",
+	"name":	"__cf_bm",
+	"path":	"/",
+	"value":	"hKhsHUOy.evsv.n4EkRVzdWSG3GeIoGskQFX5JfChXM-1713358806-1.0.1.1-MwJRmCBmCudlaOzt1_bhkg9tAsVFCaeXKcONJG7sGnoPejzRyWv8bQPiDnzs.1_Aotta6bMtWG5D8ZexwRY9uw",
+	"expires_utc":	"1713360606"
+}{
+	"host_key":	".auth.openai.com",
+	"name":	"__cf_bm",
+	"path":	"/",
+	"value":	"Uz50Mo6fgx3XSj234jhsPBZ_9Vbvx6GsS3K.MC6vrPI-1713358806-1.0.1.1-W.BV8oHl2U.oceFPU3DO1_F9UUGhWgwZlsIxOX2IB00KgeZxSIexzQ0ls.EuiidXk9K4TOITOpir9IQIgBhuzQ",
+	"expires_utc":	"1713360606"
+}{
+	"host_key":	".auth.openai.com",
+	"name":	"cf_clearance",
+	"path":	"/",
+	"value":	"9FeZwR_r0xz9qTcld8dJmZPt2A9X.k0zarPzpcYKoGA-1713358806-1.0.1.1-1ffWbxyEQEochoG5PXHMvw1FG98_CH5ehkSN4ehQPExe71b.F7zOtn_h24AoU6HkGE8uWUB2PITjPDofSpQbuw",
+	"expires_utc":	"1744894806"
+}{
+	"host_key":	".openai.com",
+	"name":	"ajs_user_id",
+	"path":	"/",
+	"value":	"d5cf3ab4-d831-4c7b-8f3f-edc6a1f430bd",
+	"expires_utc":	"1744894808"
+}{
+	"host_key":	".openai.com",
+	"name":	"ajs_anonymous_id",
+	"path":	"/",
+	"value":	"006faf85-a76d-4f3d-8fb3-e2b0ec41d8dc",
+	"expires_utc":	"1744894808"
+}{
+	"host_key":	"auth0.openai.com",
+	"name":	"did",
+	"path":	"/",
+	"value":	"s%3Av0%3A6c9a6b40-fcba-11ee-838c-cfc00c65e8c7.GYY6lrYJc4aRtJd7C%2BTnR1hC7yMBk8Xi9%2B9iI3kMLeM",
+	"expires_utc":	"1744916409"
+}{
+	"host_key":	"auth0.openai.com",
+	"name":	"auth0",
+	"path":	"/",
+	"value":	"s%3Av1.gadzZXNzaW9ugqZoYW5kbGXEQIqUqxyjrX1Sz2qwzdXEQ3o1xX9TZuxQdPXgLzNyfhlPx4wv_IwaGYBDIhEg5J3fLP7LFzX7sxMRhc2wXJinulKmY29va2llg6dleHBpcmVz1_8izyIAZiO8W65vcmlnaW5hbE1heEFnZc4PcxQAqHNhbWVTaXRlpG5vbmU.0S2HAhJjgOAiocqLJEn5%2F%2FQN2TWzZ32ig3bOr6xx8KA",
+	"expires_utc":	"1713618011"
+}{
+	"host_key":	"auth0.openai.com",
+	"name":	"did_compat",
+	"path":	"/",
+	"value":	"s%3Av0%3A6c9a6b40-fcba-11ee-838c-cfc00c65e8c7.GYY6lrYJc4aRtJd7C%2BTnR1hC7yMBk8Xi9%2B9iI3kMLeM",
+	"expires_utc":	"1744916409"
+}{
+	"host_key":	"auth0.openai.com",
+	"name":	"auth0_compat",
+	"path":	"/",
+	"value":	"s%3Av1.gadzZXNzaW9ugqZoYW5kbGXEQIqUqxyjrX1Sz2qwzdXEQ3o1xX9TZuxQdPXgLzNyfhlPx4wv_IwaGYBDIhEg5J3fLP7LFzX7sxMRhc2wXJinulKmY29va2llg6dleHBpcmVz1_8izyIAZiO8W65vcmlnaW5hbE1heEFnZc4PcxQAqHNhbWVTaXRlpG5vbmU.0S2HAhJjgOAiocqLJEn5%2F%2FQN2TWzZ32ig3bOr6xx8KA",
+	"expires_utc":	"1713618011"
+}{
+	"host_key":	".auth0.openai.com",
+	"name":	"__cf_bm",
+	"path":	"/",
+	"value":	"L5ZlbqSF.tepyHt3Xkn9yVmcUtns4dAMBp1ansYvCzc-1713358811-1.0.1.1-VKwrDPbJHEK4mzNvLE7O0B_LtYl3o4uP3XU4D_Vue6qtV3Nju2g9zIq2QRuzZoV3NXfbDu.a7AA67uvNqPCX.w",
+	"expires_utc":	"1713360611"
+}{
+	"host_key":	"login.microsoftonline.com",
+	"name":	"fpc",
+	"path":	"/",
+	"value":	"Au2Te9y9Cf9OlmRYq8v87y4",
+	"expires_utc":	"1715950811"
+}{
+	"host_key":	".login.live.com",
+	"name":	"MSCC",
+	"path":	"/",
+	"value":	"14.191.165.57-VN",
+	"expires_utc":	"1747054811"
+}{
+	"host_key":	"login.live.com",
+	"name":	"MicrosoftApplicationsTelemetryDeviceId",
+	"path":	"/",
+	"value":	"eacaed7c-ea94-4df4-b554-b9c492964a78",
+	"expires_utc":	"1744894810"
+}{
+	"host_key":	"login.live.com",
+	"name":	"ai_session",
+	"path":	"/",
+	"value":	"WrO4OqB7G2MCzJN2tTkJiP|1713358811148|1713358811148",
+	"expires_utc":	"1713360611"
+}{
+	"host_key":	"www.perplexity.ai",
+	"name":	"g_state",
+	"path":	"/",
+	"value":	"{\"i_p\":1713366034151,\"i_l\":1}",
+	"expires_utc":	"1728910834"
+}{
+	"host_key":	"accounts.google.com",
+	"name":	"OTZ",
+	"path":	"/",
+	"value":	"7517581_28_28__28_",
+	"expires_utc":	"1715950842"
+}{
+	"host_key":	"www.google.com",
+	"name":	"_GRECAPTCHA",
+	"path":	"/recaptcha",
+	"value":	"09AH0dGfTntW5cSQIK71Tgkqus2tuDQFSs_Bv0oK0OsRarLRmst4aJzVxKRzZUqrerPbCyxdXao3TfkYdJ7zVa4tE",
+	"expires_utc":	"1728910885"
+}{
+	"host_key":	".google.com",
+	"name":	"SID",
+	"path":	"/",
+	"value":	"g.a000igidH9DyZEl6OSWIDuJkzPOW27-b5WcRRTbvHCBx9yF0tBq2Opc5wnBqs0A3xqfOocC2DAACgYKAUISAQASFQHGX2MiqHoMBh2OSwGNzvSL2-EveBoVAUF8yKo3kFEcFkzrlzE2N1x7gFu20076",
+	"expires_utc":	"1776430932"
+}{
+	"host_key":	".google.com",
+	"name":	"__Secure-1PSID",
+	"path":	"/",
+	"value":	"g.a000igidH9DyZEl6OSWIDuJkzPOW27-b5WcRRTbvHCBx9yF0tBq2dGA-OkTxJh5o_6pRHEw_jgACgYKATsSAQASFQHGX2Miq5gtnivxJgTnEOD4ytTi_xoVAUF8yKoy2kmQzjdSUcx-NWe_QYbe0076",
+	"expires_utc":	"1776430932"
+}{
+	"host_key":	".google.com",
+	"name":	"__Secure-3PSID",
+	"path":	"/",
+	"value":	"g.a000igidH9DyZEl6OSWIDuJkzPOW27-b5WcRRTbvHCBx9yF0tBq2k7CTs4a60Y7b-vUE6jk8BgACgYKAUUSAQASFQHGX2MiW1Zd6u5PeEbCXnVGoDOOphoVAUF8yKo7eNxl7kX0FOttt9M2x-Ds0076",
+	"expires_utc":	"1776430932"
+}{
+	"host_key":	".google.com",
+	"name":	"HSID",
+	"path":	"/",
+	"value":	"AHK4-2aidsVBtwgpz",
+	"expires_utc":	"1776430932"
+}{
+	"host_key":	".google.com",
+	"name":	"SSID",
+	"path":	"/",
+	"value":	"AlRJd0APrHd_zIq1i",
+	"expires_utc":	"1776430932"
+}{
+	"host_key":	".google.com",
+	"name":	"APISID",
+	"path":	"/",
+	"value":	"LTycU52YSsvrSVks/ATMRY1Vz6PNjMy5ur",
+	"expires_utc":	"1776430932"
+}{
+	"host_key":	".google.com",
+	"name":	"SAPISID",
+	"path":	"/",
+	"value":	"pBSsvhX0hVuA8zZw/A0sVGiwsYIzXtQLth",
+	"expires_utc":	"1776430932"
+}{
+	"host_key":	".google.com",
+	"name":	"__Secure-1PAPISID",
+	"path":	"/",
+	"value":	"pBSsvhX0hVuA8zZw/A0sVGiwsYIzXtQLth",
+	"expires_utc":	"1776430932"
+}{
+	"host_key":	".google.com",
+	"name":	"__Secure-3PAPISID",
+	"path":	"/",
+	"value":	"pBSsvhX0hVuA8zZw/A0sVGiwsYIzXtQLth",
+	"expires_utc":	"1776430932"
+}{
+	"host_key":	"accounts.google.com",
+	"name":	"LSID",
+	"path":	"/",
+	"value":	"s.VN|s.youtube:g.a000igidH3q6K88qhS6al4HKpyDP7_MT04xsNQlYtzxJKctuBYiOzIqdGm0GJsY3Llrh0r2-7QACgYKARQSAQASFQHGX2MiZi-DCWAN2BvOuDHuoX2khBoVAUF8yKpwyhrUyAtHmM7RtBAb9JnI0076",
+	"expires_utc":	"1776430932"
+}{
+	"host_key":	"accounts.google.com",
+	"name":	"__Host-1PLSID",
+	"path":	"/",
+	"value":	"s.VN|s.youtube:g.a000igidH3q6K88qhS6al4HKpyDP7_MT04xsNQlYtzxJKctuBYiOy9xoiw9oTzhHhqg2xE_bmAACgYKAVYSAQASFQHGX2MiCpLppptqgS6dXdvl8ULrqRoVAUF8yKr_dEqR8Rr6Ba61TnquxScr0076",
+	"expires_utc":	"1776430932"
+}{
+	"host_key":	"accounts.google.com",
+	"name":	"__Host-3PLSID",
+	"path":	"/",
+	"value":	"s.VN|s.youtube:g.a000igidH3q6K88qhS6al4HKpyDP7_MT04xsNQlYtzxJKctuBYiOnBX_hnZVrcgxJtpveA1SqwACgYKAaISAQASFQHGX2Mi3XUxteuw-BU2SmFuJ9vYzhoVAUF8yKqb3XYqH0ASAzud9RjFIlW20076",
+	"expires_utc":	"1776430932"
+}{
+	"host_key":	"accounts.google.com",
+	"name":	"ACCOUNT_CHOOSER",
+	"path":	"/",
+	"value":	"AFx_qI4SPNKmAFCMCEm7IkMjhSLZtOuudwkjqx4utIZ7QxpCCil1gSKTT1vxh8e3wuo_psz18vM4QLbbbH5HjnNMC8XwsIrrooDX6Yv2J7f_f9-JCm-ehY1gm_NUgjN0sxkzoBaNzSp6n45z8ML_Jj6XIx33cQQKIQ",
+	"expires_utc":	"1776430932"
+}{
+	"host_key":	"accounts.google.com",
+	"name":	"__Host-GAPS",
+	"path":	"/",
+	"value":	"1:GRTtBY_50uBLVZCKekGlXbgYLW5NQIOvEYlH-i52DVVSVAcWkcPsa4bQlJ1s37mQlz9PCznfc1lP8ipgzykWbIoK8KImGw:q7zHutuxZLLbiZmB",
+	"expires_utc":	"1776430935"
+}{
+	"host_key":	"api2.hcaptcha.com",
+	"name":	"__cflb",
+	"path":	"/",
+	"value":	"0H28vk2VKwPbLoawFincekpozDKK5F2cbZm5v84rsRX",
+	"expires_utc":	"1713360793"
+}{
+	"host_key":	"auth.openai.com",
+	"name":	"_dd_s",
+	"path":	"/",
+	"value":	"rum=2&id=933f3d47-659b-4c45-95d6-906d2e79d68e&created=1713358804723&expire=1713359925086",
+	"expires_utc":	"1713359925"
+}{
+	"host_key":	".perplexity.ai",
+	"name":	"cf_clearance",
+	"path":	"/",
+	"value":	"7752wYptMenV3xyEwLV9u2odGNBOvar2f7FJo.tw5Og-1713676921-1.0.1.1-hP8ehPCBcjNKU2eU48EU8ZGWBkLux3I4TQ8xPyHBYVqoQf4vx5zSTV1OjS8M1.aN1aoKyAPebBvVKpBPPjPVaQ",
+	"expires_utc":	"1745212925"
+}{
+	"host_key":	".perplexity.ai",
+	"name":	"__cf_bm",
+	"path":	"/",
+	"value":	"CZ_raTQ6WgRS211K5O4G5i.bCSY2BFJ9c2fEFqCP7qM-1713676926-1.0.1.1-iJQeSAH3WudBwancf_gMmpmsit4NjVaI52r3IoUFAtGW6fv0t.vqpOz_AuYlWhgwgX8EL1QlyP6aEfPgNN5mnQ",
+	"expires_utc":	"1713678726"
+}{
+	"host_key":	"www.perplexity.ai",
+	"name":	"__cflb",
+	"path":	"/",
+	"value":	"02DiuDyvFMmK5p9jVbVnMNSKYZhUL9aGmnrh6Bpci4HhE",
+	"expires_utc":	"1713759726"
+}{
+	"host_key":	"www.perplexity.ai",
+	"name":	"isCollapsed",
+	"path":	"/",
+	"value":	"false",
+	"expires_utc":	"1871356927"
+}{
+	"host_key":	".perplexity.ai",
+	"name":	"_ga",
+	"path":	"/",
+	"value":	"GA1.1.1365516298.1712159065",
+	"expires_utc":	"1776748928"
+}{
+	"host_key":	"www.perplexity.ai",
+	"name":	"__Secure-next-auth.session-token",
+	"path":	"/",
+	"value":	"eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..EV8Q7oTkmbFMM2XC.w0tnImT7FWQzh5kybyJaSRoFngt1GJZ7sEVgsUqTKsGFRQ9zVn43Jau5RT__4LRZssvmf9M5p9FHUzbVs8wS4OpfGCmiI3gKCLonms712z8zBMzvglufv18P3xUdrrJE3aVlSvFX48N8b2H-He-7O6V8DnYHmOR93bKimqTvlzjOL0WF4ifIbU-3bWMDfga2nRwcSyhPylSUGg5Uhrzo1-xztHsI0ZnRc6-s1ZOYz6X2h_qLCWXL5YT2r45gaQg3dAhxoQObFyqphA6j_R-dCNw1eOVUfwrbfT1iFiXeaPoKc899dy4ia4HX_Nw1UzanMPbbCMA68ncm8nnMbSao9zcJlOIeWbR3cesM3cfjOH0EoY2VIB9o9EQkkf-fPQS-fFI.n5745AfZGdgg9_qtjn0RgA",
+	"expires_utc":	"1716268931"
+}{
+	"host_key":	"www.perplexity.ai",
+	"name":	"AWSALB",
+	"path":	"/",
+	"value":	"ZY53nAEldKdRZ/XIP27bDO7sr/JmjKfmUxxGTAXOm16AYQakRVuPPbhHiB9F2eT7sGjuxok2gasVI5vp63vGERVWEH06ldmv3wTy9hXYkXoNX71YCRKQr0Qyzag2Ys7BXrRuWlHp+yFHmvq4b1r3m1OBDU7AIKYE5Ju9JSbzZgTQ/vMX43qYTMlKqZYDbA==",
+	"expires_utc":	"1714281734"
+}{
+	"host_key":	"www.perplexity.ai",
+	"name":	"AWSALBCORS",
+	"path":	"/",
+	"value":	"ZY53nAEldKdRZ/XIP27bDO7sr/JmjKfmUxxGTAXOm16AYQakRVuPPbhHiB9F2eT7sGjuxok2gasVI5vp63vGERVWEH06ldmv3wTy9hXYkXoNX71YCRKQr0Qyzag2Ys7BXrRuWlHp+yFHmvq4b1r3m1OBDU7AIKYE5Ju9JSbzZgTQ/vMX43qYTMlKqZYDbA==",
+	"expires_utc":	"1714281734"
+}{
+	"host_key":	".perplexity.ai",
+	"name":	"_ga_SH9PRBQG23",
+	"path":	"/",
+	"value":	"GS1.1.1713676928.11.1.1713676944.0.0.0",
+	"expires_utc":	"1776748944"
+}{
+	"host_key":	".stripe.perplexity.ai",
+	"name":	"__stripe_mid",
+	"path":	"/",
+	"value":	"778c1d14-e3ff-4f4c-bd42-12386d98539b014b9e",
+	"expires_utc":	"1745212951"
+}{
+	"host_key":	".stripe.perplexity.ai",
+	"name":	"__stripe_sid",
+	"path":	"/",
+	"value":	"d1ad9b53-953b-4613-9d07-17b9e712fce048f19b",
+	"expires_utc":	"1713678751"
+}{
+	"host_key":	".facebook.com",
+	"name":	"sb",
+	"path":	"/",
+	"value":	"quslZmxtkoHsatDO0jSYHbAZ",
+	"expires_utc":	"1748321191"
+}{
+	"host_key":	".facebook.com",
+	"name":	"datr",
+	"path":	"/",
+	"value":	"quslZtG97gt4zoLkvN2Usb9d",
+	"expires_utc":	"1748321193"
+}{
+	"host_key":	".facebook.com",
+	"name":	"locale",
+	"path":	"/",
+	"value":	"vi_VN",
+	"expires_utc":	"1714365996"
+}{
+	"host_key":	".facebook.com",
+	"name":	"ps_n",
+	"path":	"/",
+	"value":	"1",
+	"expires_utc":	"1748321197"
+}{
+	"host_key":	".facebook.com",
+	"name":	"ps_l",
+	"path":	"/",
+	"value":	"1",
+	"expires_utc":	"1748321197"
+}{
+	"host_key":	".facebook.com",
+	"name":	"fr",
+	"path":	"/",
+	"value":	"0n5F2cDqglboTFrwj..BmJeuq..AAA.0.0.BmJeuv.AWV6QtJpJwk",
+	"expires_utc":	"1721537197"
+}{
+	"host_key":	".facebook.com",
+	"name":	"wd",
+	"path":	"/",
+	"value":	"1280x725",
+	"expires_utc":	"1714365998"
+}{
+	"host_key":	".google.com",
+	"name":	"SEARCH_SAMESITE",
+	"path":	"/",
+	"value":	"CgQI-5oB",
+	"expires_utc":	"1729313465"
+}{
+	"host_key":	".google.com",
+	"name":	"AEC",
+	"path":	"/",
+	"value":	"AQTF6Hx-wxwfVn3t5KAdTJbrZEyDjNSH9ZVcwGE8-IK8Puraw8tets1IvWY",
+	"expires_utc":	"1727863314"
+}{
+	"host_key":	".urban-vpn.com",
+	"name":	"_upid",
+	"path":	"/",
+	"value":	"eV7Dzcv4U7U2aDlXW7TzT6",
+	"expires_utc":	"3861245109"
+}{
+	"host_key":	".authentication.urban-vpn.com",
+	"name":	"userKey",
+	"path":	"/",
+	"value":	"eV7Dzcv4U7U2aDlXW7TzT6",
+	"expires_utc":	"3861245109"
+}{
+	"host_key":	".google.com",
+	"name":	"NID",
+	"path":	"/",
+	"value":	"513=gkExZ140qfGDG2fJpujbIFun7po7Z9JfiPuZQUb0i5XRi4JOOe_UAuBzp-VSiOhILtOwbGszO_ub58gCnArd6ejHZ_qs_aVW3GkhAEMDl8t6jDw5vgJptEivipntXPwUs58p7aj48XRkzD5FtTM__c6jT81aHxMR_J6JVO5zEi8xkFhg8k50PMX3Hq2iVtdit09MVxKFf2aGEc-qzh3d3C7RlT37iFiwKN05J7-rJ-9VwqUmb7y02c1f8MhLtOm9UINxLNat9IQsdTv4M8ylI6kXccbQJHz4J9Lqs5iOmNc",
+	"expires_utc":	"1729572665"
+}{
+	"host_key":	".google.com",
+	"name":	"SNID",
+	"path":	"/verify",
+	"value":	"AOYECSrZPTNJYoWpOfmDH3KIbDnNsdYVAjYlJUieqMQ0m4GkxP1rMcyAOgEJgw1sIXp88ljSeti6IhtCYw3zSntbkPfmVxMU6VI",
+	"expires_utc":	"1729169961"
+}{
+	"host_key":	"www.google.com",
+	"name":	"DV",
+	"path":	"/",
+	"value":	"E4-LQzZxF-1W4NvUndzzyhntQEtC8FiVc7QAoi46LgIAAGCqGssnH9E8vQAAAPCSFA-qpoSSTgAAAHjU1yhfGuRCFQAAAA",
+	"expires_utc":	"1713762063"
+}{
+	"host_key":	".google.com",
+	"name":	"1P_JAR",
+	"path":	"/",
+	"value":	"2024-04-22-04",
+	"expires_utc":	"1716353468"
+}{
+	"host_key":	".google.com",
+	"name":	"SIDCC",
+	"path":	"/",
+	"value":	"AKEyXzUSGu6bioY-AwqL_Zg8yKTGkxz8_Szsp6VWonoZqXckSifRhYjPImfn8KowIwrkJqFY",
+	"expires_utc":	"1745297468"
+}{
+	"host_key":	".google.com",
+	"name":	"__Secure-1PSIDCC",
+	"path":	"/",
+	"value":	"AKEyXzXH1egHQyuSXjEwKoDay4EMM9_V-n_ggHr2I5zIZzWpd2RsPaToLndHK4TAKlP3gzO2Ig",
+	"expires_utc":	"1745297468"
+}{
+	"host_key":	".google.com",
+	"name":	"__Secure-3PSIDCC",
+	"path":	"/",
+	"value":	"AKEyXzXBO_00B3iIm8h8kGbpTubH4qvnKiNXJImg3-ZxaN-ZFr8IJBRGuihWjq41gMtn5KSglA",
+	"expires_utc":	"1745297468"
+}{
+	"host_key":	".google.com",
+	"name":	"TAID",
+	"path":	"/ads/measurement",
+	"value":	"AJHaeXJexvkG8DWj-dMhSM95wT0D34KGKGlBq2N7C6-AkzpRvyhkhJyy3-vE5BCRXj5o56jCrgp0kk5SCfWpvxk65lgdgSa7TfUiRkTdoEnPdQJ2x8E_vrdikzFCTNu1kt2naI1mZQ",
+	"expires_utc":	"1714971068"
+}{
+	"host_key":	".google.com",
+	"name":	"AID",
+	"path":	"/ads",
+	"value":	"AJHaeXLKVxZddIPRO85Ndn47kea-JgBV-2p4iub7-Q",
+	"expires_utc":	"1760338800"
+}{
+	"host_key":	".youtube.com",
+	"name":	"LOGIN_INFO",
+	"path":	"/",
+	"value":	"AFmmF2swRQIhAOZLsCQ-8HY5phsws9U2bTlQo99IC3Y5OlVkx98VOmtaAiATthe_RC59nk73GYhnMNZ55mwrPyLvEHtZig17okoD8Q:QUQ3MjNmenI4SFh4bFJOZW0wQnlneHdNT3hLaWdrTE43Uk1ud2VRbGhSbmkwc2hFT3FOcU5oNVpXaGVIQlpvcDNkU01lRDdhUWVhOUp5d0k2VHBGR1RPTnJqWW80elRveGhrTUMzZVozS3hjOFl3RHVIRXlWbk5TYThoY0xOYWVwYm9GQzczUXRLaXJCNzZkcUloWEh2V1BjQVYyVjBYZ0F3",
+	"expires_utc":	"1776833470"
+}{
+	"host_key":	".youtube.com",
+	"name":	"YTSESSION-b0hvzw",
+	"path":	"/",
+	"value":	"ANPz9Kj1vwg29l2n9m1oWiu/GIMezA8Q8L2YGSyhlOXX3z0Q1HdDKhegpHDkgjw2hey/SAx9L49UZw1QrJM6Yee+4QPXaT6QSlzGb988QPPvUI5owR03n9A1",
+	"expires_utc":	"1713761590"
+}{
+	"host_key":	".youtube.com",
+	"name":	"HSID",
+	"path":	"/",
+	"value":	"A1sh6cPLrh4oOYDBM",
+	"expires_utc":	"1776833470"
+}{
+	"host_key":	".youtube.com",
+	"name":	"SSID",
+	"path":	"/",
+	"value":	"A7bvuBG1pzUg-bpgJ",
+	"expires_utc":	"1776833470"
+}{
+	"host_key":	".youtube.com",
+	"name":	"APISID",
+	"path":	"/",
+	"value":	"LTycU52YSsvrSVks/ATMRY1Vz6PNjMy5ur",
+	"expires_utc":	"1776833470"
+}{
+	"host_key":	".youtube.com",
+	"name":	"SAPISID",
+	"path":	"/",
+	"value":	"pBSsvhX0hVuA8zZw/A0sVGiwsYIzXtQLth",
+	"expires_utc":	"1776833470"
+}{
+	"host_key":	".youtube.com",
+	"name":	"__Secure-1PAPISID",
+	"path":	"/",
+	"value":	"pBSsvhX0hVuA8zZw/A0sVGiwsYIzXtQLth",
+	"expires_utc":	"1776833470"
+}{
+	"host_key":	".youtube.com",
+	"name":	"__Secure-3PAPISID",
+	"path":	"/",
+	"value":	"pBSsvhX0hVuA8zZw/A0sVGiwsYIzXtQLth",
+	"expires_utc":	"1776833470"
+}{
+	"host_key":	".youtube.com",
+	"name":	"SID",
+	"path":	"/",
+	"value":	"g.a000iwidH4suA28DbC2KlEXlGMRjVs3R507wAgk5pmefClG8XWtCLEawSlyHZRBnIbgWzxtxtwACgYKAVQSAQASFQHGX2MiG6rvEIcm5vu__OAyLi13RRoVAUF8yKpJmbwHjDrfuouOKTrusS480076",
+	"expires_utc":	"1776833470"
+}{
+	"host_key":	".youtube.com",
+	"name":	"__Secure-1PSID",
+	"path":	"/",
+	"value":	"g.a000iwidH4suA28DbC2KlEXlGMRjVs3R507wAgk5pmefClG8XWtCb-8npp7QRyBv3ktWYtm9fwACgYKAZUSAQASFQHGX2MiL1Cmj2uNgGZG-AqOws4JChoVAUF8yKrOKJEF9dIYB8rS33vsOw2o0076",
+	"expires_utc":	"1776833470"
+}{
+	"host_key":	".youtube.com",
+	"name":	"__Secure-3PSID",
+	"path":	"/",
+	"value":	"g.a000iwidH4suA28DbC2KlEXlGMRjVs3R507wAgk5pmefClG8XWtCIRT-Z61Iu11pkeDUWrbajAACgYKAQUSAQASFQHGX2Mizpq9R47gPrdd70oaF_p8nxoVAUF8yKrW80NozSVyhseeoPDAEQYz0076",
+	"expires_utc":	"1776833470"
+}{
+	"host_key":	".youtube.com",
+	"name":	"ST-l3hjtt",
+	"path":	"/",
+	"value":	"session_logininfo=AFmmF2swRQIhAOZLsCQ-8HY5phsws9U2bTlQo99IC3Y5OlVkx98VOmtaAiATthe_RC59nk73GYhnMNZ55mwrPyLvEHtZig17okoD8Q%3AQUQ3MjNmenI4SFh4bFJOZW0wQnlneHdNT3hLaWdrTE43Uk1ud2VRbGhSbmkwc2hFT3FOcU5oNVpXaGVIQlpvcDNkU01lRDdhUWVhOUp5d0k2VHBGR1RPTnJqWW80elRveGhrTUMzZVozS3hjOFl3RHVIRXlWbk5TYThoY0xOYWVwYm9GQzczUXRLaXJCNzZkcUloWEh2V1BjQVYyVjBYZ0F3",
+	"expires_utc":	"1713761474"
+}{
+	"host_key":	".youtube.com",
+	"name":	"ST-tladcw",
+	"path":	"/",
+	"value":	"session_logininfo=AFmmF2swRQIhAOZLsCQ-8HY5phsws9U2bTlQo99IC3Y5OlVkx98VOmtaAiATthe_RC59nk73GYhnMNZ55mwrPyLvEHtZig17okoD8Q%3AQUQ3MjNmenI4SFh4bFJOZW0wQnlneHdNT3hLaWdrTE43Uk1ud2VRbGhSbmkwc2hFT3FOcU5oNVpXaGVIQlpvcDNkU01lRDdhUWVhOUp5d0k2VHBGR1RPTnJqWW80elRveGhrTUMzZVozS3hjOFl3RHVIRXlWbk5TYThoY0xOYWVwYm9GQzczUXRLaXJCNzZkcUloWEh2V1BjQVYyVjBYZ0F3",
+	"expires_utc":	"1713761474"
+}{
+	"host_key":	".youtube.com",
+	"name":	"ST-1b",
+	"path":	"/",
+	"value":	"itct=CBoQ8KgHGAAiEwiitJv-gtWFAxUA9nMBHfXVBVs%3D&csn=wnWGPWjBTMrO2E4X&session_logininfo=AFmmF2swRQIhAOZLsCQ-8HY5phsws9U2bTlQo99IC3Y5OlVkx98VOmtaAiATthe_RC59nk73GYhnMNZ55mwrPyLvEHtZig17okoD8Q%3AQUQ3MjNmenI4SFh4bFJOZW0wQnlneHdNT3hLaWdrTE43Uk1ud2VRbGhSbmkwc2hFT3FOcU5oNVpXaGVIQlpvcDNkU01lRDdhUWVhOUp5d0k2VHBGR1RPTnJqWW80elRveGhrTUMzZVozS3hjOFl3RHVIRXlWbk5TYThoY0xOYWVwYm9GQzczUXRLaXJCNzZkcUloWEh2V1BjQVYyVjBYZ0F3&endpoint=%7B%22clickTrackingParams%22%3A%22CBoQ8KgHGAAiEwiitJv-gtWFAxUA9nMBHfXVBVs%3D%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2F%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_BROWSE%22%2C%22rootVe%22%3A3854%2C%22apiUrl%22%3A%22%2Fyoutubei%2Fv1%2Fbrowse%22%7D%7D%2C%22browseEndpoint%22%3A%7B%22browseId%22%3A%22FEwhat_to_watch%22%7D%7D",
+	"expires_utc":	"1713761476"
+}{
+	"host_key":	".youtube.com",
+	"name":	"ST-yve142",
+	"path":	"/",
+	"value":	"session_logininfo=AFmmF2swRQIhAOZLsCQ-8HY5phsws9U2bTlQo99IC3Y5OlVkx98VOmtaAiATthe_RC59nk73GYhnMNZ55mwrPyLvEHtZig17okoD8Q%3AQUQ3MjNmenI4SFh4bFJOZW0wQnlneHdNT3hLaWdrTE43Uk1ud2VRbGhSbmkwc2hFT3FOcU5oNVpXaGVIQlpvcDNkU01lRDdhUWVhOUp5d0k2VHBGR1RPTnJqWW80elRveGhrTUMzZVozS3hjOFl3RHVIRXlWbk5TYThoY0xOYWVwYm9GQzczUXRLaXJCNzZkcUloWEh2V1BjQVYyVjBYZ0F3",
+	"expires_utc":	"1713761476"
+}{
+	"host_key":	".youtube.com",
+	"name":	"ST-hcbf8d",
+	"path":	"/",
+	"value":	"session_logininfo=AFmmF2swRQIhAOZLsCQ-8HY5phsws9U2bTlQo99IC3Y5OlVkx98VOmtaAiATthe_RC59nk73GYhnMNZ55mwrPyLvEHtZig17okoD8Q%3AQUQ3MjNmenI4SFh4bFJOZW0wQnlneHdNT3hLaWdrTE43Uk1ud2VRbGhSbmkwc2hFT3FOcU5oNVpXaGVIQlpvcDNkU01lRDdhUWVhOUp5d0k2VHBGR1RPTnJqWW80elRveGhrTUMzZVozS3hjOFl3RHVIRXlWbk5TYThoY0xOYWVwYm9GQzczUXRLaXJCNzZkcUloWEh2V1BjQVYyVjBYZ0F3",
+	"expires_utc":	"1713761476"
+}{
+	"host_key":	".youtube.com",
+	"name":	"ST-1s68pw0",
+	"path":	"/",
+	"value":	"oq=nhac&gs_l=youtube.3..0i3k1j0i512i433i131k1l2j0i3k1l2j0i512k1l2j0i512i433k1j0i512i433i131k1j0i3k1j0i512i433i131k1l2j0i512k1j0i3k1.2291.2571.0.2700.5.5.0.0.0.0.122.454.0j4.5.0.uqapsPSuRRH_v2_e%2Cytpso-bo-me%3D1%2Cytpsoso-bo-me%3D1%2Cytpso-bo-bro-mi%3D51159718%2Cytpsoso-bo-bro-mi%3D51159718%2Cytpso-bo-bro-vsw%3D1-0%2Cytpso-bo-bro-lsw%3D0-1%2Cytpsoso-bo-bro-vsw%3D1-0%2Cytpsoso-bo-bro-lsw%3D0-1%2Ccfro%3D1%2Cytpso-bo-me%3D0%2Cytpsoso-bo-me%3D0%2Cytpso-bo-bro-mi%3D51159718%2Cytpsoso-bo-bro-mi%3D51159718...0...1ac.1.64.youtube..0.4.454.0..0i512i433i131i650k1.143.Ukwv-47gP_U&itct=CBMQ7VAiEwjPy5X_gtWFAxVtm0sFHe8ABVw%3D&csn=vWuVdqV2gYMelYY1&session_logininfo=AFmmF2swRQIhAOZLsCQ-8HY5phsws9U2bTlQo99IC3Y5OlVkx98VOmtaAiATthe_RC59nk73GYhnMNZ55mwrPyLvEHtZig17okoD8Q%3AQUQ3MjNmenI4SFh4bFJOZW0wQnlneHdNT3hLaWdrTE43Uk1ud2VRbGhSbmkwc2hFT3FOcU5oNVpXaGVIQlpvcDNkU01lRDdhUWVhOUp5d0k2VHBGR1RPTnJqWW80elRveGhrTUMzZVozS3hjOFl3RHVIRXlWbk5TYThoY0xOYWVwYm9GQzczUXRLaXJCNzZkcUloWEh2V1BjQVYyVjBYZ0F3&endpoint=%7B%22clickTrackingParams%22%3A%22CBMQ7VAiEwjPy5X_gtWFAxVtm0sFHe8ABVw%3D%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fresults%3Fsearch_query%3Dnhac%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_SEARCH%22%2C%22rootVe%22%3A4724%7D%7D%2C%22searchEndpoint%22%3A%7B%22query%22%3A%22nhac%22%7D%7D",
+	"expires_utc":	"1713761478"
+}{
+	"host_key":	".youtube.com",
+	"name":	"ST-1k06sw0",
+	"path":	"/",
+	"value":	"session_logininfo=AFmmF2swRQIhAOZLsCQ-8HY5phsws9U2bTlQo99IC3Y5OlVkx98VOmtaAiATthe_RC59nk73GYhnMNZ55mwrPyLvEHtZig17okoD8Q%3AQUQ3MjNmenI4SFh4bFJOZW0wQnlneHdNT3hLaWdrTE43Uk1ud2VRbGhSbmkwc2hFT3FOcU5oNVpXaGVIQlpvcDNkU01lRDdhUWVhOUp5d0k2VHBGR1RPTnJqWW80elRveGhrTUMzZVozS3hjOFl3RHVIRXlWbk5TYThoY0xOYWVwYm9GQzczUXRLaXJCNzZkcUloWEh2V1BjQVYyVjBYZ0F3",
+	"expires_utc":	"1713761478"
+}{
+	"host_key":	".youtube.com",
+	"name":	"ST-1ykt8z2",
+	"path":	"/",
+	"value":	"encoded_ad_playback_context=CA8QBkIXeE93bFpyWDJCT3JfejdzUDRxU1oyQW-KAykgBSgDMAY4BkoTCLXoi4CD1YUDFer_cwEdYlIGq1IGCAUwAVgBaAFwCw%253D%253D",
+	"expires_utc":	"1713761480"
+}{
+	"host_key":	".youtube.com",
+	"name":	"PREF",
+	"path":	"/",
+	"value":	"tz=Asia.Bangkok",
+	"expires_utc":	"1776833480"
+}{
+	"host_key":	".youtube.com",
+	"name":	"ST-xuwub9",
+	"path":	"/",
+	"value":	"session_logininfo=AFmmF2swRQIhAOZLsCQ-8HY5phsws9U2bTlQo99IC3Y5OlVkx98VOmtaAiATthe_RC59nk73GYhnMNZ55mwrPyLvEHtZig17okoD8Q%3AQUQ3MjNmenI4SFh4bFJOZW0wQnlneHdNT3hLaWdrTE43Uk1ud2VRbGhSbmkwc2hFT3FOcU5oNVpXaGVIQlpvcDNkU01lRDdhUWVhOUp5d0k2VHBGR1RPTnJqWW80elRveGhrTUMzZVozS3hjOFl3RHVIRXlWbk5TYThoY0xOYWVwYm9GQzczUXRLaXJCNzZkcUloWEh2V1BjQVYyVjBYZ0F3",
+	"expires_utc":	"1713761486"
+}{
+	"host_key":	".google.com",
+	"name":	"NID",
+	"path":	"/",
+	"value":	"513=Ve5VI3VzotJ4eY2SpcpZ3SIFvuGHPObWWbz5tHPqb0DMhuncOa6FCvjg62cZkfyky0bFuZwLJFCST6RNzIZYi3g7ewa8sl39rquQw3wR_xuLB5ziKb8k61Itj81PatBGue9GwulOuZvR917Mu9K3KXBiIe0JZejOa2wTayHtPmc",
+	"expires_utc":	"1729572709"
+}{
+	"host_key":	".youtube.com",
+	"name":	"__Secure-1PSIDTS",
+	"path":	"/",
+	"value":	"sidts-CjIB7F1E_EwZvFxvsmq_cTC2r0pugYJiDV7-Km4mlZTazGBGT2b4I8jZY7g1mIBiqKKN0xAA",
+	"expires_utc":	"1745298074"
+}{
+	"host_key":	".youtube.com",
+	"name":	"__Secure-3PSIDTS",
+	"path":	"/",
+	"value":	"sidts-CjIB7F1E_EwZvFxvsmq_cTC2r0pugYJiDV7-Km4mlZTazGBGT2b4I8jZY7g1mIBiqKKN0xAA",
+	"expires_utc":	"1745298074"
+}{
+	"host_key":	".youtube.com",
+	"name":	"SIDCC",
+	"path":	"/",
+	"value":	"AKEyXzWbbSuz1oTAiQlk_D1tVtbllfgnGgzcx7j5365uFQNww_PPsQDZTOWtz8NCRIPU41xm",
+	"expires_utc":	"1745298074"
+}{
+	"host_key":	".youtube.com",
+	"name":	"__Secure-1PSIDCC",
+	"path":	"/",
+	"value":	"AKEyXzWQOdE7PtXGCoQcHy1y2oyCMmO8kxGqBFCOBbitpGDPyiGeCG7o9PShyzdyNPo42fAu",
+	"expires_utc":	"1745298074"
+}{
+	"host_key":	".youtube.com",
+	"name":	"__Secure-3PSIDCC",
+	"path":	"/",
+	"value":	"AKEyXzXdJleYfiDO53pr9MGFFjcWXp67uwIOuh8CXaKvRnZ--5wOeXl8bwS8ZhuL8oE6gHy-",
+	"expires_utc":	"1745298074"
+}{
+	"host_key":	"rungrinh.vn",
+	"name":	"INGRESSCOOKIE",
+	"path":	"/(api|assets)",
+	"expires_utc":	"13358423419751685",
+	"value":	"7c89016bacf802f8d4b85ff80525a80b|d12310a952742b5f5af8c83ae2e9e995"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"__CCAD__UID",
+	"path":	"/",
+	"expires_utc":	"13392810645659908",
+	"value":	"77193304-8aea-4ea9-855e-d13983533f63"
+}{
+	"host_key":	"rungrinh.vn",
+	"name":	"vid",
+	"path":	"/",
+	"expires_utc":	"13392810619463015",
+	"value":	"TbrVrb9u1JJQb1oS6o1SGby1T6VToTgGrSo9WXUNCcVbdGaazBj-9kGc0kOWW"
+}{
+	"host_key":	".adform.net",
+	"name":	"C",
+	"path":	"/",
+	"expires_utc":	"13360842655633191",
+	"value":	"1"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"DPSync3",
+	"path":	"/",
+	"expires_utc":	"13366026651771240",
+	"value":	"1714953600%3A241_235_201_245"
+}{
+	"host_key":	".youtube.com",
+	"name":	"GPS",
+	"path":	"/",
+	"expires_utc":	"13358252448780193",
+	"value":	"1"
+}{
+	"host_key":	".doubleclick.net",
+	"name":	"IDE",
+	"path":	"/",
+	"expires_utc":	"13392810651795406",
+	"value":	"AHWqTUlP1Fq-E1izfB7skI6OS8sgvA0a7k7bEuhy94VGoF1KOogyudchhZyil2WfrAg"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"KADUSERCOOKIE",
+	"path":	"/",
+	"expires_utc":	"13389786651771156",
+	"value":	"467DFEC2-E3DF-42D9-8F79-366E4E7EB882"
+}{
+	"host_key":	".youtube.com",
+	"name":	"PREF",
+	"path":	"/",
+	"expires_utc":	"13392810661534233",
+	"value":	"tz=Asia.Bangkok"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"SyncRTB3",
+	"path":	"/",
+	"expires_utc":	"13366026651771254",
+	"value":	"1716336000%3A203%7C1714953600%3A233_81_238_176_8_56_3_264_22_161_220_266_46_254_21_13_234_165_251_166_214_54_55_71%7C1714348800%3A2_223_15%7C1714608000%3A63%7C1715040000%3A35"
+}{
+	"host_key":	".adsrvr.org",
+	"name":	"TDCPM",
+	"path":	"/",
+	"expires_utc":	"13389786651855009",
+	"value":	"CAEYBSgCMgsI7rK7g9ut8TwQBTgB"
+}{
+	"host_key":	".adsrvr.org",
+	"name":	"TDID",
+	"path":	"/",
+	"expires_utc":	"13389786651854907",
+	"value":	"0fd713e1-b654-4e50-9066-4616e464fb81"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_INFO1_LIVE",
+	"path":	"/",
+	"expires_utc":	"13373802648780251",
+	"value":	"5qp3dotLdY8"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_PRIVACY_METADATA",
+	"path":	"/",
+	"expires_utc":	"13373802648780262",
+	"value":	"CgJWThIEGgAgLA%3D%3D"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"__CCAD__SW_CACHE_MAJOR",
+	"path":	"/",
+	"expires_utc":	"13392810649621569",
+	"value":	"2023-02-17"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__eoi",
+	"path":	"/",
+	"expires_utc":	"13373802653000000",
+	"value":	"ID=49cf56ca6c18776b:T=1713777053:RT=1713777053:S=AA-AfjZesAs5wwqqzYZxjCSrGhBn"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__gads",
+	"path":	"/",
+	"expires_utc":	"13391946653000000",
+	"value":	"ID=44ae2f20aa86358f:T=1713777053:RT=1713777053:S=ALNI_MbD8Yor2lGmHX8pffWTwh8nybTTFw"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__gpi",
+	"path":	"/",
+	"expires_utc":	"13391946653000000",
+	"value":	"UID=00000df5cfa90c1f:T=1713777053:RT=1713777053:S=ALNI_MaBI1WAQLollMtKa8oKU0oM_7s0Vw"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_fbp",
+	"path":	"/",
+	"expires_utc":	"13366026654000000",
+	"value":	"fb.1.1713777050836.997107688"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_ga",
+	"path":	"/",
+	"expires_utc":	"13392810654513595",
+	"value":	"GA1.1.1532216154.1713777051"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_ga_ZW664MZ5J8",
+	"path":	"/",
+	"expires_utc":	"13392810654513367",
+	"value":	"GS1.1.1713777050.1.1.1713777054.56.0.0"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"audit",
+	"path":	"/",
+	"expires_utc":	"13389786655718768",
+	"value":	"1|++7+zRw+e8ue7lxmablztO2UycrI7UyNN6aM1TOKIph+WyYl5lhtU1Tjbc3TQq6O5IwZLVnBNgEiZ07GJqnMnujPGTiJ9gcmpmvllXEtYN4="
+}{
+	"host_key":	".coccoc.com",
+	"name":	"cc_t",
+	"path":	"/",
+	"expires_utc":	"13366026654995383",
+	"value":	"BxN6cQ9UKnU9BFVxekRQRwBoW14jY35jJEdnYmEUAFptC383NV9SeFYmI3wPEzwzUiYtchsbGR8vOA84QDQDaWogEGVi"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"chkChromeAb67Sec",
+	"path":	"/",
+	"expires_utc":	"13366026651771207",
+	"value":	"1"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"dc",
+	"path":	"/",
+	"expires_utc":	"13389786655543911",
+	"value":	"was1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"idCookie",
+	"path":	"/",
+	"expires_utc":	"13392810649894113",
+	"value":	"0%3A19835%3Abow36wf4zrw8zcoa"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"khaos",
+	"path":	"/",
+	"expires_utc":	"13389786655718709",
+	"value":	"LVAQLXRU-T-KUJR"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"ls",
+	"path":	"/",
+	"expires_utc":	"13392810656067545",
+	"value":	"1713777057"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"ntp_version",
+	"path":	"/",
+	"expires_utc":	"13373802654049249",
+	"value":	"28559816%2C7e66613a"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"savedS",
+	"path":	"/",
+	"expires_utc":	"13358251256000000",
+	"value":	"os"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"ss",
+	"path":	"/",
+	"expires_utc":	"13389786651710885",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"swManifestVersion",
+	"path":	"/",
+	"expires_utc":	"13392810654719407",
+	"value":	"28559816%2C7e66613a"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"swVersion",
+	"path":	"/",
+	"expires_utc":	"13392810654719194",
+	"value":	"63f484"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_betweenx",
+	"path":	"/",
+	"expires_utc":	"13358855455569412",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_happ",
+	"path":	"/",
+	"expires_utc":	"13358855450929397",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_pubmatic",
+	"path":	"/",
+	"expires_utc":	"13358855450929004",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_rubicon",
+	"path":	"/",
+	"expires_utc":	"13358855455289479",
+	"value":	"1"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"tuuid",
+	"path":	"/",
+	"expires_utc":	"13389786655543983",
+	"value":	"2ef3ba9d-d0ea-5371-8c72-aadbea548345"
+}{
+	"host_key":	".adform.net",
+	"name":	"uid",
+	"path":	"/",
+	"expires_utc":	"13363434655656303",
+	"value":	"2223883585933157224"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"uid",
+	"path":	"/",
+	"expires_utc":	"13392810656331927",
+	"value":	"Lf3czzANdieRtQnQkReRlw5PtaQjYcVKfiJ0cpFvNBoO"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"ut",
+	"path":	"/",
+	"expires_utc":	"13389786655544006",
+	"value":	"ZiYpoQAMrhjdM9LuvjK_gf57fWQBPDpc-ryRTw=="
+}{
+	"host_key":	".coccoc.com",
+	"name":	"vid",
+	"path":	"/",
+	"expires_utc":	"13392810656331991",
+	"value":	"TbrVrb9u1JJQb1oS6o1SGby1T6VToTgGrSo9WXUNCcVbdGaazBj-9kGc0kOWW"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"receive-cookie-deprecation",
+	"path":	"/",
+	"expires_utc":	"13366026655718790",
+	"value":	"1"
+}{
+	"host_key":	".google.com",
+	"name":	"NID",
+	"path":	"/",
+	"expires_utc":	"13374061888003436",
+	"value":	"513=bxsSOPWGFCaUilKb45UlG_6Qub4LEJ8WSadHycF3p_55PgfTau9uBsHG0w3GEmIoZ3PR9UGOi8pKAxvaLENRCBjoWkdWlPepobw21V7TW8fGFwvuy5-L8unFmLsT7UXYG_Vo5GNVI4iF0oFd6Jd968yYZFqxWgeXQMFnhXzTZVE"
+}{
+	"host_key":	".facebook.com",
+	"name":	"datr",
+	"path":	"/",
+	"expires_utc":	"13392810720564627",
+	"value":	"4SkmZqUsdVcuR3b_sBhrnRrv"
+}{
+	"host_key":	".facebook.com",
+	"name":	"fr",
+	"path":	"/",
+	"expires_utc":	"13366026719202539",
+	"value":	"0qlHmBDIzmu1LKed9..BmJinh..AAA.0.0.BmJinh.AWVrnYhpspI"
+}{
+	"host_key":	".facebook.com",
+	"name":	"sb",
+	"path":	"/",
+	"expires_utc":	"13392810719202585",
+	"value":	"4SkmZhKgOzWN6xRUu5Ydq8Fu"
+}{
+	"host_key":	".facebook.com",
+	"name":	"dpr",
+	"path":	"/",
+	"expires_utc":	"13358855624000000",
+	"value":	"1.25"
+}{
+	"host_key":	".facebook.com",
+	"name":	"wd",
+	"path":	"/",
+	"expires_utc":	"13358855624000000",
+	"value":	"1492x732"
+}{
+	"host_key":	"rungrinh.vn",
+	"name":	"INGRESSCOOKIE",
+	"path":	"/(api|assets)",
+	"expires_utc":	"13358423419751685",
+	"value":	"7c89016bacf802f8d4b85ff80525a80b|d12310a952742b5f5af8c83ae2e9e995"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"__CCAD__UID",
+	"path":	"/",
+	"expires_utc":	"13392810645659908",
+	"value":	"77193304-8aea-4ea9-855e-d13983533f63"
+}{
+	"host_key":	"rungrinh.vn",
+	"name":	"vid",
+	"path":	"/",
+	"expires_utc":	"13392810619463015",
+	"value":	"TbrVrb9u1JJQb1oS6o1SGby1T6VToTgGrSo9WXUNCcVbdGaazBj-9kGc0kOWW"
+}{
+	"host_key":	".adform.net",
+	"name":	"C",
+	"path":	"/",
+	"expires_utc":	"13360842655633191",
+	"value":	"1"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"DPSync3",
+	"path":	"/",
+	"expires_utc":	"13366026651771240",
+	"value":	"1714953600%3A241_235_201_245"
+}{
+	"host_key":	".youtube.com",
+	"name":	"GPS",
+	"path":	"/",
+	"expires_utc":	"13358252448780193",
+	"value":	"1"
+}{
+	"host_key":	".doubleclick.net",
+	"name":	"IDE",
+	"path":	"/",
+	"expires_utc":	"13392810651795406",
+	"value":	"AHWqTUlP1Fq-E1izfB7skI6OS8sgvA0a7k7bEuhy94VGoF1KOogyudchhZyil2WfrAg"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"KADUSERCOOKIE",
+	"path":	"/",
+	"expires_utc":	"13389786651771156",
+	"value":	"467DFEC2-E3DF-42D9-8F79-366E4E7EB882"
+}{
+	"host_key":	".youtube.com",
+	"name":	"PREF",
+	"path":	"/",
+	"expires_utc":	"13392810661534233",
+	"value":	"tz=Asia.Bangkok"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"SyncRTB3",
+	"path":	"/",
+	"expires_utc":	"13366026651771254",
+	"value":	"1716336000%3A203%7C1714953600%3A233_81_238_176_8_56_3_264_22_161_220_266_46_254_21_13_234_165_251_166_214_54_55_71%7C1714348800%3A2_223_15%7C1714608000%3A63%7C1715040000%3A35"
+}{
+	"host_key":	".adsrvr.org",
+	"name":	"TDCPM",
+	"path":	"/",
+	"expires_utc":	"13389786651855009",
+	"value":	"CAEYBSgCMgsI7rK7g9ut8TwQBTgB"
+}{
+	"host_key":	".adsrvr.org",
+	"name":	"TDID",
+	"path":	"/",
+	"expires_utc":	"13389786651854907",
+	"value":	"0fd713e1-b654-4e50-9066-4616e464fb81"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_INFO1_LIVE",
+	"path":	"/",
+	"expires_utc":	"13373802648780251",
+	"value":	"5qp3dotLdY8"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_PRIVACY_METADATA",
+	"path":	"/",
+	"expires_utc":	"13373802648780262",
+	"value":	"CgJWThIEGgAgLA%3D%3D"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"__CCAD__SW_CACHE_MAJOR",
+	"path":	"/",
+	"expires_utc":	"13392810649621569",
+	"value":	"2023-02-17"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__eoi",
+	"path":	"/",
+	"expires_utc":	"13373802653000000",
+	"value":	"ID=49cf56ca6c18776b:T=1713777053:RT=1713777053:S=AA-AfjZesAs5wwqqzYZxjCSrGhBn"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__gads",
+	"path":	"/",
+	"expires_utc":	"13391946653000000",
+	"value":	"ID=44ae2f20aa86358f:T=1713777053:RT=1713777053:S=ALNI_MbD8Yor2lGmHX8pffWTwh8nybTTFw"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__gpi",
+	"path":	"/",
+	"expires_utc":	"13391946653000000",
+	"value":	"UID=00000df5cfa90c1f:T=1713777053:RT=1713777053:S=ALNI_MaBI1WAQLollMtKa8oKU0oM_7s0Vw"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_fbp",
+	"path":	"/",
+	"expires_utc":	"13366026654000000",
+	"value":	"fb.1.1713777050836.997107688"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_ga",
+	"path":	"/",
+	"expires_utc":	"13392810654513595",
+	"value":	"GA1.1.1532216154.1713777051"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_ga_ZW664MZ5J8",
+	"path":	"/",
+	"expires_utc":	"13392810654513367",
+	"value":	"GS1.1.1713777050.1.1.1713777054.56.0.0"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"audit",
+	"path":	"/",
+	"expires_utc":	"13389786655718768",
+	"value":	"1|++7+zRw+e8ue7lxmablztO2UycrI7UyNN6aM1TOKIph+WyYl5lhtU1Tjbc3TQq6O5IwZLVnBNgEiZ07GJqnMnujPGTiJ9gcmpmvllXEtYN4="
+}{
+	"host_key":	".coccoc.com",
+	"name":	"cc_t",
+	"path":	"/",
+	"expires_utc":	"13366026654995383",
+	"value":	"BxN6cQ9UKnU9BFVxekRQRwBoW14jY35jJEdnYmEUAFptC383NV9SeFYmI3wPEzwzUiYtchsbGR8vOA84QDQDaWogEGVi"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"chkChromeAb67Sec",
+	"path":	"/",
+	"expires_utc":	"13366026651771207",
+	"value":	"1"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"dc",
+	"path":	"/",
+	"expires_utc":	"13389786655543911",
+	"value":	"was1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"idCookie",
+	"path":	"/",
+	"expires_utc":	"13392810649894113",
+	"value":	"0%3A19835%3Abow36wf4zrw8zcoa"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"khaos",
+	"path":	"/",
+	"expires_utc":	"13389786655718709",
+	"value":	"LVAQLXRU-T-KUJR"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"ls",
+	"path":	"/",
+	"expires_utc":	"13392810656067545",
+	"value":	"1713777057"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"ntp_version",
+	"path":	"/",
+	"expires_utc":	"13373802654049249",
+	"value":	"28559816%2C7e66613a"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"savedS",
+	"path":	"/",
+	"expires_utc":	"13358251256000000",
+	"value":	"os"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"ss",
+	"path":	"/",
+	"expires_utc":	"13389786651710885",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"swManifestVersion",
+	"path":	"/",
+	"expires_utc":	"13392810654719407",
+	"value":	"28559816%2C7e66613a"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"swVersion",
+	"path":	"/",
+	"expires_utc":	"13392810654719194",
+	"value":	"63f484"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_betweenx",
+	"path":	"/",
+	"expires_utc":	"13358855455569412",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_happ",
+	"path":	"/",
+	"expires_utc":	"13358855450929397",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_pubmatic",
+	"path":	"/",
+	"expires_utc":	"13358855450929004",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_rubicon",
+	"path":	"/",
+	"expires_utc":	"13358855455289479",
+	"value":	"1"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"tuuid",
+	"path":	"/",
+	"expires_utc":	"13389786655543983",
+	"value":	"2ef3ba9d-d0ea-5371-8c72-aadbea548345"
+}{
+	"host_key":	".adform.net",
+	"name":	"uid",
+	"path":	"/",
+	"expires_utc":	"13363434655656303",
+	"value":	"2223883585933157224"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"uid",
+	"path":	"/",
+	"expires_utc":	"13392810656331927",
+	"value":	"Lf3czzANdieRtQnQkReRlw5PtaQjYcVKfiJ0cpFvNBoO"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"ut",
+	"path":	"/",
+	"expires_utc":	"13389786655544006",
+	"value":	"ZiYpoQAMrhjdM9LuvjK_gf57fWQBPDpc-ryRTw=="
+}{
+	"host_key":	".coccoc.com",
+	"name":	"vid",
+	"path":	"/",
+	"expires_utc":	"13392810656331991",
+	"value":	"TbrVrb9u1JJQb1oS6o1SGby1T6VToTgGrSo9WXUNCcVbdGaazBj-9kGc0kOWW"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"receive-cookie-deprecation",
+	"path":	"/",
+	"expires_utc":	"13366026655718790",
+	"value":	"1"
+}{
+	"host_key":	".google.com",
+	"name":	"NID",
+	"path":	"/",
+	"expires_utc":	"13374061888003436",
+	"value":	"513=bxsSOPWGFCaUilKb45UlG_6Qub4LEJ8WSadHycF3p_55PgfTau9uBsHG0w3GEmIoZ3PR9UGOi8pKAxvaLENRCBjoWkdWlPepobw21V7TW8fGFwvuy5-L8unFmLsT7UXYG_Vo5GNVI4iF0oFd6Jd968yYZFqxWgeXQMFnhXzTZVE"
+}{
+	"host_key":	".facebook.com",
+	"name":	"datr",
+	"path":	"/",
+	"expires_utc":	"13392810720564627",
+	"value":	"4SkmZqUsdVcuR3b_sBhrnRrv"
+}{
+	"host_key":	".facebook.com",
+	"name":	"fr",
+	"path":	"/",
+	"expires_utc":	"13366026719202539",
+	"value":	"0qlHmBDIzmu1LKed9..BmJinh..AAA.0.0.BmJinh.AWVrnYhpspI"
+}{
+	"host_key":	".facebook.com",
+	"name":	"sb",
+	"path":	"/",
+	"expires_utc":	"13392810719202585",
+	"value":	"4SkmZhKgOzWN6xRUu5Ydq8Fu"
+}{
+	"host_key":	".facebook.com",
+	"name":	"dpr",
+	"path":	"/",
+	"expires_utc":	"13358855624000000",
+	"value":	"1.25"
+}{
+	"host_key":	".facebook.com",
+	"name":	"wd",
+	"path":	"/",
+	"expires_utc":	"13358855624000000",
+	"value":	"1492x732"
+}{
+	"host_key":	"rungrinh.vn",
+	"name":	"INGRESSCOOKIE",
+	"path":	"/(api|assets)",
+	"expires_utc":	"13358423419751685",
+	"value":	"7c89016bacf802f8d4b85ff80525a80b|d12310a952742b5f5af8c83ae2e9e995"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"__CCAD__UID",
+	"path":	"/",
+	"expires_utc":	"13392810645659908",
+	"value":	"77193304-8aea-4ea9-855e-d13983533f63"
+}{
+	"host_key":	"rungrinh.vn",
+	"name":	"vid",
+	"path":	"/",
+	"expires_utc":	"13392810619463015",
+	"value":	"TbrVrb9u1JJQb1oS6o1SGby1T6VToTgGrSo9WXUNCcVbdGaazBj-9kGc0kOWW"
+}{
+	"host_key":	".adform.net",
+	"name":	"C",
+	"path":	"/",
+	"expires_utc":	"13360842655633191",
+	"value":	"1"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"DPSync3",
+	"path":	"/",
+	"expires_utc":	"13366026651771240",
+	"value":	"1714953600%3A241_235_201_245"
+}{
+	"host_key":	".youtube.com",
+	"name":	"GPS",
+	"path":	"/",
+	"expires_utc":	"13358252448780193",
+	"value":	"1"
+}{
+	"host_key":	".doubleclick.net",
+	"name":	"IDE",
+	"path":	"/",
+	"expires_utc":	"13392810651795406",
+	"value":	"AHWqTUlP1Fq-E1izfB7skI6OS8sgvA0a7k7bEuhy94VGoF1KOogyudchhZyil2WfrAg"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"KADUSERCOOKIE",
+	"path":	"/",
+	"expires_utc":	"13389786651771156",
+	"value":	"467DFEC2-E3DF-42D9-8F79-366E4E7EB882"
+}{
+	"host_key":	".youtube.com",
+	"name":	"PREF",
+	"path":	"/",
+	"expires_utc":	"13392810661534233",
+	"value":	"tz=Asia.Bangkok"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"SyncRTB3",
+	"path":	"/",
+	"expires_utc":	"13366026651771254",
+	"value":	"1716336000%3A203%7C1714953600%3A233_81_238_176_8_56_3_264_22_161_220_266_46_254_21_13_234_165_251_166_214_54_55_71%7C1714348800%3A2_223_15%7C1714608000%3A63%7C1715040000%3A35"
+}{
+	"host_key":	".adsrvr.org",
+	"name":	"TDCPM",
+	"path":	"/",
+	"expires_utc":	"13389786651855009",
+	"value":	"CAEYBSgCMgsI7rK7g9ut8TwQBTgB"
+}{
+	"host_key":	".adsrvr.org",
+	"name":	"TDID",
+	"path":	"/",
+	"expires_utc":	"13389786651854907",
+	"value":	"0fd713e1-b654-4e50-9066-4616e464fb81"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_INFO1_LIVE",
+	"path":	"/",
+	"expires_utc":	"13373802648780251",
+	"value":	"5qp3dotLdY8"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_PRIVACY_METADATA",
+	"path":	"/",
+	"expires_utc":	"13373802648780262",
+	"value":	"CgJWThIEGgAgLA%3D%3D"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"__CCAD__SW_CACHE_MAJOR",
+	"path":	"/",
+	"expires_utc":	"13392810649621569",
+	"value":	"2023-02-17"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__eoi",
+	"path":	"/",
+	"expires_utc":	"13373802653000000",
+	"value":	"ID=49cf56ca6c18776b:T=1713777053:RT=1713777053:S=AA-AfjZesAs5wwqqzYZxjCSrGhBn"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__gads",
+	"path":	"/",
+	"expires_utc":	"13391946653000000",
+	"value":	"ID=44ae2f20aa86358f:T=1713777053:RT=1713777053:S=ALNI_MbD8Yor2lGmHX8pffWTwh8nybTTFw"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__gpi",
+	"path":	"/",
+	"expires_utc":	"13391946653000000",
+	"value":	"UID=00000df5cfa90c1f:T=1713777053:RT=1713777053:S=ALNI_MaBI1WAQLollMtKa8oKU0oM_7s0Vw"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_fbp",
+	"path":	"/",
+	"expires_utc":	"13366026654000000",
+	"value":	"fb.1.1713777050836.997107688"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_ga",
+	"path":	"/",
+	"expires_utc":	"13392810654513595",
+	"value":	"GA1.1.1532216154.1713777051"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_ga_ZW664MZ5J8",
+	"path":	"/",
+	"expires_utc":	"13392810654513367",
+	"value":	"GS1.1.1713777050.1.1.1713777054.56.0.0"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"audit",
+	"path":	"/",
+	"expires_utc":	"13389786655718768",
+	"value":	"1|++7+zRw+e8ue7lxmablztO2UycrI7UyNN6aM1TOKIph+WyYl5lhtU1Tjbc3TQq6O5IwZLVnBNgEiZ07GJqnMnujPGTiJ9gcmpmvllXEtYN4="
+}{
+	"host_key":	".coccoc.com",
+	"name":	"cc_t",
+	"path":	"/",
+	"expires_utc":	"13366026654995383",
+	"value":	"BxN6cQ9UKnU9BFVxekRQRwBoW14jY35jJEdnYmEUAFptC383NV9SeFYmI3wPEzwzUiYtchsbGR8vOA84QDQDaWogEGVi"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"chkChromeAb67Sec",
+	"path":	"/",
+	"expires_utc":	"13366026651771207",
+	"value":	"1"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"dc",
+	"path":	"/",
+	"expires_utc":	"13389786655543911",
+	"value":	"was1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"idCookie",
+	"path":	"/",
+	"expires_utc":	"13392810649894113",
+	"value":	"0%3A19835%3Abow36wf4zrw8zcoa"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"khaos",
+	"path":	"/",
+	"expires_utc":	"13389786655718709",
+	"value":	"LVAQLXRU-T-KUJR"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"ls",
+	"path":	"/",
+	"expires_utc":	"13392810656067545",
+	"value":	"1713777057"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"ntp_version",
+	"path":	"/",
+	"expires_utc":	"13373802654049249",
+	"value":	"28559816%2C7e66613a"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"savedS",
+	"path":	"/",
+	"expires_utc":	"13358251256000000",
+	"value":	"os"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"ss",
+	"path":	"/",
+	"expires_utc":	"13389786651710885",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"swManifestVersion",
+	"path":	"/",
+	"expires_utc":	"13392810654719407",
+	"value":	"28559816%2C7e66613a"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"swVersion",
+	"path":	"/",
+	"expires_utc":	"13392810654719194",
+	"value":	"63f484"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_betweenx",
+	"path":	"/",
+	"expires_utc":	"13358855455569412",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_happ",
+	"path":	"/",
+	"expires_utc":	"13358855450929397",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_pubmatic",
+	"path":	"/",
+	"expires_utc":	"13358855450929004",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_rubicon",
+	"path":	"/",
+	"expires_utc":	"13358855455289479",
+	"value":	"1"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"tuuid",
+	"path":	"/",
+	"expires_utc":	"13389786655543983",
+	"value":	"2ef3ba9d-d0ea-5371-8c72-aadbea548345"
+}{
+	"host_key":	".adform.net",
+	"name":	"uid",
+	"path":	"/",
+	"expires_utc":	"13363434655656303",
+	"value":	"2223883585933157224"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"uid",
+	"path":	"/",
+	"expires_utc":	"13392810656331927",
+	"value":	"Lf3czzANdieRtQnQkReRlw5PtaQjYcVKfiJ0cpFvNBoO"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"ut",
+	"path":	"/",
+	"expires_utc":	"13389786655544006",
+	"value":	"ZiYpoQAMrhjdM9LuvjK_gf57fWQBPDpc-ryRTw=="
+}{
+	"host_key":	".coccoc.com",
+	"name":	"vid",
+	"path":	"/",
+	"expires_utc":	"13392810656331991",
+	"value":	"TbrVrb9u1JJQb1oS6o1SGby1T6VToTgGrSo9WXUNCcVbdGaazBj-9kGc0kOWW"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"receive-cookie-deprecation",
+	"path":	"/",
+	"expires_utc":	"13366026655718790",
+	"value":	"1"
+}{
+	"host_key":	".google.com",
+	"name":	"NID",
+	"path":	"/",
+	"expires_utc":	"13374061888003436",
+	"value":	"513=bxsSOPWGFCaUilKb45UlG_6Qub4LEJ8WSadHycF3p_55PgfTau9uBsHG0w3GEmIoZ3PR9UGOi8pKAxvaLENRCBjoWkdWlPepobw21V7TW8fGFwvuy5-L8unFmLsT7UXYG_Vo5GNVI4iF0oFd6Jd968yYZFqxWgeXQMFnhXzTZVE"
+}{
+	"host_key":	".facebook.com",
+	"name":	"datr",
+	"path":	"/",
+	"expires_utc":	"13392810720564627",
+	"value":	"4SkmZqUsdVcuR3b_sBhrnRrv"
+}{
+	"host_key":	".facebook.com",
+	"name":	"fr",
+	"path":	"/",
+	"expires_utc":	"13366026719202539",
+	"value":	"0qlHmBDIzmu1LKed9..BmJinh..AAA.0.0.BmJinh.AWVrnYhpspI"
+}{
+	"host_key":	".facebook.com",
+	"name":	"sb",
+	"path":	"/",
+	"expires_utc":	"13392810719202585",
+	"value":	"4SkmZhKgOzWN6xRUu5Ydq8Fu"
+}{
+	"host_key":	".facebook.com",
+	"name":	"dpr",
+	"path":	"/",
+	"expires_utc":	"13358855624000000",
+	"value":	"1.25"
+}{
+	"host_key":	".facebook.com",
+	"name":	"wd",
+	"path":	"/",
+	"expires_utc":	"13358855624000000",
+	"value":	"1492x732"
+}{
+	"host_key":	"rungrinh.vn",
+	"name":	"INGRESSCOOKIE",
+	"path":	"/(api|assets)",
+	"expires_utc":	"13358423419751685",
+	"value":	"7c89016bacf802f8d4b85ff80525a80b|d12310a952742b5f5af8c83ae2e9e995"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"__CCAD__UID",
+	"path":	"/",
+	"expires_utc":	"13392810645659908",
+	"value":	"77193304-8aea-4ea9-855e-d13983533f63"
+}{
+	"host_key":	"rungrinh.vn",
+	"name":	"vid",
+	"path":	"/",
+	"expires_utc":	"13392810619463015",
+	"value":	"TbrVrb9u1JJQb1oS6o1SGby1T6VToTgGrSo9WXUNCcVbdGaazBj-9kGc0kOWW"
+}{
+	"host_key":	".adform.net",
+	"name":	"C",
+	"path":	"/",
+	"expires_utc":	"13360842655633191",
+	"value":	"1"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"DPSync3",
+	"path":	"/",
+	"expires_utc":	"13366026651771240",
+	"value":	"1714953600%3A241_235_201_245"
+}{
+	"host_key":	".youtube.com",
+	"name":	"GPS",
+	"path":	"/",
+	"expires_utc":	"13358252448780193",
+	"value":	"1"
+}{
+	"host_key":	".doubleclick.net",
+	"name":	"IDE",
+	"path":	"/",
+	"expires_utc":	"13392810651795406",
+	"value":	"AHWqTUlP1Fq-E1izfB7skI6OS8sgvA0a7k7bEuhy94VGoF1KOogyudchhZyil2WfrAg"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"KADUSERCOOKIE",
+	"path":	"/",
+	"expires_utc":	"13389786651771156",
+	"value":	"467DFEC2-E3DF-42D9-8F79-366E4E7EB882"
+}{
+	"host_key":	".youtube.com",
+	"name":	"PREF",
+	"path":	"/",
+	"expires_utc":	"13392810661534233",
+	"value":	"tz=Asia.Bangkok"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"SyncRTB3",
+	"path":	"/",
+	"expires_utc":	"13366026651771254",
+	"value":	"1716336000%3A203%7C1714953600%3A233_81_238_176_8_56_3_264_22_161_220_266_46_254_21_13_234_165_251_166_214_54_55_71%7C1714348800%3A2_223_15%7C1714608000%3A63%7C1715040000%3A35"
+}{
+	"host_key":	".adsrvr.org",
+	"name":	"TDCPM",
+	"path":	"/",
+	"expires_utc":	"13389786651855009",
+	"value":	"CAEYBSgCMgsI7rK7g9ut8TwQBTgB"
+}{
+	"host_key":	".adsrvr.org",
+	"name":	"TDID",
+	"path":	"/",
+	"expires_utc":	"13389786651854907",
+	"value":	"0fd713e1-b654-4e50-9066-4616e464fb81"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_INFO1_LIVE",
+	"path":	"/",
+	"expires_utc":	"13373802648780251",
+	"value":	"5qp3dotLdY8"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_PRIVACY_METADATA",
+	"path":	"/",
+	"expires_utc":	"13373802648780262",
+	"value":	"CgJWThIEGgAgLA%3D%3D"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"__CCAD__SW_CACHE_MAJOR",
+	"path":	"/",
+	"expires_utc":	"13392810649621569",
+	"value":	"2023-02-17"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__eoi",
+	"path":	"/",
+	"expires_utc":	"13373802653000000",
+	"value":	"ID=49cf56ca6c18776b:T=1713777053:RT=1713777053:S=AA-AfjZesAs5wwqqzYZxjCSrGhBn"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__gads",
+	"path":	"/",
+	"expires_utc":	"13391946653000000",
+	"value":	"ID=44ae2f20aa86358f:T=1713777053:RT=1713777053:S=ALNI_MbD8Yor2lGmHX8pffWTwh8nybTTFw"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__gpi",
+	"path":	"/",
+	"expires_utc":	"13391946653000000",
+	"value":	"UID=00000df5cfa90c1f:T=1713777053:RT=1713777053:S=ALNI_MaBI1WAQLollMtKa8oKU0oM_7s0Vw"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_fbp",
+	"path":	"/",
+	"expires_utc":	"13366026654000000",
+	"value":	"fb.1.1713777050836.997107688"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_ga",
+	"path":	"/",
+	"expires_utc":	"13392810654513595",
+	"value":	"GA1.1.1532216154.1713777051"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_ga_ZW664MZ5J8",
+	"path":	"/",
+	"expires_utc":	"13392810654513367",
+	"value":	"GS1.1.1713777050.1.1.1713777054.56.0.0"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"audit",
+	"path":	"/",
+	"expires_utc":	"13389786655718768",
+	"value":	"1|++7+zRw+e8ue7lxmablztO2UycrI7UyNN6aM1TOKIph+WyYl5lhtU1Tjbc3TQq6O5IwZLVnBNgEiZ07GJqnMnujPGTiJ9gcmpmvllXEtYN4="
+}{
+	"host_key":	".coccoc.com",
+	"name":	"cc_t",
+	"path":	"/",
+	"expires_utc":	"13366026654995383",
+	"value":	"BxN6cQ9UKnU9BFVxekRQRwBoW14jY35jJEdnYmEUAFptC383NV9SeFYmI3wPEzwzUiYtchsbGR8vOA84QDQDaWogEGVi"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"chkChromeAb67Sec",
+	"path":	"/",
+	"expires_utc":	"13366026651771207",
+	"value":	"1"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"dc",
+	"path":	"/",
+	"expires_utc":	"13389786655543911",
+	"value":	"was1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"idCookie",
+	"path":	"/",
+	"expires_utc":	"13392810649894113",
+	"value":	"0%3A19835%3Abow36wf4zrw8zcoa"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"khaos",
+	"path":	"/",
+	"expires_utc":	"13389786655718709",
+	"value":	"LVAQLXRU-T-KUJR"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"ls",
+	"path":	"/",
+	"expires_utc":	"13392810656067545",
+	"value":	"1713777057"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"ntp_version",
+	"path":	"/",
+	"expires_utc":	"13373802654049249",
+	"value":	"28559816%2C7e66613a"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"savedS",
+	"path":	"/",
+	"expires_utc":	"13358251256000000",
+	"value":	"os"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"ss",
+	"path":	"/",
+	"expires_utc":	"13389786651710885",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"swManifestVersion",
+	"path":	"/",
+	"expires_utc":	"13392810654719407",
+	"value":	"28559816%2C7e66613a"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"swVersion",
+	"path":	"/",
+	"expires_utc":	"13392810654719194",
+	"value":	"63f484"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_betweenx",
+	"path":	"/",
+	"expires_utc":	"13358855455569412",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_happ",
+	"path":	"/",
+	"expires_utc":	"13358855450929397",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_pubmatic",
+	"path":	"/",
+	"expires_utc":	"13358855450929004",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_rubicon",
+	"path":	"/",
+	"expires_utc":	"13358855455289479",
+	"value":	"1"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"tuuid",
+	"path":	"/",
+	"expires_utc":	"13389786655543983",
+	"value":	"2ef3ba9d-d0ea-5371-8c72-aadbea548345"
+}{
+	"host_key":	".adform.net",
+	"name":	"uid",
+	"path":	"/",
+	"expires_utc":	"13363434655656303",
+	"value":	"2223883585933157224"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"uid",
+	"path":	"/",
+	"expires_utc":	"13392810656331927",
+	"value":	"Lf3czzANdieRtQnQkReRlw5PtaQjYcVKfiJ0cpFvNBoO"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"ut",
+	"path":	"/",
+	"expires_utc":	"13389786655544006",
+	"value":	"ZiYpoQAMrhjdM9LuvjK_gf57fWQBPDpc-ryRTw=="
+}{
+	"host_key":	".coccoc.com",
+	"name":	"vid",
+	"path":	"/",
+	"expires_utc":	"13392810656331991",
+	"value":	"TbrVrb9u1JJQb1oS6o1SGby1T6VToTgGrSo9WXUNCcVbdGaazBj-9kGc0kOWW"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"receive-cookie-deprecation",
+	"path":	"/",
+	"expires_utc":	"13366026655718790",
+	"value":	"1"
+}{
+	"host_key":	".google.com",
+	"name":	"NID",
+	"path":	"/",
+	"expires_utc":	"13374061888003436",
+	"value":	"513=bxsSOPWGFCaUilKb45UlG_6Qub4LEJ8WSadHycF3p_55PgfTau9uBsHG0w3GEmIoZ3PR9UGOi8pKAxvaLENRCBjoWkdWlPepobw21V7TW8fGFwvuy5-L8unFmLsT7UXYG_Vo5GNVI4iF0oFd6Jd968yYZFqxWgeXQMFnhXzTZVE"
+}{
+	"host_key":	".facebook.com",
+	"name":	"datr",
+	"path":	"/",
+	"expires_utc":	"13392810720564627",
+	"value":	"4SkmZqUsdVcuR3b_sBhrnRrv"
+}{
+	"host_key":	".facebook.com",
+	"name":	"fr",
+	"path":	"/",
+	"expires_utc":	"13366026719202539",
+	"value":	"0qlHmBDIzmu1LKed9..BmJinh..AAA.0.0.BmJinh.AWVrnYhpspI"
+}{
+	"host_key":	".facebook.com",
+	"name":	"sb",
+	"path":	"/",
+	"expires_utc":	"13392810719202585",
+	"value":	"4SkmZhKgOzWN6xRUu5Ydq8Fu"
+}{
+	"host_key":	".facebook.com",
+	"name":	"dpr",
+	"path":	"/",
+	"expires_utc":	"13358855624000000",
+	"value":	"1.25"
+}{
+	"host_key":	".facebook.com",
+	"name":	"wd",
+	"path":	"/",
+	"expires_utc":	"13358855624000000",
+	"value":	"1492x732"
+}{
+	"host_key":	"rungrinh.vn",
+	"name":	"INGRESSCOOKIE",
+	"path":	"/(api|assets)",
+	"expires_utc":	"13358423419751685",
+	"value":	"7c89016bacf802f8d4b85ff80525a80b|d12310a952742b5f5af8c83ae2e9e995"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"__CCAD__UID",
+	"path":	"/",
+	"expires_utc":	"13392810645659908",
+	"value":	"77193304-8aea-4ea9-855e-d13983533f63"
+}{
+	"host_key":	"rungrinh.vn",
+	"name":	"vid",
+	"path":	"/",
+	"expires_utc":	"13392810619463015",
+	"value":	"TbrVrb9u1JJQb1oS6o1SGby1T6VToTgGrSo9WXUNCcVbdGaazBj-9kGc0kOWW"
+}{
+	"host_key":	".adform.net",
+	"name":	"C",
+	"path":	"/",
+	"expires_utc":	"13360842655633191",
+	"value":	"1"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"DPSync3",
+	"path":	"/",
+	"expires_utc":	"13366026651771240",
+	"value":	"1714953600%3A241_235_201_245"
+}{
+	"host_key":	".youtube.com",
+	"name":	"GPS",
+	"path":	"/",
+	"expires_utc":	"13358252448780193",
+	"value":	"1"
+}{
+	"host_key":	".doubleclick.net",
+	"name":	"IDE",
+	"path":	"/",
+	"expires_utc":	"13392810651795406",
+	"value":	"AHWqTUlP1Fq-E1izfB7skI6OS8sgvA0a7k7bEuhy94VGoF1KOogyudchhZyil2WfrAg"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"KADUSERCOOKIE",
+	"path":	"/",
+	"expires_utc":	"13389786651771156",
+	"value":	"467DFEC2-E3DF-42D9-8F79-366E4E7EB882"
+}{
+	"host_key":	".youtube.com",
+	"name":	"PREF",
+	"path":	"/",
+	"expires_utc":	"13392810661534233",
+	"value":	"tz=Asia.Bangkok"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"SyncRTB3",
+	"path":	"/",
+	"expires_utc":	"13366026651771254",
+	"value":	"1716336000%3A203%7C1714953600%3A233_81_238_176_8_56_3_264_22_161_220_266_46_254_21_13_234_165_251_166_214_54_55_71%7C1714348800%3A2_223_15%7C1714608000%3A63%7C1715040000%3A35"
+}{
+	"host_key":	".adsrvr.org",
+	"name":	"TDCPM",
+	"path":	"/",
+	"expires_utc":	"13389786651855009",
+	"value":	"CAEYBSgCMgsI7rK7g9ut8TwQBTgB"
+}{
+	"host_key":	".adsrvr.org",
+	"name":	"TDID",
+	"path":	"/",
+	"expires_utc":	"13389786651854907",
+	"value":	"0fd713e1-b654-4e50-9066-4616e464fb81"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_INFO1_LIVE",
+	"path":	"/",
+	"expires_utc":	"13373802648780251",
+	"value":	"5qp3dotLdY8"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_PRIVACY_METADATA",
+	"path":	"/",
+	"expires_utc":	"13373802648780262",
+	"value":	"CgJWThIEGgAgLA%3D%3D"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"__CCAD__SW_CACHE_MAJOR",
+	"path":	"/",
+	"expires_utc":	"13392810649621569",
+	"value":	"2023-02-17"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__eoi",
+	"path":	"/",
+	"expires_utc":	"13373802653000000",
+	"value":	"ID=49cf56ca6c18776b:T=1713777053:RT=1713777053:S=AA-AfjZesAs5wwqqzYZxjCSrGhBn"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__gads",
+	"path":	"/",
+	"expires_utc":	"13391946653000000",
+	"value":	"ID=44ae2f20aa86358f:T=1713777053:RT=1713777053:S=ALNI_MbD8Yor2lGmHX8pffWTwh8nybTTFw"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__gpi",
+	"path":	"/",
+	"expires_utc":	"13391946653000000",
+	"value":	"UID=00000df5cfa90c1f:T=1713777053:RT=1713777053:S=ALNI_MaBI1WAQLollMtKa8oKU0oM_7s0Vw"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_fbp",
+	"path":	"/",
+	"expires_utc":	"13366026654000000",
+	"value":	"fb.1.1713777050836.997107688"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_ga",
+	"path":	"/",
+	"expires_utc":	"13392810654513595",
+	"value":	"GA1.1.1532216154.1713777051"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_ga_ZW664MZ5J8",
+	"path":	"/",
+	"expires_utc":	"13392810654513367",
+	"value":	"GS1.1.1713777050.1.1.1713777054.56.0.0"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"audit",
+	"path":	"/",
+	"expires_utc":	"13389786655718768",
+	"value":	"1|++7+zRw+e8ue7lxmablztO2UycrI7UyNN6aM1TOKIph+WyYl5lhtU1Tjbc3TQq6O5IwZLVnBNgEiZ07GJqnMnujPGTiJ9gcmpmvllXEtYN4="
+}{
+	"host_key":	".coccoc.com",
+	"name":	"cc_t",
+	"path":	"/",
+	"expires_utc":	"13366026654995383",
+	"value":	"BxN6cQ9UKnU9BFVxekRQRwBoW14jY35jJEdnYmEUAFptC383NV9SeFYmI3wPEzwzUiYtchsbGR8vOA84QDQDaWogEGVi"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"chkChromeAb67Sec",
+	"path":	"/",
+	"expires_utc":	"13366026651771207",
+	"value":	"1"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"dc",
+	"path":	"/",
+	"expires_utc":	"13389786655543911",
+	"value":	"was1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"idCookie",
+	"path":	"/",
+	"expires_utc":	"13392810649894113",
+	"value":	"0%3A19835%3Abow36wf4zrw8zcoa"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"khaos",
+	"path":	"/",
+	"expires_utc":	"13389786655718709",
+	"value":	"LVAQLXRU-T-KUJR"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"ls",
+	"path":	"/",
+	"expires_utc":	"13392810656067545",
+	"value":	"1713777057"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"ntp_version",
+	"path":	"/",
+	"expires_utc":	"13373802654049249",
+	"value":	"28559816%2C7e66613a"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"savedS",
+	"path":	"/",
+	"expires_utc":	"13358251256000000",
+	"value":	"os"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"ss",
+	"path":	"/",
+	"expires_utc":	"13389786651710885",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"swManifestVersion",
+	"path":	"/",
+	"expires_utc":	"13392810654719407",
+	"value":	"28559816%2C7e66613a"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"swVersion",
+	"path":	"/",
+	"expires_utc":	"13392810654719194",
+	"value":	"63f484"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_betweenx",
+	"path":	"/",
+	"expires_utc":	"13358855455569412",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_happ",
+	"path":	"/",
+	"expires_utc":	"13358855450929397",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_pubmatic",
+	"path":	"/",
+	"expires_utc":	"13358855450929004",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_rubicon",
+	"path":	"/",
+	"expires_utc":	"13358855455289479",
+	"value":	"1"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"tuuid",
+	"path":	"/",
+	"expires_utc":	"13389786655543983",
+	"value":	"2ef3ba9d-d0ea-5371-8c72-aadbea548345"
+}{
+	"host_key":	".adform.net",
+	"name":	"uid",
+	"path":	"/",
+	"expires_utc":	"13363434655656303",
+	"value":	"2223883585933157224"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"uid",
+	"path":	"/",
+	"expires_utc":	"13392810656331927",
+	"value":	"Lf3czzANdieRtQnQkReRlw5PtaQjYcVKfiJ0cpFvNBoO"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"ut",
+	"path":	"/",
+	"expires_utc":	"13389786655544006",
+	"value":	"ZiYpoQAMrhjdM9LuvjK_gf57fWQBPDpc-ryRTw=="
+}{
+	"host_key":	".coccoc.com",
+	"name":	"vid",
+	"path":	"/",
+	"expires_utc":	"13392810656331991",
+	"value":	"TbrVrb9u1JJQb1oS6o1SGby1T6VToTgGrSo9WXUNCcVbdGaazBj-9kGc0kOWW"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"receive-cookie-deprecation",
+	"path":	"/",
+	"expires_utc":	"13366026655718790",
+	"value":	"1"
+}{
+	"host_key":	".google.com",
+	"name":	"NID",
+	"path":	"/",
+	"expires_utc":	"13374061888003436",
+	"value":	"513=bxsSOPWGFCaUilKb45UlG_6Qub4LEJ8WSadHycF3p_55PgfTau9uBsHG0w3GEmIoZ3PR9UGOi8pKAxvaLENRCBjoWkdWlPepobw21V7TW8fGFwvuy5-L8unFmLsT7UXYG_Vo5GNVI4iF0oFd6Jd968yYZFqxWgeXQMFnhXzTZVE"
+}{
+	"host_key":	".facebook.com",
+	"name":	"datr",
+	"path":	"/",
+	"expires_utc":	"13392810720564627",
+	"value":	"4SkmZqUsdVcuR3b_sBhrnRrv"
+}{
+	"host_key":	".facebook.com",
+	"name":	"fr",
+	"path":	"/",
+	"expires_utc":	"13366026719202539",
+	"value":	"0qlHmBDIzmu1LKed9..BmJinh..AAA.0.0.BmJinh.AWVrnYhpspI"
+}{
+	"host_key":	".facebook.com",
+	"name":	"sb",
+	"path":	"/",
+	"expires_utc":	"13392810719202585",
+	"value":	"4SkmZhKgOzWN6xRUu5Ydq8Fu"
+}{
+	"host_key":	".facebook.com",
+	"name":	"dpr",
+	"path":	"/",
+	"expires_utc":	"13358855624000000",
+	"value":	"1.25"
+}{
+	"host_key":	".facebook.com",
+	"name":	"wd",
+	"path":	"/",
+	"expires_utc":	"13358855624000000",
+	"value":	"1492x732"
+}{
+	"host_key":	"rungrinh.vn",
+	"name":	"INGRESSCOOKIE",
+	"path":	"/(api|assets)",
+	"expires_utc":	"13358423419751685",
+	"value":	"7c89016bacf802f8d4b85ff80525a80b|d12310a952742b5f5af8c83ae2e9e995"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"__CCAD__UID",
+	"path":	"/",
+	"expires_utc":	"13392810645659908",
+	"value":	"77193304-8aea-4ea9-855e-d13983533f63"
+}{
+	"host_key":	"rungrinh.vn",
+	"name":	"vid",
+	"path":	"/",
+	"expires_utc":	"13392810619463015",
+	"value":	"TbrVrb9u1JJQb1oS6o1SGby1T6VToTgGrSo9WXUNCcVbdGaazBj-9kGc0kOWW"
+}{
+	"host_key":	".adform.net",
+	"name":	"C",
+	"path":	"/",
+	"expires_utc":	"13360842655633191",
+	"value":	"1"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"DPSync3",
+	"path":	"/",
+	"expires_utc":	"13366026651771240",
+	"value":	"1714953600%3A241_235_201_245"
+}{
+	"host_key":	".youtube.com",
+	"name":	"GPS",
+	"path":	"/",
+	"expires_utc":	"13358252448780193",
+	"value":	"1"
+}{
+	"host_key":	".doubleclick.net",
+	"name":	"IDE",
+	"path":	"/",
+	"expires_utc":	"13392810651795406",
+	"value":	"AHWqTUlP1Fq-E1izfB7skI6OS8sgvA0a7k7bEuhy94VGoF1KOogyudchhZyil2WfrAg"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"KADUSERCOOKIE",
+	"path":	"/",
+	"expires_utc":	"13389786651771156",
+	"value":	"467DFEC2-E3DF-42D9-8F79-366E4E7EB882"
+}{
+	"host_key":	".youtube.com",
+	"name":	"PREF",
+	"path":	"/",
+	"expires_utc":	"13392810661534233",
+	"value":	"tz=Asia.Bangkok"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"SyncRTB3",
+	"path":	"/",
+	"expires_utc":	"13366026651771254",
+	"value":	"1716336000%3A203%7C1714953600%3A233_81_238_176_8_56_3_264_22_161_220_266_46_254_21_13_234_165_251_166_214_54_55_71%7C1714348800%3A2_223_15%7C1714608000%3A63%7C1715040000%3A35"
+}{
+	"host_key":	".adsrvr.org",
+	"name":	"TDCPM",
+	"path":	"/",
+	"expires_utc":	"13389786651855009",
+	"value":	"CAEYBSgCMgsI7rK7g9ut8TwQBTgB"
+}{
+	"host_key":	".adsrvr.org",
+	"name":	"TDID",
+	"path":	"/",
+	"expires_utc":	"13389786651854907",
+	"value":	"0fd713e1-b654-4e50-9066-4616e464fb81"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_INFO1_LIVE",
+	"path":	"/",
+	"expires_utc":	"13373802648780251",
+	"value":	"5qp3dotLdY8"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_PRIVACY_METADATA",
+	"path":	"/",
+	"expires_utc":	"13373802648780262",
+	"value":	"CgJWThIEGgAgLA%3D%3D"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"__CCAD__SW_CACHE_MAJOR",
+	"path":	"/",
+	"expires_utc":	"13392810649621569",
+	"value":	"2023-02-17"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__eoi",
+	"path":	"/",
+	"expires_utc":	"13373802653000000",
+	"value":	"ID=49cf56ca6c18776b:T=1713777053:RT=1713777053:S=AA-AfjZesAs5wwqqzYZxjCSrGhBn"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__gads",
+	"path":	"/",
+	"expires_utc":	"13391946653000000",
+	"value":	"ID=44ae2f20aa86358f:T=1713777053:RT=1713777053:S=ALNI_MbD8Yor2lGmHX8pffWTwh8nybTTFw"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__gpi",
+	"path":	"/",
+	"expires_utc":	"13391946653000000",
+	"value":	"UID=00000df5cfa90c1f:T=1713777053:RT=1713777053:S=ALNI_MaBI1WAQLollMtKa8oKU0oM_7s0Vw"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_fbp",
+	"path":	"/",
+	"expires_utc":	"13366026654000000",
+	"value":	"fb.1.1713777050836.997107688"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_ga",
+	"path":	"/",
+	"expires_utc":	"13392810654513595",
+	"value":	"GA1.1.1532216154.1713777051"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_ga_ZW664MZ5J8",
+	"path":	"/",
+	"expires_utc":	"13392810654513367",
+	"value":	"GS1.1.1713777050.1.1.1713777054.56.0.0"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"audit",
+	"path":	"/",
+	"expires_utc":	"13389786655718768",
+	"value":	"1|++7+zRw+e8ue7lxmablztO2UycrI7UyNN6aM1TOKIph+WyYl5lhtU1Tjbc3TQq6O5IwZLVnBNgEiZ07GJqnMnujPGTiJ9gcmpmvllXEtYN4="
+}{
+	"host_key":	".coccoc.com",
+	"name":	"cc_t",
+	"path":	"/",
+	"expires_utc":	"13366026654995383",
+	"value":	"BxN6cQ9UKnU9BFVxekRQRwBoW14jY35jJEdnYmEUAFptC383NV9SeFYmI3wPEzwzUiYtchsbGR8vOA84QDQDaWogEGVi"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"chkChromeAb67Sec",
+	"path":	"/",
+	"expires_utc":	"13366026651771207",
+	"value":	"1"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"dc",
+	"path":	"/",
+	"expires_utc":	"13389786655543911",
+	"value":	"was1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"idCookie",
+	"path":	"/",
+	"expires_utc":	"13392810649894113",
+	"value":	"0%3A19835%3Abow36wf4zrw8zcoa"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"khaos",
+	"path":	"/",
+	"expires_utc":	"13389786655718709",
+	"value":	"LVAQLXRU-T-KUJR"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"ls",
+	"path":	"/",
+	"expires_utc":	"13392810656067545",
+	"value":	"1713777057"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"ntp_version",
+	"path":	"/",
+	"expires_utc":	"13373802654049249",
+	"value":	"28559816%2C7e66613a"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"savedS",
+	"path":	"/",
+	"expires_utc":	"13358251256000000",
+	"value":	"os"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"ss",
+	"path":	"/",
+	"expires_utc":	"13389786651710885",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"swManifestVersion",
+	"path":	"/",
+	"expires_utc":	"13392810654719407",
+	"value":	"28559816%2C7e66613a"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"swVersion",
+	"path":	"/",
+	"expires_utc":	"13392810654719194",
+	"value":	"63f484"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_betweenx",
+	"path":	"/",
+	"expires_utc":	"13358855455569412",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_happ",
+	"path":	"/",
+	"expires_utc":	"13358855450929397",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_pubmatic",
+	"path":	"/",
+	"expires_utc":	"13358855450929004",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_rubicon",
+	"path":	"/",
+	"expires_utc":	"13358855455289479",
+	"value":	"1"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"tuuid",
+	"path":	"/",
+	"expires_utc":	"13389786655543983",
+	"value":	"2ef3ba9d-d0ea-5371-8c72-aadbea548345"
+}{
+	"host_key":	".adform.net",
+	"name":	"uid",
+	"path":	"/",
+	"expires_utc":	"13363434655656303",
+	"value":	"2223883585933157224"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"uid",
+	"path":	"/",
+	"expires_utc":	"13392810656331927",
+	"value":	"Lf3czzANdieRtQnQkReRlw5PtaQjYcVKfiJ0cpFvNBoO"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"ut",
+	"path":	"/",
+	"expires_utc":	"13389786655544006",
+	"value":	"ZiYpoQAMrhjdM9LuvjK_gf57fWQBPDpc-ryRTw=="
+}{
+	"host_key":	".coccoc.com",
+	"name":	"vid",
+	"path":	"/",
+	"expires_utc":	"13392810656331991",
+	"value":	"TbrVrb9u1JJQb1oS6o1SGby1T6VToTgGrSo9WXUNCcVbdGaazBj-9kGc0kOWW"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"receive-cookie-deprecation",
+	"path":	"/",
+	"expires_utc":	"13366026655718790",
+	"value":	"1"
+}{
+	"host_key":	".google.com",
+	"name":	"NID",
+	"path":	"/",
+	"expires_utc":	"13374061888003436",
+	"value":	"513=bxsSOPWGFCaUilKb45UlG_6Qub4LEJ8WSadHycF3p_55PgfTau9uBsHG0w3GEmIoZ3PR9UGOi8pKAxvaLENRCBjoWkdWlPepobw21V7TW8fGFwvuy5-L8unFmLsT7UXYG_Vo5GNVI4iF0oFd6Jd968yYZFqxWgeXQMFnhXzTZVE"
+}{
+	"host_key":	".facebook.com",
+	"name":	"datr",
+	"path":	"/",
+	"expires_utc":	"13392810720564627",
+	"value":	"4SkmZqUsdVcuR3b_sBhrnRrv"
+}{
+	"host_key":	".facebook.com",
+	"name":	"fr",
+	"path":	"/",
+	"expires_utc":	"13366026719202539",
+	"value":	"0qlHmBDIzmu1LKed9..BmJinh..AAA.0.0.BmJinh.AWVrnYhpspI"
+}{
+	"host_key":	".facebook.com",
+	"name":	"sb",
+	"path":	"/",
+	"expires_utc":	"13392810719202585",
+	"value":	"4SkmZhKgOzWN6xRUu5Ydq8Fu"
+}{
+	"host_key":	".facebook.com",
+	"name":	"dpr",
+	"path":	"/",
+	"expires_utc":	"13358855624000000",
+	"value":	"1.25"
+}{
+	"host_key":	".facebook.com",
+	"name":	"wd",
+	"path":	"/",
+	"expires_utc":	"13358855624000000",
+	"value":	"1492x732"
+}{
+	"host_key":	"rungrinh.vn",
+	"name":	"INGRESSCOOKIE",
+	"path":	"/(api|assets)",
+	"expires_utc":	"13358423419751685",
+	"value":	"7c89016bacf802f8d4b85ff80525a80b|d12310a952742b5f5af8c83ae2e9e995"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"__CCAD__UID",
+	"path":	"/",
+	"expires_utc":	"13392810645659908",
+	"value":	"77193304-8aea-4ea9-855e-d13983533f63"
+}{
+	"host_key":	"rungrinh.vn",
+	"name":	"vid",
+	"path":	"/",
+	"expires_utc":	"13392810619463015",
+	"value":	"TbrVrb9u1JJQb1oS6o1SGby1T6VToTgGrSo9WXUNCcVbdGaazBj-9kGc0kOWW"
+}{
+	"host_key":	".adform.net",
+	"name":	"C",
+	"path":	"/",
+	"expires_utc":	"13360842655633191",
+	"value":	"1"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"DPSync3",
+	"path":	"/",
+	"expires_utc":	"13366026651771240",
+	"value":	"1714953600%3A241_235_201_245"
+}{
+	"host_key":	".youtube.com",
+	"name":	"GPS",
+	"path":	"/",
+	"expires_utc":	"13358252448780193",
+	"value":	"1"
+}{
+	"host_key":	".doubleclick.net",
+	"name":	"IDE",
+	"path":	"/",
+	"expires_utc":	"13392810651795406",
+	"value":	"AHWqTUlP1Fq-E1izfB7skI6OS8sgvA0a7k7bEuhy94VGoF1KOogyudchhZyil2WfrAg"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"KADUSERCOOKIE",
+	"path":	"/",
+	"expires_utc":	"13389786651771156",
+	"value":	"467DFEC2-E3DF-42D9-8F79-366E4E7EB882"
+}{
+	"host_key":	".youtube.com",
+	"name":	"PREF",
+	"path":	"/",
+	"expires_utc":	"13392810661534233",
+	"value":	"tz=Asia.Bangkok"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"SyncRTB3",
+	"path":	"/",
+	"expires_utc":	"13366026651771254",
+	"value":	"1716336000%3A203%7C1714953600%3A233_81_238_176_8_56_3_264_22_161_220_266_46_254_21_13_234_165_251_166_214_54_55_71%7C1714348800%3A2_223_15%7C1714608000%3A63%7C1715040000%3A35"
+}{
+	"host_key":	".adsrvr.org",
+	"name":	"TDCPM",
+	"path":	"/",
+	"expires_utc":	"13389786651855009",
+	"value":	"CAEYBSgCMgsI7rK7g9ut8TwQBTgB"
+}{
+	"host_key":	".adsrvr.org",
+	"name":	"TDID",
+	"path":	"/",
+	"expires_utc":	"13389786651854907",
+	"value":	"0fd713e1-b654-4e50-9066-4616e464fb81"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_INFO1_LIVE",
+	"path":	"/",
+	"expires_utc":	"13373802648780251",
+	"value":	"5qp3dotLdY8"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_PRIVACY_METADATA",
+	"path":	"/",
+	"expires_utc":	"13373802648780262",
+	"value":	"CgJWThIEGgAgLA%3D%3D"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"__CCAD__SW_CACHE_MAJOR",
+	"path":	"/",
+	"expires_utc":	"13392810649621569",
+	"value":	"2023-02-17"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__eoi",
+	"path":	"/",
+	"expires_utc":	"13373802653000000",
+	"value":	"ID=49cf56ca6c18776b:T=1713777053:RT=1713777053:S=AA-AfjZesAs5wwqqzYZxjCSrGhBn"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__gads",
+	"path":	"/",
+	"expires_utc":	"13391946653000000",
+	"value":	"ID=44ae2f20aa86358f:T=1713777053:RT=1713777053:S=ALNI_MbD8Yor2lGmHX8pffWTwh8nybTTFw"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__gpi",
+	"path":	"/",
+	"expires_utc":	"13391946653000000",
+	"value":	"UID=00000df5cfa90c1f:T=1713777053:RT=1713777053:S=ALNI_MaBI1WAQLollMtKa8oKU0oM_7s0Vw"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_fbp",
+	"path":	"/",
+	"expires_utc":	"13366026654000000",
+	"value":	"fb.1.1713777050836.997107688"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_ga",
+	"path":	"/",
+	"expires_utc":	"13392810654513595",
+	"value":	"GA1.1.1532216154.1713777051"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_ga_ZW664MZ5J8",
+	"path":	"/",
+	"expires_utc":	"13392810654513367",
+	"value":	"GS1.1.1713777050.1.1.1713777054.56.0.0"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"audit",
+	"path":	"/",
+	"expires_utc":	"13389786655718768",
+	"value":	"1|++7+zRw+e8ue7lxmablztO2UycrI7UyNN6aM1TOKIph+WyYl5lhtU1Tjbc3TQq6O5IwZLVnBNgEiZ07GJqnMnujPGTiJ9gcmpmvllXEtYN4="
+}{
+	"host_key":	".coccoc.com",
+	"name":	"cc_t",
+	"path":	"/",
+	"expires_utc":	"13366026654995383",
+	"value":	"BxN6cQ9UKnU9BFVxekRQRwBoW14jY35jJEdnYmEUAFptC383NV9SeFYmI3wPEzwzUiYtchsbGR8vOA84QDQDaWogEGVi"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"chkChromeAb67Sec",
+	"path":	"/",
+	"expires_utc":	"13366026651771207",
+	"value":	"1"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"dc",
+	"path":	"/",
+	"expires_utc":	"13389786655543911",
+	"value":	"was1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"idCookie",
+	"path":	"/",
+	"expires_utc":	"13392810649894113",
+	"value":	"0%3A19835%3Abow36wf4zrw8zcoa"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"khaos",
+	"path":	"/",
+	"expires_utc":	"13389786655718709",
+	"value":	"LVAQLXRU-T-KUJR"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"ls",
+	"path":	"/",
+	"expires_utc":	"13392810656067545",
+	"value":	"1713777057"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"ntp_version",
+	"path":	"/",
+	"expires_utc":	"13373802654049249",
+	"value":	"28559816%2C7e66613a"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"savedS",
+	"path":	"/",
+	"expires_utc":	"13358251256000000",
+	"value":	"os"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"ss",
+	"path":	"/",
+	"expires_utc":	"13389786651710885",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"swManifestVersion",
+	"path":	"/",
+	"expires_utc":	"13392810654719407",
+	"value":	"28559816%2C7e66613a"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"swVersion",
+	"path":	"/",
+	"expires_utc":	"13392810654719194",
+	"value":	"63f484"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_betweenx",
+	"path":	"/",
+	"expires_utc":	"13358855455569412",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_happ",
+	"path":	"/",
+	"expires_utc":	"13358855450929397",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_pubmatic",
+	"path":	"/",
+	"expires_utc":	"13358855450929004",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_rubicon",
+	"path":	"/",
+	"expires_utc":	"13358855455289479",
+	"value":	"1"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"tuuid",
+	"path":	"/",
+	"expires_utc":	"13389786655543983",
+	"value":	"2ef3ba9d-d0ea-5371-8c72-aadbea548345"
+}{
+	"host_key":	".adform.net",
+	"name":	"uid",
+	"path":	"/",
+	"expires_utc":	"13363434655656303",
+	"value":	"2223883585933157224"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"uid",
+	"path":	"/",
+	"expires_utc":	"13392810656331927",
+	"value":	"Lf3czzANdieRtQnQkReRlw5PtaQjYcVKfiJ0cpFvNBoO"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"ut",
+	"path":	"/",
+	"expires_utc":	"13389786655544006",
+	"value":	"ZiYpoQAMrhjdM9LuvjK_gf57fWQBPDpc-ryRTw=="
+}{
+	"host_key":	".coccoc.com",
+	"name":	"vid",
+	"path":	"/",
+	"expires_utc":	"13392810656331991",
+	"value":	"TbrVrb9u1JJQb1oS6o1SGby1T6VToTgGrSo9WXUNCcVbdGaazBj-9kGc0kOWW"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"receive-cookie-deprecation",
+	"path":	"/",
+	"expires_utc":	"13366026655718790",
+	"value":	"1"
+}{
+	"host_key":	".google.com",
+	"name":	"NID",
+	"path":	"/",
+	"expires_utc":	"13374061888003436",
+	"value":	"513=bxsSOPWGFCaUilKb45UlG_6Qub4LEJ8WSadHycF3p_55PgfTau9uBsHG0w3GEmIoZ3PR9UGOi8pKAxvaLENRCBjoWkdWlPepobw21V7TW8fGFwvuy5-L8unFmLsT7UXYG_Vo5GNVI4iF0oFd6Jd968yYZFqxWgeXQMFnhXzTZVE"
+}{
+	"host_key":	".facebook.com",
+	"name":	"datr",
+	"path":	"/",
+	"expires_utc":	"13392810720564627",
+	"value":	"4SkmZqUsdVcuR3b_sBhrnRrv"
+}{
+	"host_key":	".facebook.com",
+	"name":	"fr",
+	"path":	"/",
+	"expires_utc":	"13366026719202539",
+	"value":	"0qlHmBDIzmu1LKed9..BmJinh..AAA.0.0.BmJinh.AWVrnYhpspI"
+}{
+	"host_key":	".facebook.com",
+	"name":	"sb",
+	"path":	"/",
+	"expires_utc":	"13392810719202585",
+	"value":	"4SkmZhKgOzWN6xRUu5Ydq8Fu"
+}{
+	"host_key":	".facebook.com",
+	"name":	"dpr",
+	"path":	"/",
+	"expires_utc":	"13358855624000000",
+	"value":	"1.25"
+}{
+	"host_key":	".facebook.com",
+	"name":	"wd",
+	"path":	"/",
+	"expires_utc":	"13358855624000000",
+	"value":	"1492x732"
+}{
+	"host_key":	"rungrinh.vn",
+	"name":	"INGRESSCOOKIE",
+	"path":	"/(api|assets)",
+	"expires_utc":	"13358423419751685",
+	"value":	"7c89016bacf802f8d4b85ff80525a80b|d12310a952742b5f5af8c83ae2e9e995"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"__CCAD__UID",
+	"path":	"/",
+	"expires_utc":	"13392810645659908",
+	"value":	"77193304-8aea-4ea9-855e-d13983533f63"
+}{
+	"host_key":	"rungrinh.vn",
+	"name":	"vid",
+	"path":	"/",
+	"expires_utc":	"13392810619463015",
+	"value":	"TbrVrb9u1JJQb1oS6o1SGby1T6VToTgGrSo9WXUNCcVbdGaazBj-9kGc0kOWW"
+}{
+	"host_key":	".adform.net",
+	"name":	"C",
+	"path":	"/",
+	"expires_utc":	"13360842655633191",
+	"value":	"1"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"DPSync3",
+	"path":	"/",
+	"expires_utc":	"13366026651771240",
+	"value":	"1714953600%3A241_235_201_245"
+}{
+	"host_key":	".youtube.com",
+	"name":	"GPS",
+	"path":	"/",
+	"expires_utc":	"13358252448780193",
+	"value":	"1"
+}{
+	"host_key":	".doubleclick.net",
+	"name":	"IDE",
+	"path":	"/",
+	"expires_utc":	"13392810651795406",
+	"value":	"AHWqTUlP1Fq-E1izfB7skI6OS8sgvA0a7k7bEuhy94VGoF1KOogyudchhZyil2WfrAg"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"KADUSERCOOKIE",
+	"path":	"/",
+	"expires_utc":	"13389786651771156",
+	"value":	"467DFEC2-E3DF-42D9-8F79-366E4E7EB882"
+}{
+	"host_key":	".youtube.com",
+	"name":	"PREF",
+	"path":	"/",
+	"expires_utc":	"13392810661534233",
+	"value":	"tz=Asia.Bangkok"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"SyncRTB3",
+	"path":	"/",
+	"expires_utc":	"13366026651771254",
+	"value":	"1716336000%3A203%7C1714953600%3A233_81_238_176_8_56_3_264_22_161_220_266_46_254_21_13_234_165_251_166_214_54_55_71%7C1714348800%3A2_223_15%7C1714608000%3A63%7C1715040000%3A35"
+}{
+	"host_key":	".adsrvr.org",
+	"name":	"TDCPM",
+	"path":	"/",
+	"expires_utc":	"13389786651855009",
+	"value":	"CAEYBSgCMgsI7rK7g9ut8TwQBTgB"
+}{
+	"host_key":	".adsrvr.org",
+	"name":	"TDID",
+	"path":	"/",
+	"expires_utc":	"13389786651854907",
+	"value":	"0fd713e1-b654-4e50-9066-4616e464fb81"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_INFO1_LIVE",
+	"path":	"/",
+	"expires_utc":	"13373802648780251",
+	"value":	"5qp3dotLdY8"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_PRIVACY_METADATA",
+	"path":	"/",
+	"expires_utc":	"13373802648780262",
+	"value":	"CgJWThIEGgAgLA%3D%3D"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"__CCAD__SW_CACHE_MAJOR",
+	"path":	"/",
+	"expires_utc":	"13392810649621569",
+	"value":	"2023-02-17"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__eoi",
+	"path":	"/",
+	"expires_utc":	"13373802653000000",
+	"value":	"ID=49cf56ca6c18776b:T=1713777053:RT=1713777053:S=AA-AfjZesAs5wwqqzYZxjCSrGhBn"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__gads",
+	"path":	"/",
+	"expires_utc":	"13391946653000000",
+	"value":	"ID=44ae2f20aa86358f:T=1713777053:RT=1713777053:S=ALNI_MbD8Yor2lGmHX8pffWTwh8nybTTFw"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"__gpi",
+	"path":	"/",
+	"expires_utc":	"13391946653000000",
+	"value":	"UID=00000df5cfa90c1f:T=1713777053:RT=1713777053:S=ALNI_MaBI1WAQLollMtKa8oKU0oM_7s0Vw"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_fbp",
+	"path":	"/",
+	"expires_utc":	"13366026654000000",
+	"value":	"fb.1.1713777050836.997107688"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_ga",
+	"path":	"/",
+	"expires_utc":	"13392810654513595",
+	"value":	"GA1.1.1532216154.1713777051"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"_ga_ZW664MZ5J8",
+	"path":	"/",
+	"expires_utc":	"13392810654513367",
+	"value":	"GS1.1.1713777050.1.1.1713777054.56.0.0"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"audit",
+	"path":	"/",
+	"expires_utc":	"13389786655718768",
+	"value":	"1|++7+zRw+e8ue7lxmablztO2UycrI7UyNN6aM1TOKIph+WyYl5lhtU1Tjbc3TQq6O5IwZLVnBNgEiZ07GJqnMnujPGTiJ9gcmpmvllXEtYN4="
+}{
+	"host_key":	".coccoc.com",
+	"name":	"cc_t",
+	"path":	"/",
+	"expires_utc":	"13366026654995383",
+	"value":	"BxN6cQ9UKnU9BFVxekRQRwBoW14jY35jJEdnYmEUAFptC383NV9SeFYmI3wPEzwzUiYtchsbGR8vOA84QDQDaWogEGVi"
+}{
+	"host_key":	".pubmatic.com",
+	"name":	"chkChromeAb67Sec",
+	"path":	"/",
+	"expires_utc":	"13366026651771207",
+	"value":	"1"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"dc",
+	"path":	"/",
+	"expires_utc":	"13389786655543911",
+	"value":	"was1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"idCookie",
+	"path":	"/",
+	"expires_utc":	"13392810649894113",
+	"value":	"0%3A19835%3Abow36wf4zrw8zcoa"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"khaos",
+	"path":	"/",
+	"expires_utc":	"13389786655718709",
+	"value":	"LVAQLXRU-T-KUJR"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"ls",
+	"path":	"/",
+	"expires_utc":	"13392810656067545",
+	"value":	"1713777057"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"ntp_version",
+	"path":	"/",
+	"expires_utc":	"13373802654049249",
+	"value":	"28559816%2C7e66613a"
+}{
+	"host_key":	"coccoc.com",
+	"name":	"savedS",
+	"path":	"/",
+	"expires_utc":	"13358251256000000",
+	"value":	"os"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"ss",
+	"path":	"/",
+	"expires_utc":	"13389786651710885",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"swManifestVersion",
+	"path":	"/",
+	"expires_utc":	"13392810654719407",
+	"value":	"28559816%2C7e66613a"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"swVersion",
+	"path":	"/",
+	"expires_utc":	"13392810654719194",
+	"value":	"63f484"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_betweenx",
+	"path":	"/",
+	"expires_utc":	"13358855455569412",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_happ",
+	"path":	"/",
+	"expires_utc":	"13358855450929397",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_pubmatic",
+	"path":	"/",
+	"expires_utc":	"13358855450929004",
+	"value":	"1"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"synced_rubicon",
+	"path":	"/",
+	"expires_utc":	"13358855455289479",
+	"value":	"1"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"tuuid",
+	"path":	"/",
+	"expires_utc":	"13389786655543983",
+	"value":	"2ef3ba9d-d0ea-5371-8c72-aadbea548345"
+}{
+	"host_key":	".adform.net",
+	"name":	"uid",
+	"path":	"/",
+	"expires_utc":	"13363434655656303",
+	"value":	"2223883585933157224"
+}{
+	"host_key":	".coccoc.com",
+	"name":	"uid",
+	"path":	"/",
+	"expires_utc":	"13392810656331927",
+	"value":	"Lf3czzANdieRtQnQkReRlw5PtaQjYcVKfiJ0cpFvNBoO"
+}{
+	"host_key":	".betweendigital.com",
+	"name":	"ut",
+	"path":	"/",
+	"expires_utc":	"13389786655544006",
+	"value":	"ZiYpoQAMrhjdM9LuvjK_gf57fWQBPDpc-ryRTw=="
+}{
+	"host_key":	".coccoc.com",
+	"name":	"vid",
+	"path":	"/",
+	"expires_utc":	"13392810656331991",
+	"value":	"TbrVrb9u1JJQb1oS6o1SGby1T6VToTgGrSo9WXUNCcVbdGaazBj-9kGc0kOWW"
+}{
+	"host_key":	".rubiconproject.com",
+	"name":	"receive-cookie-deprecation",
+	"path":	"/",
+	"expires_utc":	"13366026655718790",
+	"value":	"1"
+}{
+	"host_key":	".google.com",
+	"name":	"NID",
+	"path":	"/",
+	"expires_utc":	"13374061888003436",
+	"value":	"513=bxsSOPWGFCaUilKb45UlG_6Qub4LEJ8WSadHycF3p_55PgfTau9uBsHG0w3GEmIoZ3PR9UGOi8pKAxvaLENRCBjoWkdWlPepobw21V7TW8fGFwvuy5-L8unFmLsT7UXYG_Vo5GNVI4iF0oFd6Jd968yYZFqxWgeXQMFnhXzTZVE"
+}{
+	"host_key":	".facebook.com",
+	"name":	"datr",
+	"path":	"/",
+	"expires_utc":	"13392810720564627",
+	"value":	"4SkmZqUsdVcuR3b_sBhrnRrv"
+}{
+	"host_key":	".facebook.com",
+	"name":	"fr",
+	"path":	"/",
+	"expires_utc":	"13366026719202539",
+	"value":	"0qlHmBDIzmu1LKed9..BmJinh..AAA.0.0.BmJinh.AWVrnYhpspI"
+}{
+	"host_key":	".facebook.com",
+	"name":	"sb",
+	"path":	"/",
+	"expires_utc":	"13392810719202585",
+	"value":	"4SkmZhKgOzWN6xRUu5Ydq8Fu"
+}{
+	"host_key":	".facebook.com",
+	"name":	"dpr",
+	"path":	"/",
+	"expires_utc":	"13358855624000000",
+	"value":	"1.25"
+}{
+	"host_key":	".facebook.com",
+	"name":	"wd",
+	"path":	"/",
+	"expires_utc":	"13358855624000000",
+	"value":	"1492x732"
+}{
+	"host_key":	".google.com",
+	"name":	"OGPC",
+	"path":	"/",
+	"expires_utc":	"13360835313000000",
+	"value":	"19037049-1:"
+}{
+	"host_key":	"ogs.google.com",
+	"name":	"OTZ",
+	"path":	"/",
+	"expires_utc":	"13360835313000000",
+	"value":	"7524429_28_28__28_"
+}{
+	"host_key":	".doubleclick.net",
+	"name":	"IDE",
+	"path":	"/",
+	"expires_utc":	"13392804851735296",
+	"value":	"AHWqTUlsUeY4TbnBZLxJYyJ2nwPD3E_UJ7tamV7jNlIPjNOzgVRTxa_aSEHzmV0F"
+}{
+	"host_key":	"chromewebstore.google.com",
+	"name":	"OTZ",
+	"path":	"/",
+	"expires_utc":	"13360836868000000",
+	"value":	"7524454_28_28__28_"
+}{
+	"host_key":	".chromewebstore.google.com",
+	"name":	"_ga",
+	"path":	"/",
+	"expires_utc":	"13392804868328395",
+	"value":	"GA1.1.697557997.1713771268"
+}{
+	"host_key":	".chromewebstore.google.com",
+	"name":	"_ga_KHZNC1Q6K0",
+	"path":	"/",
+	"expires_utc":	"13392804870165170",
+	"value":	"GS1.1.1713771268.1.0.1713771270.0.0.0"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"FPAU",
+	"path":	"/",
+	"expires_utc":	"13360429835129592",
+	"value":	"1.1.1452157158.1708180238"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"FPID",
+	"path":	"/",
+	"expires_utc":	"13392816802129506",
+	"value":	"FPID2.2.onU4scWlRKF7I5hnUB1mEGKqiSJRh9VwrBgbvae0GHQ%3D.1708330537"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"FPLC",
+	"path":	"/",
+	"expires_utc":	"13358328801285171",
+	"value":	"Jri3unZwEJ4v1O7UztS2wdqhTktdav%2FccAktR7mxHri23gGDbuZ5rRkGQREjeYX[¥yÏî\u0010{$G#Û›â‘MyS£RF‰În˙\u0007º=„‘áD@ı$‡(£B0<ñ\u0010oy~@–ˇü2PR‡öÑ\u0019[’\u0019∏6¿3*'Yé;Âˇ9\b"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"__cf_bm",
+	"path":	"/",
+	"expires_utc":	"13358258601078796",
+	"value":	"30eQA48A7gNezyCPtOWrOq.5HTw1V7oFBEPZrUe1j_Q-1713783203-1.0.1.1-3j\u0013Ç>ÊifÜåàÓPµ&OzÂµ\u0006É›{b—\u0017\u0017û\u000bZ#±h\r%û}QVúâπ€\u001e“™Ê7x∏◊œµè6Fµ$o7∞-\u0016¢»"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"_ga",
+	"path":	"/",
+	"expires_utc":	"13392816801425255",
+	"value":	"GA1.1.1720802202.1708330537"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"_gcl_au",
+	"path":	"/",
+	"expires_utc":	"13360429838000000",
+	"value":	"1.1.1452157158.1708180238"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"cf_clearance",
+	"path":	"/",
+	"expires_utc":	"13389792801400866",
+	"value":	"z6i_C6.d699FAaRuZVGAH2G.YHpW80dvFhobycUpgxE-1713783203-1.0.1.1-Kwñ˛7⁄ùr˙‡]"
+}{
+	"host_key":	".www.crunchyroll.com",
+	"name":	"OptanonConsent",
+	"path":	"/",
+	"expires_utc":	"13389792804000000",
+	"value":	"consentId=3136d831-f333-425c-951e-39fe47adeb8f&datestamp=Mon+Apr+{Â.è\u0019m::ë]§\r≥πú•≤dÌº2')ü\\\u000e2`µÛ¨\u001f˜.3ˇE⁄{ø[C\u001e\u0010‹Dg¶`É¥%ªú∆è‘˙_å?˘çzò>-'ﬁ‘1\r£F>˜*e´â@B¯_ ˇå\u0015ƒj‘\u0003"
+}{
+	"host_key":	"www.crunchyroll.com",
+	"name":	"_dd_s",
+	"path":	"/",
+	"expires_utc":	"13358257704000000",
+	"value":	"rum=0&expire=1713784103409"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"_ga_METRICID",
+	"path":	"/",
+	"expires_utc":	"13392816804294620",
+	"value":	"GS1.1.1713783201.14.1.1713783204.0.0.1548463645"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"_ga_SYYQC1VW88",
+	"path":	"/",
+	"expires_utc":	"13392816804298313",
+	"value":	"GS1.1.1713783201.14.1.1713783204.57.0.0"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"ajs_anonymous_id",
+	"path":	"/",
+	"expires_utc":	"13389792803000000",
+	"value":	"bb0972d6-73ac-4a34-b8cb-631cff4579c9"
+}{
+	"host_key":	".amazon.com",
+	"name":	"av-timezone",
+	"path":	"/",
+	"expires_utc":	"13389792843000000",
+	"value":	"Asia/Bangkok"
+}{
+	"host_key":	"www.amazon.com",
+	"name":	"csm-hit",
+	"path":	"/",
+	"expires_utc":	"13388496843000000",
+	"value":	"tb:s-G0XEXDXFD3T4J69PKKCQ|1713783243351&t:1713783243472&adb:adblk\u0003\u0005ø"
+}{
+	"host_key":	".amazon.com",
+	"name":	"i18n-prefs",
+	"path":	"/",
+	"expires_utc":	"13389792837007547",
+	"value":	"USD"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"i18n-prefs",
+	"path":	"/",
+	"expires_utc":	"13389792854494254",
+	"value":	"USD"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"lc-main-av",
+	"path":	"/",
+	"expires_utc":	"13392816855313794",
+	"value":	"en_US"
+}{
+	"host_key":	".amazon.com",
+	"name":	"session-id",
+	"path":	"/",
+	"expires_utc":	"13389792837007459",
+	"value":	"145-3577135-0470301"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"session-id",
+	"path":	"/",
+	"expires_utc":	"13389792854494175",
+	"value":	"357-0940843-1197438"
+}{
+	"host_key":	".amazon.com",
+	"name":	"session-id-time",
+	"path":	"/",
+	"expires_utc":	"13389792837007531",
+	"value":	"2082787201l"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"session-id-time",
+	"path":	"/",
+	"expires_utc":	"13389792854494242",
+	"value":	"2082787201l"
+}{
+	"host_key":	".amazon.com",
+	"name":	"session-token",
+	"path":	"/",
+	"expires_utc":	"13389792840542733",
+	"value":	"O1Vu5UFFXwC9P4w5ZmonZH3l2fkyQqMJZ8nplM0D2QxwNPCr4eyZLDURbq4/0Bq3T@ã©\u001cêûUä†Û”°˙?\n-Wßcöÿ∫‘Õ6>Ñu^öX¶‰·èâ\néΩ†\u0001å7\u001d≤ƒ‚ÈóÛ%úBwΩê\u0001)t⁄\u001eˇﬁÜ{ÃΩ8\u0018sŒ⁄\bâ6:À(\u0001ªﬁp%†˚∞”H∆DO\u0019∫±£~\u001eXÚ1\u00140ªH™|yg≈¡S_g"
+}{
+	"host_key":	".amazon.com",
+	"name":	"sp-cdn",
+	"path":	"/",
+	"expires_utc":	"13389792837007558",
+	"value":	"\"L5Z9:VN\""
+}{
+	"host_key":	".amazon.com",
+	"name":	"ubid-main",
+	"path":	"/",
+	"expires_utc":	"13389792840939058",
+	"value":	"135-3058013-9222641"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"ubid-main-av",
+	"path":	"/",
+	"expires_utc":	"13389792855313671",
+	"value":	"355-9947976-4006727"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"av-timezone",
+	"path":	"/",
+	"expires_utc":	"13389792862000000",
+	"value":	"Asia/Bangkok"
+}{
+	"host_key":	"www.primevideo.com",
+	"name":	"csm-hit",
+	"path":	"/",
+	"expires_utc":	"13388496859000000",
+	"value":	"tb:8QKE8VCYC57NKMWYAKXW+s-8QKE8VCYC57NKMWYAKXW|1713783259467&t:17\u0014∆8 \n\u0013$8d∞V¨\u0005fêP”Ÿ\u0001[\b\u000eÄç"
+}{
+	"host_key":	".facebook.com",
+	"name":	"c_user",
+	"path":	"/",
+	"expires_utc":	"13389796614282855",
+	"value":	"100009317154386"
+}{
+	"host_key":	".facebook.com",
+	"name":	"datr",
+	"path":	"/",
+	"expires_utc":	"13389118748138530",
+	"value":	"G9TtZWA9LUG_avaaWa3mvcNg"
+}{
+	"host_key":	".facebook.com",
+	"name":	"dpr",
+	"path":	"/",
+	"expires_utc":	"13358856620000000",
+	"value":	"1"
+}{
+	"host_key":	".facebook.com",
+	"name":	"fr",
+	"path":	"/",
+	"expires_utc":	"13366036614282918",
+	"value":	"1f4n86Sm4ecrqOnYb.AWXX5MzNYa7aWflD7VCkla8jclY.BmJlCI..AAA.0.0.BmJ√3\u0001\u0005Œ=˛w≈‘ijë9ø"
+}{
+	"host_key":	".facebook.com",
+	"name":	"ps_l",
+	"path":	"/",
+	"expires_utc":	"13392532168205957",
+	"value":	"1"
+}{
+	"host_key":	".facebook.com",
+	"name":	"ps_n",
+	"path":	"/",
+	"expires_utc":	"13392532168205817",
+	"value":	"1"
+}{
+	"host_key":	".facebook.com",
+	"name":	"sb",
+	"path":	"/",
+	"expires_utc":	"13390309185698275",
+	"value":	"HNTtZfi3LSmcu_QgxvDzHL-g"
+}{
+	"host_key":	".facebook.com",
+	"name":	"wd",
+	"path":	"/",
+	"expires_utc":	"13358865416000000",
+	"value":	"1920x945"
+}{
+	"host_key":	".facebook.com",
+	"name":	"xs",
+	"path":	"/",
+	"expires_utc":	"13389796614282901",
+	"value":	"40%3AXzsi4upNBOH3Jw%3A2%3A1711275583%3A-1%3A6238%3A%3AAcVDI5yrQX3â#2¶J,£üe|sX\u0001\u0002üÚñÄI≤/Æ´˛\u0007í\u0001\u0005\u0006wù∂2"
+}{
+	"host_key":	"steamcommunity.com",
+	"name":	"recentlyVisitedAppHubs",
+	"path":	"/",
+	"expires_utc":	"13389797304446234",
+	"value":	"431960"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_INFO1_LIVE",
+	"path":	"/",
+	"expires_utc":	"13373813298918067",
+	"value":	"SXx1BikeScI"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_PRIVACY_METADATA",
+	"path":	"/",
+	"expires_utc":	"13373813298918091",
+	"value":	"CgJWThIEGgAgIA%3D%3D"
+}{
+	"host_key":	"steamcommunity.com",
+	"name":	"timezoneOffset",
+	"path":	"/",
+	"expires_utc":	"13389797323000000",
+	"value":	"25200,0"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_INFO1_LIVE",
+	"path":	"/",
+	"expires_utc":	"13373813324301116",
+	"value":	"Wyro00U4XmA"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_PRIVACY_METADATA",
+	"path":	"/",
+	"expires_utc":	"13373813324301142",
+	"value":	"CgJWThIEGgAgUQ%3D%3D"
+}{
+	"host_key":	".urban-vpn.com",
+	"name":	"_upid",
+	"path":	"/",
+	"expires_utc":	"13392834043531770",
+	"value":	"XNe2iceSEIRRN1uJiozQ6T"
+}{
+	"host_key":	".authentication.urban-vpn.com",
+	"name":	"userId",
+	"path":	"/",
+	"expires_utc":	"13392834043531840",
+	"value":	"MQ41LyLmNYtWQH9TAzArZU"
+}{
+	"host_key":	".authentication.urban-vpn.com",
+	"name":	"userKey",
+	"path":	"/",
+	"expires_utc":	"13392834043531858",
+	"value":	"XNe2iceSEIRRN1uJiozQ6T"
+}{
+	"host_key":	".www.cloudflare.com",
+	"name":	"__cf_bm",
+	"path":	"/",
+	"expires_utc":	"13358276331976517",
+	"value":	"CyJMbYqKNtqnJd0srK6EBkov9O_ALBKzC_SBzytKoxo-1713800932-1.0.1.1-UFvy√»lc¿[∏°≠vû9\\%`«˘n\u0019·\u0016{—\u001e\t∑\u0004©<û–üË\u001bZ~âBÚëÿˆÒ∏ßõpÌÌ÷π2Ç¬∞‹—–Ø†F“Ä»Óf«Ï9˘N—aŸÁ\u0005Æ\u001f.¡≈^1TEÄßt\r?¥∂\\5ç\\Ó˘;M\u0011fñ"
+}{
+	"host_key":	".google.com",
+	"name":	"__Secure-ENID",
+	"path":	"/",
+	"expires_utc":	"13392461249723662",
+	"value":	"19.SE=XqU962L76RrxO6iIf3UjHbf2HBtZJhOAf8tXXFLIVKc4l2ZCIimfhiNPrzyn\ng\u0010MGdÜK\u000b\u0012ÁaGj±\u001e\u0006èßªÕµ‹±\u0004\u0011∏l\u0014Fîù\u0016Å‘Á#¢˜\u000b˙¶\n\u0012Á0˙p±øq\u0003Óh•S˚¸QJi@GÓˆZ¢9…Ü:H˚+\u0012~&é/È(.Ô˜VÌÊø`\u0010\u0007ﬂˆ#\fU%˜<+»ÓG:&À\u0004¡®å\u0013^∂›Ï†Íé\u0019q…o\u0018 †‰Í1\u0013j»Åw1ixs|\u000bxÉ≤¯ç"
+}{
+	"host_key":	"checkout.microsoft365.com",
+	"name":	".AspNetCore.Correlation.OpVuzVPHh7IPSnZ7diNQRW2i6X3jsFedrsDPjEF7UZI",
+	"path":	"/signin-oidc",
+	"expires_utc":	"13358275514770571",
+	"value":	"N"
+}{
+	"host_key":	"www.microsoft.com",
+	"name":	".AspNetCore.OpenIdConnect.Nonce.CfDJ8ErKcMLaah5Eq24B2tGmvfzcyBaqoRSzx9TAw8RBufYomNgyEUExYGkbr7CpWd5SP8hoPjUZNn5ssdzUUX2kil_iwQZW5W5GnojrF0JjDKsuXH45AqC14_jamuZHILZDX6ppHLtz0-v-sCuTOMd33mh9WCBA9oDXrMvy0QsOA3ELVgUWZ0eZrDp_iW1j5C53Kg_X-q2diDPCdwP-2fbFGQDPZpgQ75Ewtb1HnOqV0rWXcyPp1JIyAQe-LQXQGlpLDPsl1xcSmNR41wM2xy_kG7o",
+	"path":	"/cascadeauth/account/signin-oidc",
+	"expires_utc":	"13358275511436148",
+	"value":	"N"
+}{
+	"host_key":	"checkout.microsoft365.com",
+	"name":	".AspNetCore.OpenIdConnect.Nonce.CfDJ8Lt5CoSwdg1KlPFsbq7fsRzuwfK7cJjBc6ukQ_ZhG1vUm8F_l8YH1vKp-rbiZJzgDQi4lJNEDaRWSjZ0q-vRAg5R0K-enYjxGO1oPi7imKnXM2O2eSheI505AOcwoDzFlWbQ4Nur3RdZ4YdN_7T_owPWo3XohmEbEQjo8cwTdgsP7Xq7AHNDblVK_EENwjESOLQDP9T9pV_Jw0aCOdBvN_GP8NHX1ipBlaSuvAfhEMCvLPhN9WuOfg-gQ0sXaRKNfFiaw6Op-sCSD4hJK1RVHkQ",
+	"path":	"/signin-oidc",
+	"expires_utc":	"13358275514770464",
+	"value":	"N"
+}{
+	"host_key":	".microsoft365.com",
+	"name":	"AKA_A2",
+	"path":	"/",
+	"expires_utc":	"13358278214770604",
+	"value":	"A"
+}{
+	"host_key":	"www.microsoft.com",
+	"name":	"Cascade.AuthSSO",
+	"path":	"/en-us/microsoft-365",
+	"expires_utc":	"13358276410618811",
+	"value":	"1"
+}{
+	"host_key":	".microsoft.com",
+	"name":	"MC1",
+	"path":	"/",
+	"expires_utc":	"13389810613862048",
+	"value":	"GUID=44c2793211c647cbba017d898af12aee&HASH=44c2&LV=202404&V=4&LU=ûÙ·x\u0013;¶ıÖœ§\u0005J"
+}{
+	"host_key":	".microsoft.com",
+	"name":	"MS0",
+	"path":	"/",
+	"expires_utc":	"13358276413862074",
+	"value":	"6a8b24905a334f7c8dddb55d0f8ac301"
+}{
+	"host_key":	".login.live.com",
+	"name":	"MSCC",
+	"path":	"/",
+	"expires_utc":	"13391970619751464",
+	"value":	"212.102.33.40-US"
+}{
+	"host_key":	".microsoft.com",
+	"name":	"MSCC",
+	"path":	"/",
+	"expires_utc":	"13358361015000000",
+	"value":	"NR"
+}{
+	"host_key":	"login.live.com",
+	"name":	"MSFPC",
+	"path":	"/",
+	"expires_utc":	"13389810631544850",
+	"value":	"GUID=44c2793211c647cbba017d898af12aee&HASH=44c2&LV=202404&V=4&LU=49sEıwVΩ/Ä‚¯j"
+}{
+	"host_key":	"www.microsoft.com",
+	"name":	"MSFPC",
+	"path":	"/",
+	"expires_utc":	"13389810615116888",
+	"value":	"GUID=44c2793211c647cbba017d898af12aee&HASH=44c2&LV=202404&V=4&LU=°Ì”ÓÈ¯n⁄1\b8ÅÒ"
+}{
+	"host_key":	"login.live.com",
+	"name":	"MicrosoftApplicationsTelemetryDeviceId",
+	"path":	"/",
+	"expires_utc":	"13389810625813226",
+	"value":	"87c44400-e124-4c99-958c-a28a7bfb64f2"
+}{
+	"host_key":	"login.live.com",
+	"name":	"ai_session",
+	"path":	"/",
+	"expires_utc":	"13358276425000000",
+	"value":	"5EXNDBboYH0ZVr/INq66as|1713801025816|1713801025816"
+}{
+	"host_key":	"login.microsoftonline.com",
+	"name":	"fpc",
+	"path":	"/",
+	"expires_utc":	"13360866616834833",
+	"value":	"AsHU9sH6MOVLoUXPOP4NEK8"
+}{
+	"host_key":	".microsoft.com",
+	"name":	"MUID",
+	"path":	"/",
+	"expires_utc":	"13391970688519320",
+	"value":	"07933016D37A62703728247FD77A6401"
+}{
+	"host_key":	"www.microsoft.com",
+	"name":	"MicrosoftApplicationsTelemetryDeviceId",
+	"path":	"/",
+	"expires_utc":	"13389810687246666",
+	"value":	"a5dd2478-5b27-4177-b448-acfd0429ff54"
+}{
+	"host_key":	"www.microsoft.com",
+	"name":	"ai_session",
+	"path":	"/",
+	"expires_utc":	"13358276487000000",
+	"value":	"iXYO6DOkUMD2N8+6oQ6SB5|1713801010588|1713801087262"
+}{
+	"host_key":	".google.com",
+	"name":	"SNID",
+	"path":	"/verify",
+	"expires_utc":	"13374085265096703",
+	"value":	"AKzhCTaAZuX3Evd5lq3ISvbulHoj3ROrScOtVHBCzqnK7WNamzf_Eb7tTNWUHc-twÔ/<´-ï2à˙ê^ñ|À\u0013Yæ\u0006≠™€M∂\u001ae\u001dƒ^R\u001dΩ "
+}{
+	"host_key":	".netflix.com",
+	"name":	"NetflixId",
+	"path":	"/",
+	"expires_utc":	"13389876481678612",
+	"value":	"v%3D2%26ct%3DBQAOAAEBEMyIGLiqmv1nvwJLCDWkQhCB4IJ0NcncI4xBciNPuhGciY?µ\u0006◊røè°X~˚‡¨†œ˘©Ä†øÛ¡ïHÅ3ŒÃÑG‘^ÁC∫\u001d\u0006≠“-vÑyz\u0011©~Ø\u001cÈolN¿Ÿê\fP\ru(í\u0010ràÏ∑\u0016´;\u001b˝ÔÈÊUñè÷\u0004iÕ\ro∫oŒ)\u0004†…∞\u0011÷ûpUbëÉ´/AGo\u000e‹©ú†Œ;»pÂÓ π/ó∏bu2M\u0001ˇZæÊV±È´s´¢Òf\u0015˚⁄V \u0012\u001d…ò–$†¶h\f·Z›\u0015KªÂæ≠›¿ÁMÅk•S\"k,”˜àA0`\u0001ßb∂\u0011êe\u0007élZÚt—#ü˙  í\u0002¡r$‘Ú2°\u0012ˇÔ ûÄÌUœ∑Œ-ﬂï‘\u0002º¢ªœ∫*˙3ÙÔ„™u¡©\u0005æùk]\u000féb\u001bã\\€åDôâ•ùπÉ ˇåFÓk\u0011ﬁâ∞UFGà˜4√:∆–§V„@Ü∫\u001cD«â†4»l|"
+}{
+	"host_key":	".netflix.com",
+	"name":	"OptanonConsent",
+	"path":	"/",
+	"expires_utc":	"13389876487000000",
+	"value":	"isGpcEnabled=0&datestamp=Tue+Apr+23+2024+17%3A08%3A07+GMT%2B0700+c:’/“¨&›xfPvè†´ó\u0001Íg\u0018*ùU\n8ç‹8˛à\u0018&1\u00017y˜qTR◊‹-_„ì§≥sS\u0017‹NÉbBµtÈ}\u0017^¯˛†œ ·\u0010\u001e˘\n\b\u0017C˘“\\ƒ‚?è¥e£Æ∂¡\u0015ÒA˙h®YiG\u00140N\u0001\u001f(\u0001\rA≠?Ò\"è\u00148˚iÊÁx\u0006ÃO`ó&|A°˛*>àΩ \u0010\u0019Éú‰1Èu\u0019_\u000eV\u0014$['yí_¨8\u001f\f÷ÀÔy≈NzNƒÃ¯÷¡Kót≠U\u0017\u001clEg¡·ˆÒ≤BÇ∑\u0018§∏√¯[Ï9}2,cZ\u0019JLñ\u0005-\u0004\nπ≥¯§u\u0013ˆ˜f∫◊∑%˝\u0018m”9\bS˛Nmç¨IÑhIû¬tF\u0004óΩ§iVüõÇÑõI*VDè"
+}{
+	"host_key":	".netflix.com",
+	"name":	"SecureNetflixId",
+	"path":	"/",
+	"expires_utc":	"13389876481678544",
+	"value":	"v%3D2%26mac%3DAQEAEQABABRhfxazj36AtQCZpNL2HOgEqBNfDCw2ZJo.%26dt%3\\8£∆\tÎ8Âpé)ÔƒÔ"
+}{
+	"host_key":	".netflix.com",
+	"name":	"flwssn",
+	"path":	"/",
+	"expires_utc":	"13358351272733503",
+	"value":	"b9da47b0-a09e-4a3c-8682-12e8d965ed91"
+}{
+	"host_key":	".netflix.com",
+	"name":	"hasSeenCookieDisclosure",
+	"path":	"/",
+	"expires_utc":	"13366116483450035",
+	"value":	"true"
+}{
+	"host_key":	".netflix.com",
+	"name":	"profilesNewSession",
+	"path":	"/",
+	"expires_utc":	"13358342287093495",
+	"value":	"0"
+}{
+	"host_key":	".google.com",
+	"name":	"1P_JAR",
+	"path":	"/",
+	"expires_utc":	"13361035736664583",
+	"value":	"2024-04-24-14"
+}{
+	"host_key":	".google.com",
+	"name":	"AEC",
+	"path":	"/",
+	"expires_utc":	"13373795312204493",
+	"value":	"AQTF6HzjZqRPL6I9otWOzRhCq2b91LnWc-Ils1lxWyCiEb2XzhUcA-j2xQ"
+}{
+	"host_key":	".google.com",
+	"name":	"NID",
+	"path":	"/",
+	"expires_utc":	"13374169440204521",
+	"value":	"513=cWHO6RqYsYLJ4ZB3U50qRRQWA48dbDMlNH8SQ4hi1y9eWRL2OlIC6dFcLFGiQH{Ç≤(e¡;]“æŒ2©œ3kµâ\u0010\u0003õ\u0005À\u0016\u000e^¯)¢\"®”çSåÆ¶_C·\u001b¸ÓJ·{·‘ëU¸Ûâ∂S≈mqAc=≠îjE)\u0005íß\bÄh!s\\‰ûG≠∆Îêx{√&\u0018\u000e∂’öèíH2\u001aÚ'⁄œ≈B{jM©È\u000f∞o^˙å/G`q“‡%ÑÕY¡ﬁ_Æ∏l\f∫˙Å◊ÉÃ\u000b\b¡”™9g"
+}{
+	"host_key":	".google.com",
+	"name":	"OGPC",
+	"path":	"/",
+	"expires_utc":	"13360835313000000",
+	"value":	"19037049-1:"
+}{
+	"host_key":	"ogs.google.com",
+	"name":	"OTZ",
+	"path":	"/",
+	"expires_utc":	"13360835313000000",
+	"value":	"7524429_28_28__28_"
+}{
+	"host_key":	".doubleclick.net",
+	"name":	"IDE",
+	"path":	"/",
+	"expires_utc":	"13392804851735296",
+	"value":	"AHWqTUlsUeY4TbnBZLxJYyJ2nwPD3E_UJ7tamV7jNlIPjNOzgVRTxa_aSEHzmV0F"
+}{
+	"host_key":	"chromewebstore.google.com",
+	"name":	"OTZ",
+	"path":	"/",
+	"expires_utc":	"13360836868000000",
+	"value":	"7524454_28_28__28_"
+}{
+	"host_key":	".chromewebstore.google.com",
+	"name":	"_ga",
+	"path":	"/",
+	"expires_utc":	"13392804868328395",
+	"value":	"GA1.1.697557997.1713771268"
+}{
+	"host_key":	".chromewebstore.google.com",
+	"name":	"_ga_KHZNC1Q6K0",
+	"path":	"/",
+	"expires_utc":	"13392804870165170",
+	"value":	"GS1.1.1713771268.1.0.1713771270.0.0.0"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"FPAU",
+	"path":	"/",
+	"expires_utc":	"13360429835129592",
+	"value":	"1.1.1452157158.1708180238"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"FPID",
+	"path":	"/",
+	"expires_utc":	"13392816802129506",
+	"value":	"FPID2.2.onU4scWlRKF7I5hnUB1mEGKqiSJRh9VwrBgbvae0GHQ%3D.1708330537"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"FPLC",
+	"path":	"/",
+	"expires_utc":	"13358328801285171",
+	"value":	"Jri3unZwEJ4v1O7UztS2wdqhTktdav%2FccAktR7mxHri23gGDbuZ5rRkGQREjeYX[¥yÏî\u0010{$G#Û›â‘MyS£RF‰În˙\u0007º=„‘áD@ı$‡(£B0<ñ\u0010oy~@–ˇü2PR‡öÑ\u0019[’\u0019∏6¿3*'Yé;Âˇ\t\f"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"__cf_bm",
+	"path":	"/",
+	"expires_utc":	"13358258601078796",
+	"value":	"30eQA48A7gNezyCPtOWrOq.5HTw1V7oFBEPZrUe1j_Q-1713783203-1.0.1.1-3j\u0013Ç>ÊifÜåàÓPµ&OzÂµ\u0006É›{b—\u0017\u0017û\u000bZ#±h\r%û}QVúâπ€\u001e“™Ê7x∏◊œµè6Fµ$o7∞-\u0016¢»"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"_ga",
+	"path":	"/",
+	"expires_utc":	"13392816801425255",
+	"value":	"GA1.1.1720802202.1708330537"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"_gcl_au",
+	"path":	"/",
+	"expires_utc":	"13360429838000000",
+	"value":	"1.1.1452157158.1708180238"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"cf_clearance",
+	"path":	"/",
+	"expires_utc":	"13389792801400866",
+	"value":	"z6i_C6.d699FAaRuZVGAH2G.YHpW80dvFhobycUpgxE-1713783203-1.0.1.1-Kwñ˛7⁄ùr˙‡]"
+}{
+	"host_key":	".www.crunchyroll.com",
+	"name":	"OptanonConsent",
+	"path":	"/",
+	"expires_utc":	"13389792804000000",
+	"value":	"consentId=3136d831-f333-425c-951e-39fe47adeb8f&datestamp=Mon+Apr+{Â.è\u0019m::ë]§\r≥πú•≤dÌº2')ü\\\u000e2`µÛ¨\u001f˜.3ˇE⁄{ø[C\u001e\u0010‹Dg¶`É¥%ªú∆è‘˙_å?˘çzò>-'ﬁ‘1=ß∆ú˜*e´â@B¯_ ˇå\u0015ƒj‘\u0003"
+}{
+	"host_key":	"www.crunchyroll.com",
+	"name":	"_dd_s",
+	"path":	"/",
+	"expires_utc":	"13358257704000000",
+	"value":	"rum=0&expire=1713784103409"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"_ga_METRICID",
+	"path":	"/",
+	"expires_utc":	"13392816804294620",
+	"value":	"GS1.1.1713783201.14.1.1713783204.0.0.1548463645"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"_ga_SYYQC1VW88",
+	"path":	"/",
+	"expires_utc":	"13392816804298313",
+	"value":	"GS1.1.1713783201.14.1.1713783204.57.0.0"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"ajs_anonymous_id",
+	"path":	"/",
+	"expires_utc":	"13389792803000000",
+	"value":	"bb0972d6-73ac-4a34-b8cb-631cff4579c9"
+}{
+	"host_key":	".amazon.com",
+	"name":	"av-timezone",
+	"path":	"/",
+	"expires_utc":	"13389792843000000",
+	"value":	"Asia/Bangkok"
+}{
+	"host_key":	"www.amazon.com",
+	"name":	"csm-hit",
+	"path":	"/",
+	"expires_utc":	"13388496843000000",
+	"value":	"tb:s-G0XEXDXFD3T4J69PKKCQ|1713783243351&t:1713783243472&adb:adblk\u0003\u0005ø"
+}{
+	"host_key":	".amazon.com",
+	"name":	"i18n-prefs",
+	"path":	"/",
+	"expires_utc":	"13389792837007547",
+	"value":	"USD"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"i18n-prefs",
+	"path":	"/",
+	"expires_utc":	"13389792854494254",
+	"value":	"USD"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"lc-main-av",
+	"path":	"/",
+	"expires_utc":	"13392816855313794",
+	"value":	"en_US"
+}{
+	"host_key":	".amazon.com",
+	"name":	"session-id",
+	"path":	"/",
+	"expires_utc":	"13389792837007459",
+	"value":	"145-3577135-0470301"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"session-id",
+	"path":	"/",
+	"expires_utc":	"13389792854494175",
+	"value":	"357-0940843-1197438"
+}{
+	"host_key":	".amazon.com",
+	"name":	"session-id-time",
+	"path":	"/",
+	"expires_utc":	"13389792837007531",
+	"value":	"2082787201l"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"session-id-time",
+	"path":	"/",
+	"expires_utc":	"13389792854494242",
+	"value":	"2082787201l"
+}{
+	"host_key":	".amazon.com",
+	"name":	"session-token",
+	"path":	"/",
+	"expires_utc":	"13389792840542733",
+	"value":	"O1Vu5UFFXwC9P4w5ZmonZH3l2fkyQqMJZ8nplM0D2QxwNPCr4eyZLDURbq4/0Bq3T@ã©\u001cêûUä†Û”°˙?\n-Wßcöÿ∫‘Õ6>Ñu^öX¶‰·èâ\néΩ†\u0001å7\u001d≤ƒ‚ÈóÛ%úBwΩê\u0001)t⁄\u001eˇﬁÜ{ÃΩ8\u0018s˛ﬁà+6:À(\u0001ªﬁp%†˚∞”H∆DO\u0019∫±£~\u001eXÚ1\u00140ªH™|yg≈¡S_g"
+}{
+	"host_key":	".amazon.com",
+	"name":	"sp-cdn",
+	"path":	"/",
+	"expires_utc":	"13389792837007558",
+	"value":	"\"L5Z9:VN\""
+}{
+	"host_key":	".amazon.com",
+	"name":	"ubid-main",
+	"path":	"/",
+	"expires_utc":	"13389792840939058",
+	"value":	"135-3058013-9222641"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"ubid-main-av",
+	"path":	"/",
+	"expires_utc":	"13389792855313671",
+	"value":	"355-9947976-4006727"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"av-timezone",
+	"path":	"/",
+	"expires_utc":	"13389792862000000",
+	"value":	"Asia/Bangkok"
+}{
+	"host_key":	"www.primevideo.com",
+	"name":	"csm-hit",
+	"path":	"/",
+	"expires_utc":	"13388496859000000",
+	"value":	"tb:8QKE8VCYC57NKMWYAKXW+s-8QKE8VCYC57NKMWYAKXW|1713783259467&t:17\u0014∆8 \n\u0013$8d∞V¨\u0005fêP”Ÿ\u0001[\b\u000eÄç"
+}{
+	"host_key":	".facebook.com",
+	"name":	"datr",
+	"path":	"/",
+	"expires_utc":	"13389118748138530",
+	"value":	"G9TtZWA9LUG_avaaWa3mvcNg"
+}{
+	"host_key":	".facebook.com",
+	"name":	"dpr",
+	"path":	"/",
+	"expires_utc":	"13358856620000000",
+	"value":	"1"
+}{
+	"host_key":	".facebook.com",
+	"name":	"ps_l",
+	"path":	"/",
+	"expires_utc":	"13392532168205957",
+	"value":	"1"
+}{
+	"host_key":	".facebook.com",
+	"name":	"ps_n",
+	"path":	"/",
+	"expires_utc":	"13392532168205817",
+	"value":	"1"
+}{
+	"host_key":	".facebook.com",
+	"name":	"sb",
+	"path":	"/",
+	"expires_utc":	"13390309185698275",
+	"value":	"HNTtZfi3LSmcu_QgxvDzHL-g"
+}{
+	"host_key":	"steamcommunity.com",
+	"name":	"recentlyVisitedAppHubs",
+	"path":	"/",
+	"expires_utc":	"13389797304446234",
+	"value":	"431960"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_INFO1_LIVE",
+	"path":	"/",
+	"expires_utc":	"13373813298918067",
+	"value":	"SXx1BikeScI"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_PRIVACY_METADATA",
+	"path":	"/",
+	"expires_utc":	"13373813298918091",
+	"value":	"CgJWThIEGgAgIA%3D%3D"
+}{
+	"host_key":	"steamcommunity.com",
+	"name":	"timezoneOffset",
+	"path":	"/",
+	"expires_utc":	"13389797323000000",
+	"value":	"25200,0"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_INFO1_LIVE",
+	"path":	"/",
+	"expires_utc":	"13373813324301116",
+	"value":	"Wyro00U4XmA"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_PRIVACY_METADATA",
+	"path":	"/",
+	"expires_utc":	"13373813324301142",
+	"value":	"CgJWThIEGgAgUQ%3D%3D"
+}{
+	"host_key":	".urban-vpn.com",
+	"name":	"_upid",
+	"path":	"/",
+	"expires_utc":	"13392834043531770",
+	"value":	"XNe2iceSEIRRN1uJiozQ6T"
+}{
+	"host_key":	".authentication.urban-vpn.com",
+	"name":	"userId",
+	"path":	"/",
+	"expires_utc":	"13392834043531840",
+	"value":	"MQ41LyLmNYtWQH9TAzArZU"
+}{
+	"host_key":	".authentication.urban-vpn.com",
+	"name":	"userKey",
+	"path":	"/",
+	"expires_utc":	"13392834043531858",
+	"value":	"XNe2iceSEIRRN1uJiozQ6T"
+}{
+	"host_key":	".www.cloudflare.com",
+	"name":	"__cf_bm",
+	"path":	"/",
+	"expires_utc":	"13358276331976517",
+	"value":	"CyJMbYqKNtqnJd0srK6EBkov9O_ALBKzC_SBzytKoxo-1713800932-1.0.1.1-UFvy√»lc¿[∏°≠vû9\\%`«˘n\u0019·\u0016{—\u001e\t∑\u0004©<û–üË\u001bZ~âBÚëÿˆÒ∏ßõpÌÌ÷π2Ç¬∞‹—–Ø†F“Ä»Óf«Ï9…JQ√ŸÁ\u0005Æ\u001f.¡≈^1TEÄßt\r?¥∂\\5ç\\Ó˘;M\u0011fñ"
+}{
+	"host_key":	".google.com",
+	"name":	"__Secure-ENID",
+	"path":	"/",
+	"expires_utc":	"13392461249723662",
+	"value":	"19.SE=XqU962L76RrxO6iIf3UjHbf2HBtZJhOAf8tXXFLIVKc4l2ZCIimfhiNPrzyn\ng\u0010MGdÜK\u000b\u0012ÁaGj±\u001e\u0006èßªÕµ‹±\u0004\u0011∏l\u0014Fîù\u0016Å‘Á#¢˜\u000b˙¶\n\u0012Á0˙p±øq\u0003Óh•S˚¸QJi@GÓˆZ¢9…∂>»Y+\u0012~&é/È(.Ô˜VÌÊø`\u0010\u0007ﬂˆ#\fU%˜<+»ÓG:&À\u0004¡®å\u0013^∂›Ï†Íé\u0019q…o\u0018 †‰Í1\u0013j»Åw1ixs|\u000bxÉ≤¯ç"
+}{
+	"host_key":	"checkout.microsoft365.com",
+	"name":	".AspNetCore.Correlation.OpVuzVPHh7IPSnZ7diNQRW2i6X3jsFedrsDPjEF7UZI",
+	"path":	"/signin-oidc",
+	"expires_utc":	"13358275514770571",
+	"value":	"N"
+}{
+	"host_key":	"www.microsoft.com",
+	"name":	".AspNetCore.OpenIdConnect.Nonce.CfDJ8ErKcMLaah5Eq24B2tGmvfzcyBaqoRSzx9TAw8RBufYomNgyEUExYGkbr7CpWd5SP8hoPjUZNn5ssdzUUX2kil_iwQZW5W5GnojrF0JjDKsuXH45AqC14_jamuZHILZDX6ppHLtz0-v-sCuTOMd33mh9WCBA9oDXrMvy0QsOA3ELVgUWZ0eZrDp_iW1j5C53Kg_X-q2diDPCdwP-2fbFGQDPZpgQ75Ewtb1HnOqV0rWXcyPp1JIyAQe-LQXQGlpLDPsl1xcSmNR41wM2xy_kG7o",
+	"path":	"/cascadeauth/account/signin-oidc",
+	"expires_utc":	"13358275511436148",
+	"value":	"N"
+}{
+	"host_key":	"checkout.microsoft365.com",
+	"name":	".AspNetCore.OpenIdConnect.Nonce.CfDJ8Lt5CoSwdg1KlPFsbq7fsRzuwfK7cJjBc6ukQ_ZhG1vUm8F_l8YH1vKp-rbiZJzgDQi4lJNEDaRWSjZ0q-vRAg5R0K-enYjxGO1oPi7imKnXM2O2eSheI505AOcwoDzFlWbQ4Nur3RdZ4YdN_7T_owPWo3XohmEbEQjo8cwTdgsP7Xq7AHNDblVK_EENwjESOLQDP9T9pV_Jw0aCOdBvN_GP8NHX1ipBlaSuvAfhEMCvLPhN9WuOfg-gQ0sXaRKNfFiaw6Op-sCSD4hJK1RVHkQ",
+	"path":	"/signin-oidc",
+	"expires_utc":	"13358275514770464",
+	"value":	"N"
+}{
+	"host_key":	".microsoft365.com",
+	"name":	"AKA_A2",
+	"path":	"/",
+	"expires_utc":	"13358278214770604",
+	"value":	"A"
+}{
+	"host_key":	"www.microsoft.com",
+	"name":	"Cascade.AuthSSO",
+	"path":	"/en-us/microsoft-365",
+	"expires_utc":	"13358276410618811",
+	"value":	"1"
+}{
+	"host_key":	".microsoft.com",
+	"name":	"MC1",
+	"path":	"/",
+	"expires_utc":	"13389810613862048",
+	"value":	"GUID=44c2793211c647cbba017d898af12aee&HASH=44c2&LV=202404&V=4&LU=ûÙ·x\u0013;¶ıÖœ§\u0005J"
+}{
+	"host_key":	".microsoft.com",
+	"name":	"MS0",
+	"path":	"/",
+	"expires_utc":	"13358276413862074",
+	"value":	"6a8b24905a334f7c8dddb55d0f8ac301"
+}{
+	"host_key":	".login.live.com",
+	"name":	"MSCC",
+	"path":	"/",
+	"expires_utc":	"13391970619751464",
+	"value":	"212.102.33.40-US"
+}{
+	"host_key":	".microsoft.com",
+	"name":	"MSCC",
+	"path":	"/",
+	"expires_utc":	"13358361015000000",
+	"value":	"NR"
+}{
+	"host_key":	"login.live.com",
+	"name":	"MSFPC",
+	"path":	"/",
+	"expires_utc":	"13389810631544850",
+	"value":	"GUID=44c2793211c647cbba017d898af12aee&HASH=44c2&LV=202404&V=4&LU=49sEıwVΩ/Ä‚¯j"
+}{
+	"host_key":	"www.microsoft.com",
+	"name":	"MSFPC",
+	"path":	"/",
+	"expires_utc":	"13389810615116888",
+	"value":	"GUID=44c2793211c647cbba017d898af12aee&HASH=44c2&LV=202404&V=4&LU=°Ì”ÓÈ¯n⁄1\b8ÅÒ"
+}{
+	"host_key":	"login.live.com",
+	"name":	"MicrosoftApplicationsTelemetryDeviceId",
+	"path":	"/",
+	"expires_utc":	"13389810625813226",
+	"value":	"87c44400-e124-4c99-958c-a28a7bfb64f2"
+}{
+	"host_key":	"login.live.com",
+	"name":	"ai_session",
+	"path":	"/",
+	"expires_utc":	"13358276425000000",
+	"value":	"5EXNDBboYH0ZVr/INq66as|1713801025816|1713801025816"
+}{
+	"host_key":	"login.microsoftonline.com",
+	"name":	"fpc",
+	"path":	"/",
+	"expires_utc":	"13360866616834833",
+	"value":	"AsHU9sH6MOVLoUXPOP4NEK8"
+}{
+	"host_key":	".microsoft.com",
+	"name":	"MUID",
+	"path":	"/",
+	"expires_utc":	"13391970688519320",
+	"value":	"07933016D37A62703728247FD77A6401"
+}{
+	"host_key":	"www.microsoft.com",
+	"name":	"MicrosoftApplicationsTelemetryDeviceId",
+	"path":	"/",
+	"expires_utc":	"13389810687246666",
+	"value":	"a5dd2478-5b27-4177-b448-acfd0429ff54"
+}{
+	"host_key":	"www.microsoft.com",
+	"name":	"ai_session",
+	"path":	"/",
+	"expires_utc":	"13358276487000000",
+	"value":	"iXYO6DOkUMD2N8+6oQ6SB5|1713801010588|1713801087262"
+}{
+	"host_key":	".netflix.com",
+	"name":	"NetflixId",
+	"path":	"/",
+	"expires_utc":	"13389876481678612",
+	"value":	"v%3D2%26ct%3DBQAOAAEBEMyIGLiqmv1nvwJLCDWkQhCB4IJ0NcncI4xBciNPuhGciY?µ\u0006◊røè°X~˚‡¨†œ˘©Ä†øÛ¡ïHÅ3ŒÃÑG‘^ÁC∫\u001d\u0006≠“-vÑyz\u0011©~Ø\u001cÈolN¿Ÿê\fP\ru(í\u0010ràÏ∑\u0016´\u000b\u001f}MÈÊUñè÷\u0004iÕ\ro∫oŒ)\u0004†…∞\u0011÷ûpUbëÉ´/AGo\u000e‹©ú†Œ;»pÂÓ π/ó∏bu2M\u0001ˇZæÊV±È´s´¢Òf\u0015˚⁄V \u0012\u001d…ò–$†¶h\f·Z›\u0015KªÂæ≠›¿ÁMÅk•S\"k,”˜àA0`\u0001ßb∂\u0011êe\u0007élZÚt—#ü˙  í\u0002¡r$‘Ú2°\u0012ˇÔ ûÄÌUœ∑Œ-ﬂï‘\u0002º¢ªœ∫*˙3ÙÔ„™u¡©\u0005æùk]\u000féb\u001bã\\€åDôâ•ùπÉ ˇåFÓk\u0011ﬁâ∞UFGà˜4√:∆–§V„@Ü∫\u001cD«â†4»l|"
+}{
+	"host_key":	".netflix.com",
+	"name":	"OptanonConsent",
+	"path":	"/",
+	"expires_utc":	"13389876487000000",
+	"value":	"isGpcEnabled=0&datestamp=Tue+Apr+23+2024+17%3A08%3A07+GMT%2B0700+c:’/“¨&›xfPvè†´ó\u0001Íg\u0018*ùU\n8ç‹8˛à\u0018&1\u00017y˜qTR◊‹-_„ì§≥sS\u0017‹NÉbBµtÈ}\u0017^¯˛†œ ·\u0010\u001e…\u000eàµC˘“\\ƒ‚?è¥e£Æ∂¡\u0015ÒA˙h®YiG\u00140N\u0001\u001f(\u0001\rA≠?Ò\"è\u00148˚iÊÁx\u0006ÃO`ó&|A°˛*>àΩ \u0010\u0019Éú‰1Èu\u0019_\u000eV\u0014$['yí_¨8\u001f\f÷ÀÔy≈NzNƒÃ¯÷¡Kót≠U\u0017\u001clEg¡·ˆÒ≤BÇ∑\u0018§∏√¯[Ï9}2,cZ\u0019JLñ\u0005-\u0004\nπ≥¯§u\u0013ˆ˜f∫◊∑%˝\u0018m”9\bS˛Nmç¨IÑhIû¬tF\u0004óΩ§iVüõÇÑõI*VDè"
+}{
+	"host_key":	".netflix.com",
+	"name":	"SecureNetflixId",
+	"path":	"/",
+	"expires_utc":	"13389876481678544",
+	"value":	"v%3D2%26mac%3DAQEAEQABABRhfxazj36AtQCZpNL2HOgEqBNfDCw2ZJo.%26dt%3\\8£∆\tÎ8Âpé)ÔƒÔ"
+}{
+	"host_key":	".netflix.com",
+	"name":	"flwssn",
+	"path":	"/",
+	"expires_utc":	"13358351272733503",
+	"value":	"b9da47b0-a09e-4a3c-8682-12e8d965ed91"
+}{
+	"host_key":	".netflix.com",
+	"name":	"hasSeenCookieDisclosure",
+	"path":	"/",
+	"expires_utc":	"13366116483450035",
+	"value":	"true"
+}{
+	"host_key":	".netflix.com",
+	"name":	"profilesNewSession",
+	"path":	"/",
+	"expires_utc":	"13358342287093495",
+	"value":	"0"
+}{
+	"host_key":	".google.com",
+	"name":	"SNID",
+	"path":	"/verify",
+	"expires_utc":	"13374169440420951",
+	"value":	"AKzhCTZsYBg4AOsaxFKV8yPRqXT79l4ak_q6v158cVGTU3_pUFkSxXpe43jBZh1G1≥CÁ\u0015\bÛw\u00034Õó\u000fπø\u0006q¥JXﬂ\u0001¿QˆäaåÓrü§æ"
+}{
+	"host_key":	".google.com",
+	"name":	"AEC",
+	"path":	"/",
+	"expires_utc":	"13373795311069745",
+	"value":	"AQTF6HwC4davpERr5VqUj5VLDu7Dx1Wbt8idErhp-lPqwaI-7UJqWmFeQA"
+}{
+	"host_key":	".google.com",
+	"name":	"NID",
+	"path":	"/",
+	"expires_utc":	"13374255112069801",
+	"value":	"513=HkFPAOoYoA8CX210XRgmp69k67qQwC30VH0SE8Un-YghjJ4i9X2AFr7p-ZoS7§B°\u000e\u0001ünö\u000b√ÇÃßs®?-B#¶œ›u‰“Ø–¯Fpnté\u0005ÙDP\u0017IƒZŸ‹©ﬂv\t&Ù\u000eXÎvë/Â,Ω∏¸?k[íÜÚ\u001aSQ'»◊h\u001dÈˆ•3é˝?€SÌø·ñè¥≤sØ÷"
+}{
+	"host_key":	".google.com",
+	"name":	"1P_JAR",
+	"path":	"/",
+	"expires_utc":	"13361265806422429",
+	"value":	"2024-04-27-06"
+}{
+	"host_key":	".facebook.com",
+	"name":	"c_user",
+	"path":	"/",
+	"expires_utc":	"13390209809365641",
+	"value":	"100009317154386"
+}{
+	"host_key":	".facebook.com",
+	"name":	"fr",
+	"path":	"/",
+	"expires_utc":	"13366449809365764",
+	"value":	"1dSSlvxHqR8N7VNP8.AWUx7Hpo-M_0LLP8vwROlYwE7B0.BmLJ6S..AAA.0.0.BmL‹^Ÿﬂ¶S∏åR#W3)¨1"
+}{
+	"host_key":	".facebook.com",
+	"name":	"wd",
+	"path":	"/",
+	"expires_utc":	"13359278611000000",
+	"value":	"1920x893"
+}{
+	"host_key":	".facebook.com",
+	"name":	"xs",
+	"path":	"/",
+	"expires_utc":	"13390209809365734",
+	"value":	"40%3AXzsi4upNBOH3Jw%3A2%3A1711275583%3A-1%3A6238%3A%3AAcVRB2z9jMz˙œ±4âìjÂ!ÀF>>¸Óˆ√?6„_ÿNƒG∏AuõŒØ6"
+}{
+	"host_key":	".google.com",
+	"name":	"OGPC",
+	"path":	"/",
+	"expires_utc":	"13360835313000000",
+	"value":	"19037049-1:"
+}{
+	"host_key":	"ogs.google.com",
+	"name":	"OTZ",
+	"path":	"/",
+	"expires_utc":	"13360835313000000",
+	"value":	"7524429_28_28__28_"
+}{
+	"host_key":	".doubleclick.net",
+	"name":	"IDE",
+	"path":	"/",
+	"expires_utc":	"13392804851735296",
+	"value":	"AHWqTUlsUeY4TbnBZLxJYyJ2nwPD3E_UJ7tamV7jNlIPjNOzgVRTxa_aSEHzmV0F"
+}{
+	"host_key":	"chromewebstore.google.com",
+	"name":	"OTZ",
+	"path":	"/",
+	"expires_utc":	"13360836868000000",
+	"value":	"7524454_28_28__28_"
+}{
+	"host_key":	".chromewebstore.google.com",
+	"name":	"_ga",
+	"path":	"/",
+	"expires_utc":	"13392804868328395",
+	"value":	"GA1.1.697557997.1713771268"
+}{
+	"host_key":	".chromewebstore.google.com",
+	"name":	"_ga_KHZNC1Q6K0",
+	"path":	"/",
+	"expires_utc":	"13392804870165170",
+	"value":	"GS1.1.1713771268.1.0.1713771270.0.0.0"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"FPAU",
+	"path":	"/",
+	"expires_utc":	"13360429835129592",
+	"value":	"1.1.1452157158.1708180238"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"FPID",
+	"path":	"/",
+	"expires_utc":	"13392816802129506",
+	"value":	"FPID2.2.onU4scWlRKF7I5hnUB1mEGKqiSJRh9VwrBgbvae0GHQ%3D.1708330537"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"FPLC",
+	"path":	"/",
+	"expires_utc":	"13358328801285171",
+	"value":	"Jri3unZwEJ4v1O7UztS2wdqhTktdav%2FccAktR7mxHri23gGDbuZ5rRkGQREjeYX[¥yÏî\u0010{$G#Û›â‘MyS£RF‰În˙\u0007º=„‘áD@ı$‡(£B0<ñ\u0010oy~@–ˇü2PR‡öÑ\u0019[’\u0019∏6¿3*'Yé;Âˇi\f"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"__cf_bm",
+	"path":	"/",
+	"expires_utc":	"13358258601078796",
+	"value":	"30eQA48A7gNezyCPtOWrOq.5HTw1V7oFBEPZrUe1j_Q-1713783203-1.0.1.1-3j\u0013Ç>ÊifÜåàÓPµ&OzÂµ\u0006É›{b—\u0017\u0017û\u000bZ#±h\r%û}QVúâπ€\u001e“™Ê7x∏◊œµè6Fµ$o7∞-\u0016¢»"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"_ga",
+	"path":	"/",
+	"expires_utc":	"13392816801425255",
+	"value":	"GA1.1.1720802202.1708330537"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"_gcl_au",
+	"path":	"/",
+	"expires_utc":	"13360429838000000",
+	"value":	"1.1.1452157158.1708180238"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"cf_clearance",
+	"path":	"/",
+	"expires_utc":	"13389792801400866",
+	"value":	"z6i_C6.d699FAaRuZVGAH2G.YHpW80dvFhobycUpgxE-1713783203-1.0.1.1-Kwñ˛7⁄ùr˙‡]"
+}{
+	"host_key":	".www.crunchyroll.com",
+	"name":	"OptanonConsent",
+	"path":	"/",
+	"expires_utc":	"13389792804000000",
+	"value":	"consentId=3136d831-f333-425c-951e-39fe47adeb8f&datestamp=Mon+Apr+{Â.è\u0019m::ë]§\r≥πú•≤dÌº2')ü\\\u000e2`µÛ¨\u001f˜.3ˇE⁄{ø[C\u001e\u0010‹Dg¶`É¥%ªú∆è‘˙_å?˘çzò>-'ﬁ‘1]ß&Cú*e´â@B¯_ ˇå\u0015ƒj‘\u0003"
+}{
+	"host_key":	"www.crunchyroll.com",
+	"name":	"_dd_s",
+	"path":	"/",
+	"expires_utc":	"13358257704000000",
+	"value":	"rum=0&expire=1713784103409"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"_ga_METRICID",
+	"path":	"/",
+	"expires_utc":	"13392816804294620",
+	"value":	"GS1.1.1713783201.14.1.1713783204.0.0.1548463645"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"_ga_SYYQC1VW88",
+	"path":	"/",
+	"expires_utc":	"13392816804298313",
+	"value":	"GS1.1.1713783201.14.1.1713783204.57.0.0"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"ajs_anonymous_id",
+	"path":	"/",
+	"expires_utc":	"13389792803000000",
+	"value":	"bb0972d6-73ac-4a34-b8cb-631cff4579c9"
+}{
+	"host_key":	".amazon.com",
+	"name":	"av-timezone",
+	"path":	"/",
+	"expires_utc":	"13389792843000000",
+	"value":	"Asia/Bangkok"
+}{
+	"host_key":	"www.amazon.com",
+	"name":	"csm-hit",
+	"path":	"/",
+	"expires_utc":	"13388496843000000",
+	"value":	"tb:s-G0XEXDXFD3T4J69PKKCQ|1713783243351&t:1713783243472&adb:adblk\u0003\u0005ø"
+}{
+	"host_key":	".amazon.com",
+	"name":	"i18n-prefs",
+	"path":	"/",
+	"expires_utc":	"13389792837007547",
+	"value":	"USD"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"i18n-prefs",
+	"path":	"/",
+	"expires_utc":	"13389792854494254",
+	"value":	"USD"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"lc-main-av",
+	"path":	"/",
+	"expires_utc":	"13392816855313794",
+	"value":	"en_US"
+}{
+	"host_key":	".amazon.com",
+	"name":	"session-id",
+	"path":	"/",
+	"expires_utc":	"13389792837007459",
+	"value":	"145-3577135-0470301"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"session-id",
+	"path":	"/",
+	"expires_utc":	"13389792854494175",
+	"value":	"357-0940843-1197438"
+}{
+	"host_key":	".amazon.com",
+	"name":	"session-id-time",
+	"path":	"/",
+	"expires_utc":	"13389792837007531",
+	"value":	"2082787201l"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"session-id-time",
+	"path":	"/",
+	"expires_utc":	"13389792854494242",
+	"value":	"2082787201l"
+}{
+	"host_key":	".amazon.com",
+	"name":	"session-token",
+	"path":	"/",
+	"expires_utc":	"13389792840542733",
+	"value":	"O1Vu5UFFXwC9P4w5ZmonZH3l2fkyQqMJZ8nplM0D2QxwNPCr4eyZLDURbq4/0Bq3T@ã©\u001cêûUä†Û”°˙?\n-Wßcöÿ∫‘Õ6>Ñu^öX¶‰·èâ\néΩ†\u0001å7\u001d≤ƒ‚ÈóÛ%úBwΩê\u0001)t⁄\u001eˇﬁÜ{ÃΩ8\u0018sûﬁhÙ]:À(\u0001ªﬁp%†˚∞”H∆DO\u0019∫±£~\u001eXÚ1\u00140ªH™|yg≈¡S_g"
+}{
+	"host_key":	".amazon.com",
+	"name":	"sp-cdn",
+	"path":	"/",
+	"expires_utc":	"13389792837007558",
+	"value":	"\"L5Z9:VN\""
+}{
+	"host_key":	".amazon.com",
+	"name":	"ubid-main",
+	"path":	"/",
+	"expires_utc":	"13389792840939058",
+	"value":	"135-3058013-9222641"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"ubid-main-av",
+	"path":	"/",
+	"expires_utc":	"13389792855313671",
+	"value":	"355-9947976-4006727"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"av-timezone",
+	"path":	"/",
+	"expires_utc":	"13389792862000000",
+	"value":	"Asia/Bangkok"
+}{
+	"host_key":	"www.primevideo.com",
+	"name":	"csm-hit",
+	"path":	"/",
+	"expires_utc":	"13388496859000000",
+	"value":	"tb:8QKE8VCYC57NKMWYAKXW+s-8QKE8VCYC57NKMWYAKXW|1713783259467&t:17\u0014∆8 \n\u0013$8d∞V¨\u0005fêP”Ÿ\u0001[\b\u000eÄç"
+}{
+	"host_key":	".facebook.com",
+	"name":	"datr",
+	"path":	"/",
+	"expires_utc":	"13389118748138530",
+	"value":	"G9TtZWA9LUG_avaaWa3mvcNg"
+}{
+	"host_key":	".facebook.com",
+	"name":	"dpr",
+	"path":	"/",
+	"expires_utc":	"13358856620000000",
+	"value":	"1"
+}{
+	"host_key":	".facebook.com",
+	"name":	"ps_l",
+	"path":	"/",
+	"expires_utc":	"13392532168205957",
+	"value":	"1"
+}{
+	"host_key":	".facebook.com",
+	"name":	"ps_n",
+	"path":	"/",
+	"expires_utc":	"13392532168205817",
+	"value":	"1"
+}{
+	"host_key":	".facebook.com",
+	"name":	"sb",
+	"path":	"/",
+	"expires_utc":	"13390309185698275",
+	"value":	"HNTtZfi3LSmcu_QgxvDzHL-g"
+}{
+	"host_key":	"steamcommunity.com",
+	"name":	"recentlyVisitedAppHubs",
+	"path":	"/",
+	"expires_utc":	"13389797304446234",
+	"value":	"431960"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_INFO1_LIVE",
+	"path":	"/",
+	"expires_utc":	"13373813298918067",
+	"value":	"SXx1BikeScI"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_PRIVACY_METADATA",
+	"path":	"/",
+	"expires_utc":	"13373813298918091",
+	"value":	"CgJWThIEGgAgIA%3D%3D"
+}{
+	"host_key":	"steamcommunity.com",
+	"name":	"timezoneOffset",
+	"path":	"/",
+	"expires_utc":	"13389797323000000",
+	"value":	"25200,0"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_INFO1_LIVE",
+	"path":	"/",
+	"expires_utc":	"13373813324301116",
+	"value":	"Wyro00U4XmA"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_PRIVACY_METADATA",
+	"path":	"/",
+	"expires_utc":	"13373813324301142",
+	"value":	"CgJWThIEGgAgUQ%3D%3D"
+}{
+	"host_key":	".urban-vpn.com",
+	"name":	"_upid",
+	"path":	"/",
+	"expires_utc":	"13392834043531770",
+	"value":	"XNe2iceSEIRRN1uJiozQ6T"
+}{
+	"host_key":	".authentication.urban-vpn.com",
+	"name":	"userId",
+	"path":	"/",
+	"expires_utc":	"13392834043531840",
+	"value":	"MQ41LyLmNYtWQH9TAzArZU"
+}{
+	"host_key":	".authentication.urban-vpn.com",
+	"name":	"userKey",
+	"path":	"/",
+	"expires_utc":	"13392834043531858",
+	"value":	"XNe2iceSEIRRN1uJiozQ6T"
+}{
+	"host_key":	".www.cloudflare.com",
+	"name":	"__cf_bm",
+	"path":	"/",
+	"expires_utc":	"13358276331976517",
+	"value":	"CyJMbYqKNtqnJd0srK6EBkov9O_ALBKzC_SBzytKoxo-1713800932-1.0.1.1-UFvy√»lc¿[∏°≠vû9\\%`«˘n\u0019·\u0016{—\u001e\t∑\u0004©<û–üË\u001bZ~âBÚëÿˆÒ∏ßõpÌÌ÷π2Ç¬∞‹—–Ø†F“Ä»Óf«Ï9©J±\u001c≤Á\u0005Æ\u001f.¡≈^1TEÄßt\r?¥∂\\5ç\\Ó˘;M\u0011fñ"
+}{
+	"host_key":	".google.com",
+	"name":	"__Secure-ENID",
+	"path":	"/",
+	"expires_utc":	"13392461249723662",
+	"value":	"19.SE=XqU962L76RrxO6iIf3UjHbf2HBtZJhOAf8tXXFLIVKc4l2ZCIimfhiNPrzyn\ng\u0010MGdÜK\u000b\u0012ÁaGj±\u001e\u0006èßªÕµ‹±\u0004\u0011∏l\u0014Fîù\u0016Å‘Á#¢˜\u000b˙¶\n\u0012Á0˙p±øq\u0003Óh•S˚¸QJi@GÓˆZ¢9…÷>(Ü@\u0012~&é/È(.Ô˜VÌÊø`\u0010\u0007ﬂˆ#\fU%˜<+»ÓG:&À\u0004¡®å\u0013^∂›Ï†Íé\u0019q…o\u0018 †‰Í1\u0013j»Åw1ixs|\u000bxÉ≤¯ç"
+}{
+	"host_key":	"checkout.microsoft365.com",
+	"name":	".AspNetCore.Correlation.OpVuzVPHh7IPSnZ7diNQRW2i6X3jsFedrsDPjEF7UZI",
+	"path":	"/signin-oidc",
+	"expires_utc":	"13358275514770571",
+	"value":	"N"
+}{
+	"host_key":	"www.microsoft.com",
+	"name":	".AspNetCore.OpenIdConnect.Nonce.CfDJ8ErKcMLaah5Eq24B2tGmvfzcyBaqoRSzx9TAw8RBufYomNgyEUExYGkbr7CpWd5SP8hoPjUZNn5ssdzUUX2kil_iwQZW5W5GnojrF0JjDKsuXH45AqC14_jamuZHILZDX6ppHLtz0-v-sCuTOMd33mh9WCBA9oDXrMvy0QsOA3ELVgUWZ0eZrDp_iW1j5C53Kg_X-q2diDPCdwP-2fbFGQDPZpgQ75Ewtb1HnOqV0rWXcyPp1JIyAQe-LQXQGlpLDPsl1xcSmNR41wM2xy_kG7o",
+	"path":	"/cascadeauth/account/signin-oidc",
+	"expires_utc":	"13358275511436148",
+	"value":	"N"
+}{
+	"host_key":	"checkout.microsoft365.com",
+	"name":	".AspNetCore.OpenIdConnect.Nonce.CfDJ8Lt5CoSwdg1KlPFsbq7fsRzuwfK7cJjBc6ukQ_ZhG1vUm8F_l8YH1vKp-rbiZJzgDQi4lJNEDaRWSjZ0q-vRAg5R0K-enYjxGO1oPi7imKnXM2O2eSheI505AOcwoDzFlWbQ4Nur3RdZ4YdN_7T_owPWo3XohmEbEQjo8cwTdgsP7Xq7AHNDblVK_EENwjESOLQDP9T9pV_Jw0aCOdBvN_GP8NHX1ipBlaSuvAfhEMCvLPhN9WuOfg-gQ0sXaRKNfFiaw6Op-sCSD4hJK1RVHkQ",
+	"path":	"/signin-oidc",
+	"expires_utc":	"13358275514770464",
+	"value":	"N"
+}{
+	"host_key":	".microsoft365.com",
+	"name":	"AKA_A2",
+	"path":	"/",
+	"expires_utc":	"13358278214770604",
+	"value":	"A"
+}{
+	"host_key":	"www.microsoft.com",
+	"name":	"Cascade.AuthSSO",
+	"path":	"/en-us/microsoft-365",
+	"expires_utc":	"13358276410618811",
+	"value":	"1"
+}{
+	"host_key":	".microsoft.com",
+	"name":	"MC1",
+	"path":	"/",
+	"expires_utc":	"13389810613862048",
+	"value":	"GUID=44c2793211c647cbba017d898af12aee&HASH=44c2&LV=202404&V=4&LU=ûÙ·x\u0013;¶ıÖœ§\u0005J"
+}{
+	"host_key":	".microsoft.com",
+	"name":	"MS0",
+	"path":	"/",
+	"expires_utc":	"13358276413862074",
+	"value":	"6a8b24905a334f7c8dddb55d0f8ac301"
+}{
+	"host_key":	".login.live.com",
+	"name":	"MSCC",
+	"path":	"/",
+	"expires_utc":	"13391970619751464",
+	"value":	"212.102.33.40-US"
+}{
+	"host_key":	".microsoft.com",
+	"name":	"MSCC",
+	"path":	"/",
+	"expires_utc":	"13358361015000000",
+	"value":	"NR"
+}{
+	"host_key":	"login.live.com",
+	"name":	"MSFPC",
+	"path":	"/",
+	"expires_utc":	"13389810631544850",
+	"value":	"GUID=44c2793211c647cbba017d898af12aee&HASH=44c2&LV=202404&V=4&LU=49sEıwVΩ/Ä‚¯j"
+}{
+	"host_key":	"www.microsoft.com",
+	"name":	"MSFPC",
+	"path":	"/",
+	"expires_utc":	"13389810615116888",
+	"value":	"GUID=44c2793211c647cbba017d898af12aee&HASH=44c2&LV=202404&V=4&LU=°Ì”ÓÈ¯n⁄1\b8ÅÒ"
+}{
+	"host_key":	"login.live.com",
+	"name":	"MicrosoftApplicationsTelemetryDeviceId",
+	"path":	"/",
+	"expires_utc":	"13389810625813226",
+	"value":	"87c44400-e124-4c99-958c-a28a7bfb64f2"
+}{
+	"host_key":	"login.live.com",
+	"name":	"ai_session",
+	"path":	"/",
+	"expires_utc":	"13358276425000000",
+	"value":	"5EXNDBboYH0ZVr/INq66as|1713801025816|1713801025816"
+}{
+	"host_key":	"login.microsoftonline.com",
+	"name":	"fpc",
+	"path":	"/",
+	"expires_utc":	"13360866616834833",
+	"value":	"AsHU9sH6MOVLoUXPOP4NEK8"
+}{
+	"host_key":	".microsoft.com",
+	"name":	"MUID",
+	"path":	"/",
+	"expires_utc":	"13391970688519320",
+	"value":	"07933016D37A62703728247FD77A6401"
+}{
+	"host_key":	"www.microsoft.com",
+	"name":	"MicrosoftApplicationsTelemetryDeviceId",
+	"path":	"/",
+	"expires_utc":	"13389810687246666",
+	"value":	"a5dd2478-5b27-4177-b448-acfd0429ff54"
+}{
+	"host_key":	"www.microsoft.com",
+	"name":	"ai_session",
+	"path":	"/",
+	"expires_utc":	"13358276487000000",
+	"value":	"iXYO6DOkUMD2N8+6oQ6SB5|1713801010588|1713801087262"
+}{
+	"host_key":	".netflix.com",
+	"name":	"NetflixId",
+	"path":	"/",
+	"expires_utc":	"13389876481678612",
+	"value":	"v%3D2%26ct%3DBQAOAAEBEMyIGLiqmv1nvwJLCDWkQhCB4IJ0NcncI4xBciNPuhGciY?µ\u0006◊røè°X~˚‡¨†œ˘©Ä†øÛ¡ïHÅ3ŒÃÑG‘^ÁC∫\u001d\u0006≠“-vÑyz\u0011©~Ø\u001cÈolN¿Ÿê\fP\ru(í\u0010ràÏ∑\u0016´k\u001fùíÇÊUñè÷\u0004iÕ\ro∫oŒ)\u0004†…∞\u0011÷ûpUbëÉ´/AGo\u000e‹©ú†Œ;»pÂÓ π/ó∏bu2M\u0001ˇZæÊV±È´s´¢Òf\u0015˚⁄V \u0012\u001d…ò–$†¶h\f·Z›\u0015KªÂæ≠›¿ÁMÅk•S\"k,”˜àA0`\u0001ßb∂\u0011êe\u0007élZÚt—#ü˙  í\u0002¡r$‘Ú2°\u0012ˇÔ ûÄÌUœ∑Œ-ﬂï‘\u0002º¢ªœ∫*˙3ÙÔ„™u¡©\u0005æùk]\u000féb\u001bã\\€åDôâ•ùπÉ ˇåFÓk\u0011ﬁâ∞UFGà˜4√:∆–§V„@Ü∫\u001cD«â†4»l|"
+}{
+	"host_key":	".netflix.com",
+	"name":	"OptanonConsent",
+	"path":	"/",
+	"expires_utc":	"13389876487000000",
+	"value":	"isGpcEnabled=0&datestamp=Tue+Apr+23+2024+17%3A08%3A07+GMT%2B0700+c:’/“¨&›xfPvè†´ó\u0001Íg\u0018*ùU\n8ç‹8˛à\u0018&1\u00017y˜qTR◊‹-_„ì§≥sS\u0017‹NÉbBµtÈ}\u0017^¯˛†œ ·\u0010\u001e©\u000ehj(˘“\\ƒ‚?è¥e£Æ∂¡\u0015ÒA˙h®YiG\u00140N\u0001\u001f(\u0001\rA≠?Ò\"è\u00148˚iÊÁx\u0006ÃO`ó&|A°˛*>àΩ \u0010\u0019Éú‰1Èu\u0019_\u000eV\u0014$['yí_¨8\u001f\f÷ÀÔy≈NzNƒÃ¯÷¡Kót≠U\u0017\u001clEg¡·ˆÒ≤BÇ∑\u0018§∏√¯[Ï9}2,cZ\u0019JLñ\u0005-\u0004\nπ≥¯§u\u0013ˆ˜f∫◊∑%˝\u0018m”9\bS˛Nmç¨IÑhIû¬tF\u0004óΩ§iVüõÇÑõI*VDè"
+}{
+	"host_key":	".netflix.com",
+	"name":	"SecureNetflixId",
+	"path":	"/",
+	"expires_utc":	"13389876481678544",
+	"value":	"v%3D2%26mac%3DAQEAEQABABRhfxazj36AtQCZpNL2HOgEqBNfDCw2ZJo.%26dt%3\\8£∆\tÎ8Âpé)ÔƒÔ"
+}{
+	"host_key":	".netflix.com",
+	"name":	"flwssn",
+	"path":	"/",
+	"expires_utc":	"13358351272733503",
+	"value":	"b9da47b0-a09e-4a3c-8682-12e8d965ed91"
+}{
+	"host_key":	".netflix.com",
+	"name":	"hasSeenCookieDisclosure",
+	"path":	"/",
+	"expires_utc":	"13366116483450035",
+	"value":	"true"
+}{
+	"host_key":	".netflix.com",
+	"name":	"profilesNewSession",
+	"path":	"/",
+	"expires_utc":	"13358342287093495",
+	"value":	"0"
+}{
+	"host_key":	".google.com",
+	"name":	"SNID",
+	"path":	"/verify",
+	"expires_utc":	"13374169440420951",
+	"value":	"AKzhCTZsYBg4AOsaxFKV8yPRqXT79l4ak_q6v158cVGTU3_pUFkSxXpe43jBZh1G1≥CÁ\u0015\bÛw\u00034Õó\u000fπø\u0006q¥JXﬂ\u0001¿QˆäaåÓrü§æ"
+}{
+	"host_key":	".google.com",
+	"name":	"AEC",
+	"path":	"/",
+	"expires_utc":	"13373795311069745",
+	"value":	"AQTF6HwC4davpERr5VqUj5VLDu7Dx1Wbt8idErhp-lPqwaI-7UJqWmFeQA"
+}{
+	"host_key":	".google.com",
+	"name":	"NID",
+	"path":	"/",
+	"expires_utc":	"13374255112069801",
+	"value":	"513=HkFPAOoYoA8CX210XRgmp69k67qQwC30VH0SE8Un-YghjJ4i9X2AFr7p-ZoS7§B°\u000e\u0001ünö\u000b√ÇÃßs®?-B#¶œ›u‰“Ø–¯Fpnté\u0005ÙDP\u0017IƒZŸ‹©ﬂv\t&Ù\u000eXÎvë/Â,Ω∏¸?k[íÜÚ\u001aSQ'®◊à¬Çˆ•3é˝?€SÌø·ñè¥≤sØ÷"
+}{
+	"host_key":	".google.com",
+	"name":	"1P_JAR",
+	"path":	"/",
+	"expires_utc":	"13361265806422429",
+	"value":	"2024-04-27-06"
+}{
+	"host_key":	".facebook.com",
+	"name":	"c_user",
+	"path":	"/",
+	"expires_utc":	"13390209809365641",
+	"value":	"100009317154386"
+}{
+	"host_key":	".facebook.com",
+	"name":	"fr",
+	"path":	"/",
+	"expires_utc":	"13366449809365764",
+	"value":	"1dSSlvxHqR8N7VNP8.AWUx7Hpo-M_0LLP8vwROlYwE7B0.BmLJ6S..AAA.0.0.BmL‹^Ÿﬂ¶S∏åR#W3)¨1"
+}{
+	"host_key":	".facebook.com",
+	"name":	"wd",
+	"path":	"/",
+	"expires_utc":	"13359278611000000",
+	"value":	"1920x893"
+}{
+	"host_key":	".facebook.com",
+	"name":	"xs",
+	"path":	"/",
+	"expires_utc":	"13390209809365734",
+	"value":	"40%3AXzsi4upNBOH3Jw%3A2%3A1711275583%3A-1%3A6238%3A%3AAcVRB2z9jMz˙œ±4âìjÂ!ÀF>>¸Óˆ√?6„_ÿNƒG∏AuõŒØ6"
+}{
+	"host_key":	".google.com",
+	"name":	"OGPC",
+	"path":	"/",
+	"expires_utc":	"13360835313000000",
+	"value":	"19037049-1:"
+}{
+	"host_key":	"ogs.google.com",
+	"name":	"OTZ",
+	"path":	"/",
+	"expires_utc":	"13360835313000000",
+	"value":	"7524429_28_28__28_"
+}{
+	"host_key":	".doubleclick.net",
+	"name":	"IDE",
+	"path":	"/",
+	"expires_utc":	"13392804851735296",
+	"value":	"AHWqTUlsUeY4TbnBZLxJYyJ2nwPD3E_UJ7tamV7jNlIPjNOzgVRTxa_aSEHzmV0F"
+}{
+	"host_key":	"chromewebstore.google.com",
+	"name":	"OTZ",
+	"path":	"/",
+	"expires_utc":	"13360836868000000",
+	"value":	"7524454_28_28__28_"
+}{
+	"host_key":	".chromewebstore.google.com",
+	"name":	"_ga",
+	"path":	"/",
+	"expires_utc":	"13392804868328395",
+	"value":	"GA1.1.697557997.1713771268"
+}{
+	"host_key":	".chromewebstore.google.com",
+	"name":	"_ga_KHZNC1Q6K0",
+	"path":	"/",
+	"expires_utc":	"13392804870165170",
+	"value":	"GS1.1.1713771268.1.0.1713771270.0.0.0"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"FPAU",
+	"path":	"/",
+	"expires_utc":	"13360429835129592",
+	"value":	"1.1.1452157158.1708180238"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"FPID",
+	"path":	"/",
+	"expires_utc":	"13392816802129506",
+	"value":	"FPID2.2.onU4scWlRKF7I5hnUB1mEGKqiSJRh9VwrBgbvae0GHQ%3D.1708330537"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"FPLC",
+	"path":	"/",
+	"expires_utc":	"13358328801285171",
+	"value":	"Jri3unZwEJ4v1O7UztS2wdqhTktdav%2FccAktR7mxHri23gGDbuZ5rRkGQREjeYXFB%2BC1QiUspx6dVVFc0cj%2FQLqlnLow1CHUBdAelspouBRT4edQ4IkMjJ8pAuGXwA%3D%3D"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"__cf_bm",
+	"path":	"/",
+	"expires_utc":	"13358258601078796",
+	"value":	"30eQA48A7gNezyCPtOWrOq.5HTw1V7oFBEPZrUe1j_Q-1713783203-1.0.1.1-3jtJoIkE1Efgv4Kxi03jClfD4MTDxuLFnMyMRCoxzlniwRIe5.wEXWskADjLZDvoi4M7sR_6Gmof.yDpdnXaqZ2KVfJ96LruKfssePj37ws"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"_ga",
+	"path":	"/",
+	"expires_utc":	"13392816801425255",
+	"value":	"GA1.1.1720802202.1708330537"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"_gcl_au",
+	"path":	"/",
+	"expires_utc":	"13360429838000000",
+	"value":	"1.1.1452157158.1708180238"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"cf_clearance",
+	"path":	"/",
+	"expires_utc":	"13389792801400866",
+	"value":	"z6i_C6.d699FAaRuZVGAH2G.YHpW80dvFhobycUpgxE-1713783203-1.0.1.1-Kw2LPgCtd3UGXyctJ9H_TEB_lN8s1n6rUz70uAcnhbsVt_Cpjft8a7Une2gnj2z.WkcM2wo4wBuI5sny0Ebh7A"
+}{
+	"host_key":	".www.crunchyroll.com",
+	"name":	"OptanonConsent",
+	"path":	"/",
+	"expires_utc":	"13389792804000000",
+	"value":	"consentId=3136d831-f333-425c-951e-39fe47adeb8f&datestamp=Mon+Apr+22+2024+17%3A53%3A24+GMT%2B0700+(Indochina+Time)&version=202402.1.0&interactionCount=1&isAnonUser=1&isGpcEnabled=0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&landingPath=https%3A%2F%2Fwww.crunchyroll.com%2Fwatch%2FGJWU2W71K%2Fthe-man-who-became-a-kaiju&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1"
+}{
+	"host_key":	"www.crunchyroll.com",
+	"name":	"_dd_s",
+	"path":	"/",
+	"expires_utc":	"13358257704000000",
+	"value":	"rum=0&expire=1713784103409"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"_ga_METRICID",
+	"path":	"/",
+	"expires_utc":	"13392816804294620",
+	"value":	"GS1.1.1713783201.14.1.1713783204.0.0.1548463645"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"_ga_SYYQC1VW88",
+	"path":	"/",
+	"expires_utc":	"13392816804298313",
+	"value":	"GS1.1.1713783201.14.1.1713783204.57.0.0"
+}{
+	"host_key":	".crunchyroll.com",
+	"name":	"ajs_anonymous_id",
+	"path":	"/",
+	"expires_utc":	"13389792803000000",
+	"value":	"bb0972d6-73ac-4a34-b8cb-631cff4579c9"
+}{
+	"host_key":	".amazon.com",
+	"name":	"av-timezone",
+	"path":	"/",
+	"expires_utc":	"13389792843000000",
+	"value":	"Asia/Bangkok"
+}{
+	"host_key":	"www.amazon.com",
+	"name":	"csm-hit",
+	"path":	"/",
+	"expires_utc":	"13388496843000000",
+	"value":	"tb:s-G0XEXDXFD3T4J69PKKCQ|1713783243351&t:1713783243472&adb:adblk_no"
+}{
+	"host_key":	".amazon.com",
+	"name":	"i18n-prefs",
+	"path":	"/",
+	"expires_utc":	"13389792837007547",
+	"value":	"USD"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"i18n-prefs",
+	"path":	"/",
+	"expires_utc":	"13389792854494254",
+	"value":	"USD"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"lc-main-av",
+	"path":	"/",
+	"expires_utc":	"13392816855313794",
+	"value":	"en_US"
+}{
+	"host_key":	".amazon.com",
+	"name":	"session-id",
+	"path":	"/",
+	"expires_utc":	"13389792837007459",
+	"value":	"145-3577135-0470301"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"session-id",
+	"path":	"/",
+	"expires_utc":	"13389792854494175",
+	"value":	"357-0940843-1197438"
+}{
+	"host_key":	".amazon.com",
+	"name":	"session-id-time",
+	"path":	"/",
+	"expires_utc":	"13389792837007531",
+	"value":	"2082787201l"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"session-id-time",
+	"path":	"/",
+	"expires_utc":	"13389792854494242",
+	"value":	"2082787201l"
+}{
+	"host_key":	".amazon.com",
+	"name":	"session-token",
+	"path":	"/",
+	"expires_utc":	"13389792840542733",
+	"value":	"O1Vu5UFFXwC9P4w5ZmonZH3l2fkyQqMJZ8nplM0D2QxwNPCr4eyZLDURbq4/0Bq3TbjFVY+Z2aAp4yK+dTwijHdFK612ZK/LkYVKxz9M0zEhP6VplaNtr1xMTTnLU9J6PY8Jvn+BfMn03R1qrrlpbeeDphIw+zn+AwBsNdUdRtIHvA6EQJODXT8QIZiJGUQ1ojZVF8tsbHGhwkQXM3mwm9lPUrePJPwOBRAs5uf6vlks9smZui1M7N8GpfFRy2jv7ZwGCcp/VYlAItYryL8gJhnDDdRC2sdUL3H2N/NYL85aQsN7UC/lQH7KQgYtWEFN39XwtR7aLGsA2nd8SaSJjGhjy8fV9GBd"
+}{
+	"host_key":	".amazon.com",
+	"name":	"sp-cdn",
+	"path":	"/",
+	"expires_utc":	"13389792837007558",
+	"value":	"\"L5Z9:VN\""
+}{
+	"host_key":	".amazon.com",
+	"name":	"ubid-main",
+	"path":	"/",
+	"expires_utc":	"13389792840939058",
+	"value":	"135-3058013-9222641"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"ubid-main-av",
+	"path":	"/",
+	"expires_utc":	"13389792855313671",
+	"value":	"355-9947976-4006727"
+}{
+	"host_key":	".primevideo.com",
+	"name":	"av-timezone",
+	"path":	"/",
+	"expires_utc":	"13389792862000000",
+	"value":	"Asia/Bangkok"
+}{
+	"host_key":	"www.primevideo.com",
+	"name":	"csm-hit",
+	"path":	"/",
+	"expires_utc":	"13388496859000000",
+	"value":	"tb:8QKE8VCYC57NKMWYAKXW+s-8QKE8VCYC57NKMWYAKXW|1713783259467&t:1713783259467&adb:adblk_no"
+}{
+	"host_key":	".facebook.com",
+	"name":	"datr",
+	"path":	"/",
+	"expires_utc":	"13389118748138530",
+	"value":	"G9TtZWA9LUG_avaaWa3mvcNg"
+}{
+	"host_key":	".facebook.com",
+	"name":	"dpr",
+	"path":	"/",
+	"expires_utc":	"13358856620000000",
+	"value":	"1"
+}{
+	"host_key":	".facebook.com",
+	"name":	"ps_l",
+	"path":	"/",
+	"expires_utc":	"13392532168205957",
+	"value":	"1"
+}{
+	"host_key":	".facebook.com",
+	"name":	"ps_n",
+	"path":	"/",
+	"expires_utc":	"13392532168205817",
+	"value":	"1"
+}{
+	"host_key":	".facebook.com",
+	"name":	"sb",
+	"path":	"/",
+	"expires_utc":	"13390309185698275",
+	"value":	"HNTtZfi3LSmcu_QgxvDzHL-g"
+}{
+	"host_key":	"steamcommunity.com",
+	"name":	"recentlyVisitedAppHubs",
+	"path":	"/",
+	"expires_utc":	"13389797304446234",
+	"value":	"431960"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_INFO1_LIVE",
+	"path":	"/",
+	"expires_utc":	"13373813298918067",
+	"value":	"SXx1BikeScI"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_PRIVACY_METADATA",
+	"path":	"/",
+	"expires_utc":	"13373813298918091",
+	"value":	"CgJWThIEGgAgIA%3D%3D"
+}{
+	"host_key":	"steamcommunity.com",
+	"name":	"timezoneOffset",
+	"path":	"/",
+	"expires_utc":	"13389797323000000",
+	"value":	"25200,0"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_INFO1_LIVE",
+	"path":	"/",
+	"expires_utc":	"13373813324301116",
+	"value":	"Wyro00U4XmA"
+}{
+	"host_key":	".youtube.com",
+	"name":	"VISITOR_PRIVACY_METADATA",
+	"path":	"/",
+	"expires_utc":	"13373813324301142",
+	"value":	"CgJWThIEGgAgUQ%3D%3D"
+}{
+	"host_key":	".urban-vpn.com",
+	"name":	"_upid",
+	"path":	"/",
+	"expires_utc":	"13392834043531770",
+	"value":	"XNe2iceSEIRRN1uJiozQ6T"
+}{
+	"host_key":	".authentication.urban-vpn.com",
+	"name":	"userId",
+	"path":	"/",
+	"expires_utc":	"13392834043531840",
+	"value":	"MQ41LyLmNYtWQH9TAzArZU"
+}{
+	"host_key":	".authentication.urban-vpn.com",
+	"name":	"userKey",
+	"path":	"/",
+	"expires_utc":	"13392834043531858",
+	"value":	"XNe2iceSEIRRN1uJiozQ6T"
+}{
+	"host_key":	".www.cloudflare.com",
+	"name":	"__cf_bm",
+	"path":	"/",
+	"expires_utc":	"13358276331976517",
+	"value":	"CyJMbYqKNtqnJd0srK6EBkov9O_ALBKzC_SBzytKoxo-1713800932-1.0.1.1-UFqgw__e6sLD5sFUoW4BNdVU56TqwG.5rb2Qs9aQdqGsZV7UExLSt1soY_gMJjNAVf7LAAOXwqUxhNSLqjXKIpqXlv5y5UO5b8S_JsCo5x8"
+}{
+	"host_key":	".google.com",
+	"name":	"__Secure-ENID",
+	"path":	"/",
+	"expires_utc":	"13392461249723662",
+	"value":	"19.SE=XqU962L76RrxO6iIf3UjHbf2HBtZJhOAf8tXXFLIVKc4l2ZCIimfhiNPrzys7DYbOZuRR_fveS39mfbgrA9Xlbayod76Hxa2RJpOdb3-I-vJlrSDBmwbE6BlN9YrZ6XpBDe0YcncHx6DCO_EYUbXAU9qGufGl_fUBcbGsVlVcSKvDPU7vPQtnqPFTtr3A74DXkVO2lhoSIifEw"
+}{
+	"host_key":	"checkout.microsoft365.com",
+	"name":	".AspNetCore.Correlation.OpVuzVPHh7IPSnZ7diNQRW2i6X3jsFedrsDPjEF7UZI",
+	"path":	"/signin-oidc",
+	"expires_utc":	"13358275514770571",
+	"value":	"N"
+}{
+	"host_key":	"www.microsoft.com",
+	"name":	".AspNetCore.OpenIdConnect.Nonce.CfDJ8ErKcMLaah5Eq24B2tGmvfzcyBaqoRSzx9TAw8RBufYomNgyEUExYGkbr7CpWd5SP8hoPjUZNn5ssdzUUX2kil_iwQZW5W5GnojrF0JjDKsuXH45AqC14_jamuZHILZDX6ppHLtz0-v-sCuTOMd33mh9WCBA9oDXrMvy0QsOA3ELVgUWZ0eZrDp_iW1j5C53Kg_X-q2diDPCdwP-2fbFGQDPZpgQ75Ewtb1HnOqV0rWXcyPp1JIyAQe-LQXQGlpLDPsl1xcSmNR41wM2xy_kG7o",
+	"path":	"/cascadeauth/account/signin-oidc",
+	"expires_utc":	"13358275511436148",
+	"value":	"N"
+}{
+	"host_key":	"checkout.microsoft365.com",
+	"name":	".AspNetCore.OpenIdConnect.Nonce.CfDJ8Lt5CoSwdg1KlPFsbq7fsRzuwfK7cJjBc6ukQ_ZhG1vUm8F_l8YH1vKp-rbiZJzgDQi4lJNEDaRWSjZ0q-vRAg5R0K-enYjxGO1oPi7imKnXM2O2eSheI505AOcwoDzFlWbQ4Nur3RdZ4YdN_7T_owPWo3XohmEbEQjo8cwTdgsP7Xq7AHNDblVK_EENwjESOLQDP9T9pV_Jw0aCOdBvN_GP8NHX1ipBlaSuvAfhEMCvLPhN9WuOfg-gQ0sXaRKNfFiaw6Op-sCSD4hJK1RVHkQ",
+	"path":	"/signin-oidc",
+	"expires_utc":	"13358275514770464",
+	"value":	"N"
+}{
+	"host_key":	".microsoft365.com",
+	"name":	"AKA_A2",
+	"path":	"/",
+	"expires_utc":	"13358278214770604",
+	"value":	"A"
+}{
+	"host_key":	"www.microsoft.com",
+	"name":	"Cascade.AuthSSO",
+	"path":	"/en-us/microsoft-365",
+	"expires_utc":	"13358276410618811",
+	"value":	"1"
+}{
+	"host_key":	".microsoft.com",
+	"name":	"MC1",
+	"path":	"/",
+	"expires_utc":	"13389810613862048",
+	"value":	"GUID=44c2793211c647cbba017d898af12aee&HASH=44c2&LV=202404&V=4&LU=1713801012750"
+}{
+	"host_key":	".microsoft.com",
+	"name":	"MS0",
+	"path":	"/",
+	"expires_utc":	"13358276413862074",
+	"value":	"6a8b24905a334f7c8dddb55d0f8ac301"
+}{
+	"host_key":	".login.live.com",
+	"name":	"MSCC",
+	"path":	"/",
+	"expires_utc":	"13391970619751464",
+	"value":	"212.102.33.40-US"
+}{
+	"host_key":	".microsoft.com",
+	"name":	"MSCC",
+	"path":	"/",
+	"expires_utc":	"13358361015000000",
+	"value":	"NR"
+}{
+	"host_key":	"login.live.com",
+	"name":	"MSFPC",
+	"path":	"/",
+	"expires_utc":	"13389810631544850",
+	"value":	"GUID=44c2793211c647cbba017d898af12aee&HASH=44c2&LV=202404&V=4&LU=1713801012750"
+}{
+	"host_key":	"www.microsoft.com",
+	"name":	"MSFPC",
+	"path":	"/",
+	"expires_utc":	"13389810615116888",
+	"value":	"GUID=44c2793211c647cbba017d898af12aee&HASH=44c2&LV=202404&V=4&LU=1713801012750"
+}{
+	"host_key":	"login.live.com",
+	"name":	"MicrosoftApplicationsTelemetryDeviceId",
+	"path":	"/",
+	"expires_utc":	"13389810625813226",
+	"value":	"87c44400-e124-4c99-958c-a28a7bfb64f2"
+}{
+	"host_key":	"login.live.com",
+	"name":	"ai_session",
+	"path":	"/",
+	"expires_utc":	"13358276425000000",
+	"value":	"5EXNDBboYH0ZVr/INq66as|1713801025816|1713801025816"
+}{
+	"host_key":	"login.microsoftonline.com",
+	"name":	"fpc",
+	"path":	"/",
+	"expires_utc":	"13360866616834833",
+	"value":	"AsHU9sH6MOVLoUXPOP4NEK8"
+}{
+	"host_key":	".microsoft.com",
+	"name":	"MUID",
+	"path":	"/",
+	"expires_utc":	"13391970688519320",
+	"value":	"07933016D37A62703728247FD77A6401"
+}{
+	"host_key":	"www.microsoft.com",
+	"name":	"MicrosoftApplicationsTelemetryDeviceId",
+	"path":	"/",
+	"expires_utc":	"13389810687246666",
+	"value":	"a5dd2478-5b27-4177-b448-acfd0429ff54"
+}{
+	"host_key":	"www.microsoft.com",
+	"name":	"ai_session",
+	"path":	"/",
+	"expires_utc":	"13358276487000000",
+	"value":	"iXYO6DOkUMD2N8+6oQ6SB5|1713801010588|1713801087262"
+}{
+	"host_key":	".netflix.com",
+	"name":	"NetflixId",
+	"path":	"/",
+	"expires_utc":	"13389876481678612",
+	"value":	"v%3D2%26ct%3DBQAOAAEBEMyIGLiqmv1nvwJLCDWkQhCB4IJ0NcncI4xBciNPuhGcpQe1m9tHNDEkekmctLkYriofu9JWgMZ6qy3p86VqHBo4evkWpwbu91rwVODJSkWY7uv1QYUfOB9XR8QwufDCh46jZFlCu7wJnY-qhztpfLtTEVPQdUJpd9anIKC2YCx3OWELTEWpza_9--QEONrTk6y89b-1Lms5gBCWAbjt31VIs9BlMIGzPW9N1omvtyib-7nyYZep2yOcJGRY9QGQFa9YJuYNcOm3cW9C1c8DxX5p-9pViWnrYjnti6Uy6rGTWk91kqQl_CGY0f242-SJ10dk_8ARrsKawQRgkSbPyu7xriYEid5xJUzoPcLEjGPP1rVMrCJ_Nt1iKf6cgn-vV5-6HTDOEG6P_oLSdsn8t9wPWmbDp-mpmc1DUNdm9qdLO2-ibmQx3CW6iTbyvCaW2UA1yw80XyB_5xwxCyQFRWIsFliBijTSeSV3bcuXGdSYY4mHz-lL4nA9VP8gy-DqvOgcrzzl9d5Plv1ACEk4JklsDcSD3h_DrWkgvEdNSiOPSTuNaN8FB75yAvM7jkGVgogocdYNcoUzHVEtu_82yHsELUh0Sx0OEVdCvtIz8zPvYi2U_a1_A_oc5_BiTDSxLfB4fXi97jBt9OEjCnl86soj_Q..%26bt%3Ddbl%26ch%3DAQEAEAABABSIGiiCnGWoxkMakniCPZ-MGBh8y_3MPhA.%26mac%3DAQEAEAABABT4Li4lkKmEri__F3m1jN03VeHY2rL76Pw."
+}{
+	"host_key":	".netflix.com",
+	"name":	"OptanonConsent",
+	"path":	"/",
+	"expires_utc":	"13389876487000000",
+	"value":	"isGpcEnabled=0&datestamp=Tue+Apr+23+2024+17%3A08%3A07+GMT%2B0700+(Indochina+Time)&version=202402.1.0&isIABGlobal=false&hosts=&consentId=11d4cb43-475a-40f1-a0b6-cce2649b65da&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1"
+}{
+	"host_key":	".netflix.com",
+	"name":	"SecureNetflixId",
+	"path":	"/",
+	"expires_utc":	"13389876481678544",
+	"value":	"v%3D2%26mac%3DAQEAEQABABRhfxazj36AtQCZpNL2HOgEqBNfDCw2ZJo.%26dt%3D1713866883392"
+}{
+	"host_key":	".netflix.com",
+	"name":	"flwssn",
+	"path":	"/",
+	"expires_utc":	"13358351272733503",
+	"value":	"b9da47b0-a09e-4a3c-8682-12e8d965ed91"
+}{
+	"host_key":	".netflix.com",
+	"name":	"hasSeenCookieDisclosure",
+	"path":	"/",
+	"expires_utc":	"13366116483450035",
+	"value":	"true"
+}{
+	"host_key":	".netflix.com",
+	"name":	"profilesNewSession",
+	"path":	"/",
+	"expires_utc":	"13358342287093495",
+	"value":	"0"
+}{
+	"host_key":	".google.com",
+	"name":	"SNID",
+	"path":	"/verify",
+	"expires_utc":	"13374169440420951",
+	"value":	"AKzhCTZsYBg4AOsaxFKV8yPRqXT79l4ak_q6v158cVGTU3_pUFkSxXpe43jBZh1G1iy5LGgbNMWWO8tAJIGTMd-lgbyxyfdNYA"
+}{
+	"host_key":	".google.com",
+	"name":	"AEC",
+	"path":	"/",
+	"expires_utc":	"13373795311069745",
+	"value":	"AQTF6HwC4davpERr5VqUj5VLDu7Dx1Wbt8idErhp-lPqwaI-7UJqWmFeQA"
+}{
+	"host_key":	".google.com",
+	"name":	"NID",
+	"path":	"/",
+	"expires_utc":	"13374255112069801",
+	"value":	"513=HkFPAOoYoA8CX210XRgmp69k67qQwC30VH0SE8Un-YghjJ4i9X2AFr7p-ZoS7zBQn6KEcXMkL5msjl2wxhYMs5kfDr4IymFq5aMWSwHTvbkNRAGls9zuCywf-RldwdHYJq4j43cOx_WMNRdYEC0LRGk_kXk8yf5VS0cgExxM6NMzWJJviQc-yjPP6knSoM_ikmtbPmhSqo-EIChz"
+}{
+	"host_key":	".google.com",
+	"name":	"1P_JAR",
+	"path":	"/",
+	"expires_utc":	"13361265806422429",
+	"value":	"2024-04-27-06"
+}{
+	"host_key":	".facebook.com",
+	"name":	"c_user",
+	"path":	"/",
+	"expires_utc":	"13390209809365641",
+	"value":	"100009317154386"
+}{
+	"host_key":	".facebook.com",
+	"name":	"fr",
+	"path":	"/",
+	"expires_utc":	"13366449809365764",
+	"value":	"1dSSlvxHqR8N7VNP8.AWUx7Hpo-M_0LLP8vwROlYwE7B0.BmLJ6S..AAA.0.0.BmLJ6S.AWXssJHzsyQ"
+}{
+	"host_key":	".facebook.com",
+	"name":	"wd",
+	"path":	"/",
+	"expires_utc":	"13359278611000000",
+	"value":	"1920x893"
+}{
+	"host_key":	".facebook.com",
+	"name":	"xs",
+	"path":	"/",
+	"expires_utc":	"13390209809365734",
+	"value":	"40%3AXzsi4upNBOH3Jw%3A2%3A1711275583%3A-1%3A6238%3A%3AAcVRB2z9jMzb44cSYfM1k6PJVKaXiqEiFzE7bL-y0Zfi"
+}

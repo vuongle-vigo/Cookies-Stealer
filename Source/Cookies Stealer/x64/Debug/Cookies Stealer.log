@@ -1,0 +1,12 @@
+﻿  ChromeCookies.cpp
+C:\Users\vuong\source\repos\Cookies Stealer\Cookies Stealer\Base64.h(88,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ChromeCookies.cpp')
+  
+C:\Users\vuong\source\repos\Cookies Stealer\Cookies Stealer\Base64.h(99,56): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+  (compiling source file 'ChromeCookies.cpp')
+  
+C:\Users\vuong\source\repos\Cookies Stealer\Cookies Stealer\Base64.h(116,52): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+  (compiling source file 'ChromeCookies.cpp')
+  
+C:\Users\vuong\source\repos\Cookies Stealer\Cookies Stealer\ChromeCookies.cpp(115,23): warning C4018: '<': signed/unsigned mismatch
+  Cookies Stealer.vcxproj -> C:\Users\vuong\source\repos\Cookies Stealer\x64\Debug\Cookies Stealer.exe
